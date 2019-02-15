@@ -1,8 +1,8 @@
 ==================
- Pactos de Equipo
+Pactos de Equipo
 ==================
 
- Introducción
+Introducción
 ==============
 
 Los *pactos de equipo* son una herramienta para el aprendizaje cooperativo que trata de asegurar el buen funcionamiento de los equipos de trabajo. Para ello, se establecen una serie de reglas cuyo cumplimiento debe asegurar ciertos aspectos fundamentales para el correcto desarrollo del trabajo cooperativo, como son la *interdependencia positiva*, la *exigibilidad individual*  *la interacción positiva*.
@@ -22,7 +22,7 @@ Como consecuencia, la* interdependencia positiva* se ve afectada, pues el resto 
 
 Para, en primer lugar, tratar de mitigar estas situaciones, y, en segundo lugar, disponer de un procedimiento claro para resolverlas cuando aparezcan, se introduce un mecanismo, basado en recomendaciones existentes en la literatura [1]_, denominado *pactos de equipo*, el cual se describe en la segunda sección.
 
- Pacto de Equipo
+Pacto de Equipo
 =================
 
 Un *pacto de equipo* es un documento escrito, creado por un equipo de trabajo, donde se definen una serie de *normas básicas para el buen funcionamiento* del equipo de trabajo. Dado que se entiende que el equipo estará formado por personas adultas y maduras, y asumiendo que los equipos autogestionados y autoorganizados suelen ser más eficiente, se deja la responsabilidad de definir dichas normas al propio equipo, el cual las podrá acomodar a sus intereses. Por ejemplo, será el propio equipo el que decidirá cuestiones cómo si deben reunirse con mayor o menor frecuencia, si la presencia de los miembros del equipo es necesaria en cada reunión, o si la asistencia a las reuniones debe ser presencial o, por el contrario, se permite una participación remota.
@@ -38,11 +38,11 @@ Una vez definidas las *normas de buen funcionamiento* y las *clásusulas de expu
 :download:`Plantilla para Pactos de Equipo <src/pactoDeEquipo.docx>`
 
 
- Expulsión de un Estudiante de un Equipo
+Expulsión de un Estudiante de un Equipo
 ==========================================
 
 En caso de que algún miembro de un equipo no cumpla con el mínimo de exigibilidad individual requerida y se den las condiciones pactadas en las cláusulas de expulsión, deberá procederse a la expulsión del mismo. Si se llegase a este caso, se recomienda, por la salud del equipo, ser firme y no titubear a la hora de llevar a cabo dicha expulsión. Cada cual debe aprender a ser responsable de sus actos y a no perjudicar a los demás.
 
 Para expulsar a un miembro de un equipo, el resto de miembros del equipo deberá elaborar y firmar un pequeño escrito en el que se informe el profesor responsable de la asignatura de que, en virtud de una determinada cláusula, y dándose las condiciones en ella recogidas, se procede a la expulsión de dicho miembro. Asumiendo que somos personas maduras, responsables y nobles, el profesor concederá total veracidad a dicho escrito y no entrará a indagar las causas o circunstancias que han llevado a tal situación, por lo que el citado miembro quedará automáticamente expulsado del equipo. Desde ese momento, el alumno se regirá por un procedimiento de evaluación alternativo la ordinario que le permita recuperar, si así lo desea, la actividad de la que ha sido expulsado.
 
-.. [1] B. Oakley, R.M. Felder, R. Brent and I. Elhajj, *“Turning Student Groups into Effective Teams”*. Journal of Student Centered Learning 2(1), 2004. 
+.. [1] B. Oakley, R.M. Felder, R. Brent and I. Elhajj, *“Turning Student Groups into Effective Teams”*. Journal of Student Centered Learning 2(1), 2004.
