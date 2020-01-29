@@ -8,4 +8,5 @@ Esta página contiene algunos de los materiales utilizados para impartir la asig
    :maxdepth: 2
    :caption: Índice:
 
+   casosEstudio/index.rst
    transversales/index.rst
