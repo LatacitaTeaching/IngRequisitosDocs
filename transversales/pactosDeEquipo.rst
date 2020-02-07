@@ -36,7 +36,8 @@ Por ejemplo, supongamos que el equipo de trabajo establece como norma de buen fu
 Una vez definidas las *normas de buen funcionamiento* y las *clásusulas de expulsión*, el equipo deberá poner dicho pacto de equipo por escrito, utilizando para ello la plantilla que se proporciona bajo este párrafo. Finalmente, cada miembro del equipo firmará el pacto para manifestar su conformidad con el mismo y ratificarlo. Se aconseja crear una copia del pacto por cada miembro del equipo, más una adicional que se entregará al profesor, y firmar todas las copias. Se proporciona también un ejemplo de pacto de equipo conforme a dicha plantilla.
 
 :download:`Plantilla para Pactos de Equipo <src/pactoDeEquipo.docx>`
-:download:`Ejemplo de Pactos de Equipo <src/ejemploPactoEquipo.pdf>`
+
+:download:`Ejemplo de Pactos de Equipo <src/ejemploPactoDeEquipo.pdf>`
 
 Expulsión de un Estudiante de un Equipo
 ==========================================
