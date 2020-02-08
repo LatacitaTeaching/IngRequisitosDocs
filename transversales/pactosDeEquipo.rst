@@ -37,7 +37,7 @@ Una vez definidas las *normas de buen funcionamiento* y las *clásusulas de expu
 
 :download:`Plantilla para Pactos de Equipo <src/pactoDeEquipo.docx>`
 
-:download:`Ejemplo de Pactos de Equipo <src/ejemploPactoDeEquipo.pdf>`
+:download:`Ejemplo de Pacto de Equipo <src/ejemploPactoDeEquipo.pdf>`
 
 Expulsión de un Estudiante de un Equipo
 ==========================================
