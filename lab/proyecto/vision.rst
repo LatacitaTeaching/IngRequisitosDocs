@@ -35,9 +35,11 @@ Para definir la visión de cada proyecto software, cada grupo deberá:
   #. Elaborar las correspondientes actas de sesiónque permitan en un futuro reconstruir las actividades realizadas.
   #. Recoger los resultados obtenidos dentro del documento *Statement of Work*, cuya plantilla se proporciona al final de esta sección. Dentro de dicha plantilla, se deberán definir las secciones de *Visión del Proyecto* y *Pruebas de Aceptación*, quedando el resto de secciones en blanco. En la primera sección se debe plasmar de forma clara, precisa y concisa, cuál es la visión del proyecto. Además, se deberá justificar de forma razonada la viabilidad económica del proyecto.
 
-::download: `src/StatementOfWork.docx`
+:download:`Plantilla para la Definición de la Visión <src/vision/StatementOfWork.docx>`
 
-Criterios de Evaluación y Aclaraciones
+:download:`Ejemplo de Visión para Tallercan <src/vision/tallercanVision.pdf>`
+
+Elementos a Entregar y Aclaraciones
 =======================================
 
 Se deberán entregar para su evaluación los siguientes elementos:
@@ -46,13 +48,31 @@ Se deberán entregar para su evaluación los siguientes elementos:
   #. Las actas de las actividades realizadas.
   #. El documento *Statement of Work* con la visión del proyecto.
 
-Los dos primeros ítems se utilizarán para evaluar el apartado de *planificación de actividades y elaboración de actas* del conjunto de elementos evaluables de la asignatura. La calificación obtenida en este apartado para esta primera práctica se actualizará en futuras actividades mediante la entrega de nuevas planificaciones de actividades y la elaboración de sus correspondientes actas.
-
 Todos estos documentos se entregarán en un archivo comprimido a través de la plataforma Moodle, siguiendo las instrucciones en ella proporcionadas y dentro de las fechas establecidas. Tanto las entregas fuera de las fechas establecidas como las entregas fuera de formato tendrán una calificación directa de cero.
+
+Los dos primeros ítems se utilizarán para evaluar el apartado de *planificación de actividades y elaboración de actas* del conjunto de elementos evaluables de la asignatura. La calificación obtenida en este apartado para esta primera práctica se actualizará en futuras actividades mediante la entrega de nuevas planificaciones de actividades y la elaboración de sus correspondientes actas.
 
 Para la evaluación de cada uno de estos ítems se hará uso de las rúbricas que se proporcionan en la siguiente sección.
 
-Rúbricas
-=========
+ Criterios de Evaluación
+=========================
 
-[Pendiente de ser completado]
+Los criterios de evaluación para la planificación de actividades y la elaboración de actas se proporcionan en las secciones que describen estos elementos transversales.
+
+Para la evaluación de la visión, se analizarán los siguientes elementos:
+
+  #. Definición de la Visión del Sistema (6 puntos).
+  #. Viabilidad Económica (1 punto).
+  #. Pruebas de Aceptación (2 puntos).
+  #. Ortografía, Gramática y Maquetación (1 punto).
+
+Cada apartado, se evaluará conforme a los siguientes criterios. Para *Ortografía, Gramática y Maquetación*, los criterios de evaluación aparecen descritos en la sección de elementos transversales. 
+
+Definición de la Visión del Sistema
+------------------------------------
+
+Viabilidad Económica
+---------------------
+
+Pruebas de Aceptación
+----------------------
