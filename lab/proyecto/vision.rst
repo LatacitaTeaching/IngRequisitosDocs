@@ -54,7 +54,7 @@ Los dos primeros ítems se utilizarán para evaluar el apartado de *planificaci�
 
 Para la evaluación de cada uno de estos ítems se hará uso de las rúbricas que se proporcionan en la siguiente sección.
 
- Criterios de Evaluación
+Criterios de Evaluación
 =========================
 
 Los criterios de evaluación para la planificación de actividades y la elaboración de actas se proporcionan en las secciones que describen estos elementos transversales.
@@ -66,13 +66,43 @@ Para la evaluación de la visión, se analizarán los siguientes elementos:
   #. Pruebas de Aceptación (2 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
-Cada apartado, se evaluará conforme a los siguientes criterios. Para *Ortografía, Gramática y Maquetación*, los criterios de evaluación aparecen descritos en la sección de elementos transversales. 
+Cada apartado, se evaluará conforme a los siguientes criterios. Para *Ortografía, Gramática y Maquetación*, los criterios de evaluación aparecen descritos en la sección de elementos transversales.
 
 Definición de la Visión del Sistema
 ------------------------------------
 
+Para evaluar y calificar la definición de un sistema se atenderá al grado de satisfacción de los elementos abajo descritos.
+
+**Características imprescindibles**
+
+    #. La visión define en un su primera fase el objetivo último del sistema.
+    #. La visión establece claramente qué beneficio obtienen sus usuario mediante la utilización del sistema.
+    #. La visión da una idea general de qué mecanismos concretos se utilizarán para alcanzar los objetivos descritos.
+
+**Características recomendables**
+
+    #. La visión no incluye detalles o formas de realizar el sistema que no sean absolutamente imprescindibles o restrinjan el sistema innecesariamente.
+    #. Todos los elementos mencionados han sido elevados a su máximo nivel de abstracción posible.
+    #. La visión carece de sentencias excesivamente largas, confusas o imprecisas.
+    #. La visión carece de listas cerradas, salvo en los casos en los cuales la intención sea limitar el ámbito del sistema a esa lista concreta.
+
+Para poder obtener una calificación de 5 o más en este apartado es necesario que la definición de la visión satisfaga absolutamente todas las características imprescindibles, así como que satisfaga en gran medida las recomendables.
+
 Viabilidad Económica
 ---------------------
 
+Para evaluar y calificar la viabilidad económica de un sistema se atenderá al grado de satisfacción de los elementos abajo descritos.
+
+  #. Las fuentes de financiación o ingresos están claramente identificadas.
+  #. El mecanismo por el cual dichas fuentes producen los ingresos esperados está justificado de forma clara, precisa y concisa, y no es fácilmente cuestionable.
+
+La satisfacción del primer elemento es absolutamente imprescindible para poder obtener una calificación de 5 en este apartado.
+
 Pruebas de Aceptación
 ----------------------
+
+  #. El criterio de aceptación sirve para medir la utilidad del sistema con respecto al objetivo último de sus usuarios finales.
+  #. El criterio de aceptación está define de forma clara y precisa, de manera que se pueda ejecutar sin ambigüedades ni malinterpretaciones.
+  #. El criterio de aceptación es ejecutable con unos costes razonables.
+
+La satisfacción del primer elemento es absolutamente imprescindible para poder obtener una calificación de 5 en este apartado.
