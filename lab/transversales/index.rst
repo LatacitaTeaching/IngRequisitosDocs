@@ -6,4 +6,4 @@
    :maxdepth: 1
 
    planificacion.rst
-..   actas.rst
+   actas.rst
