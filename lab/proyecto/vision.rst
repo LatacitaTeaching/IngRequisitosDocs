@@ -30,10 +30,10 @@ Actividades
 
 Para definir la visión de cada proyecto software, cada grupo deberá:
 
-  #. Diseñar una o más actividades, las cuales aparecerán recogidas en el *plan para la definición de la visión del proyecto*, cuyo objetivo sea la definición de la visión del sistema. Para ello, cada grupo debe tener en cuenta que su proyecto debe estar relacionado con el tema general escogido, pero no puede ser exactamente igual a dicho tema elegido. Además, dicho plan deberá tener cierta viabilidad económica, la cual debe de estar debidamente justificada.
-  #. Ejecutar dicho plan para definir la visión del proyecto.
-  #. Elaborar las correspondientes actas de sesiónque permitan en un futuro reconstruir las actividades realizadas.
-  #. Recoger los resultados obtenidos dentro del documento *Statement of Work*, cuya plantilla se proporciona al final de esta sección. Dentro de dicha plantilla, se deberán definir las secciones de *Visión del Proyecto* y *Pruebas de Aceptación*, quedando el resto de secciones en blanco. En la primera sección se debe plasmar de forma clara, precisa y concisa, cuál es la visión del proyecto. Además, se deberá justificar de forma razonada la viabilidad económica del proyecto.
+  #. Diseñar una o más dinámicas de grupo, las cuales aparecerán recogidas en el *plan para la definición de la visión del proyecto*, cuyo objetivo sea la definición de la visión del sistema. Para ello, cada grupo debe tener en cuenta que su proyecto debe estar relacionado con el tema general escogido, pero no puede ser exactamente igual al mismo. Además, cada proyecto deberá tener cierta viabilidad económica, la cual debe de estar debidamente justificada.
+  #. Ejecutar las dinámicsa de grupo previamente planificadas para definir la visión del proyecto.
+  #. Elaborar las correspondientes actas de sesión que permitan reconstruir en un futuro  las actividades realizadas.
+  #. Recoger los resultados obtenidos dentro del documento *Statement of Work*, cuya plantilla se proporciona al final de esta sección. Dentro de dicha plantilla, se deberán definir las secciones de *Visión del Proyecto* y *Pruebas de Aceptación*, quedando el resto de secciones en blanco. En la primera sección se debe plasmar de forma clara, precisa y concisa, cuál es la visión del proyecto. Además, se deberá justificar de forma razonada la viabilidad económica del proyecto. Junto a la plantilla, se proporciona un ejemplo basado en el caso de estudio del sistema de gestión de un taller mecánico.
 
 :download:`Plantilla para la Definición de la Visión <src/vision/StatementOfWork.docx>`
 
@@ -66,7 +66,8 @@ Para la evaluación de la visión, se analizarán los siguientes elementos:
   #. Pruebas de Aceptación (2 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
-Cada apartado, se evaluará conforme a los siguientes criterios. Para *Ortografía, Gramática y Maquetación*, los criterios de evaluación aparecen descritos en la sección de elementos transversales.
+La calificación de cada uno de estos apartados será común a todo el grupo.
+Para *Ortografía, Gramática y Maquetación*, los criterios de evaluación aparecen descritos en la sección de elementos transversales. El resto de apartados se evaluará conforme a los criterios descritos a continuación.
 
 Definición de la Visión del Sistema
 ------------------------------------
