@@ -26,7 +26,7 @@ Dentro de las fases del Proceso de Ingeniería de Requisitos a ejecutar en el la
 
 La planificación de cada dinámica de grupo deberá realizarse utilizando la plantilla proporcionada en el siguiente enlace. Como ejemplo de acta puede tomarse la enviada por moodle y relativa a la realización de la actividad para la elección del tema del proyecto.
 
-:download:`Plantilla para la elaboración de Actas <src/actas/plantillActa.docx>`
+:download:`Plantilla para la elaboración de Actas <src/actas/plantillaActa.docx>`
 
 Criterios de Evaluación
 =========================
