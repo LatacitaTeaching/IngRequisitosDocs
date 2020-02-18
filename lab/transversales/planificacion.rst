@@ -46,8 +46,8 @@ Para la evaluación de cada planificación, se analizarán los siguientes elemen
   #. Descripción de las Actividades (6 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
-  La calificación de cada uno de estos apartados será común a todo el grupo.
-  Para *Ortografía, Gramática y Maquetación*, los criterios de evaluación aparecen descritos en la sección de elementos transversales. El resto de apartados se calificará conforme a los criterios de evaluación descritos a continuación.
+La calificación de cada uno de estos apartados será común a todo el grupo.
+Para *Ortografía, Gramática y Maquetación*, los criterios de evaluación aparecen descritos en la sección de elementos transversales. El resto de apartados se calificará conforme a los criterios de evaluación descritos a continuación.
 
 Elección de Actividades
 ------------------------
