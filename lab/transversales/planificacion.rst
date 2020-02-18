@@ -17,10 +17,10 @@ Por tanto, un objetivo transversal a la asignatura de *Ingeniería de Requisitos
 Objetivos
 ==========
 
-  #. Aprender a definir los objetivos y resultados esperados de una dinámica de grupo.
-  #. Aprender a seleccionar dinámicas de grupo en función de los objetivos perseguidos y los resultados a obtener.
-  #. Aprender a planificar dinámicas de grupo.
-  #. Aprender a liderar, coordinar y moderar dinámicas de grupo.
+  #. Saber definir los objetivos y resultados esperados de una dinámica de grupo.
+  #. Ser capaz de seleccionar dinámicas de grupo adecuadas de los objetivos perseguidos y los resultados a obtener.
+  #. Ser capaz de planificar dinámicas de grupo.
+  #. Ser capaz de liderar, coordinar y moderar dinámicas de grupo.
 
 Actividades
 ============
