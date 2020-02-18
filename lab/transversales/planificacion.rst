@@ -31,7 +31,7 @@ Dentro de las fases del Proceso de Ingeniería de Requisitos a ejecutar en el la
   #. Planificar cuidadosamente la ejecución de dicha dinámica de manera previa a su ejecución, de manera que esta se pueda ejecutar de manera fluida y productiva sin imprevistos.
   #. Ejecutar la dinámica y recoger el desarrollo de la misma en el correspondiente acta.
 
-La planificación de cada dinámica de grupo deberá especificarse utilizando la plantilla proporciona en los enlaces proporcionados a continuación. Con objeto de ayudar al alumno en la confección de dicha especificación, se proporciona como ejemplo la planificación de la actividad realizada al comienzo del curso para elegir el tema del proyecto a desarrollar en las sesiones de laboratorio.
+La planificación de cada dinámica de grupo deberá realizarse utilizando la plantilla  proporcionada en los enlaces bajo este párrafo. Con objeto de ayudar al alumno en la confección de dicha especificación, se proporciona además como ejemplo la planificación de la actividad realizada al comienzo del curso para elegir el tema del proyecto a desarrollar en las sesiones de laboratorio.
 
 :download:`Plantilla para la Planificación de Dinámicas de Grupo <src/planificacion/plantillaPlanificacion.docx>`
 
@@ -40,7 +40,7 @@ La planificación de cada dinámica de grupo deberá especificarse utilizando la
 Criterios de Evaluación
 =========================
 
-Para la evaluación de la visión, se analizarán los siguientes elementos, con los pesos adjuntos a ellos:
+Para la evaluación de cada planificación, se analizarán los siguientes elementos, con los pesos adjuntos a ellos:
 
   #. Elección de Actividades (3 puntos).
   #. Descripción de las Actividades (6 puntos).
