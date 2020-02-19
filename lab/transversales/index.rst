@@ -7,3 +7,4 @@
 
    planificacion.rst
    actas.rst
+   ortografia.rst
