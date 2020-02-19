@@ -52,8 +52,20 @@ Además, se evaluará  que cada acta tenga una referencia clara a la actividad a
 Completitud
 ------------
 
+Se valorará que la información proporcionada permita reconstruir el desarrollo de la actividad en lo concerniente a sus detalles de relevancia. Se prestará especial atención a que estén recogidas:
+
+  * las diferentes alternativas planteadas,
+  * las cuestiones que se hayan debatido, incluyendo un resumen de los diferentes puntos de vista planteados,
+  * las razones que llevaron a adoptar una determinada decisión.
+
+En el caso en el cual tras plantear diversos elementos no se generasen debates, se recomienda reflejarlo explícitamente en el acta, incluyendo alguna frase del estilo *"no se plantearon cuestiones con relación a este apartado"*.
+
 Capacidad de Síntesis
 ----------------------
 
+Se valorará que el acta sea lo más breve, a la vez que completa, posible, no teniendo elementos claramente prescindibles que hagan su lectura larga y tediosa de manera innecesaria.
+
 Redacción
 ----------
+
+Se valorará que el acta tenga un nivel de redacción adecuado para un futuro Ingeniero Informático. Se espera que el lenguaje sea preciso, formal y riguroso desde un punto de vista técnico, además de fluido, claro y de fácil lectura. Se recomienda no utilizar frases demasiado largas, utilizando puntos y seguido para dividir aquellas sentencias que puedan considerarse como demasiado farragosas. 
