@@ -59,7 +59,7 @@ Con carácter general, y salvo que se especifique lo contrario, la elección de 
 Descripción de las Actividades
 -------------------------------
 
-Para evaluar y calificar la definición de un sistema se atenderá al grado de satisfacción de los elementos a continuación descritos:
+Para evaluar y calificar este apartado se atenderá al grado de satisfacción de los elementos a continuación descritos:
 
   #. El objetivo y los resultados esperados de la actividad están claramente especificados.
   #. Los datos administrativos proporcionados para la ejecución de la actividad son suficientes para su correcta ejecución y no dejan lugar a dudas razonables. Se recomienda prestar atención a que estén especificados fecha, hora y lugar de la actividad.
