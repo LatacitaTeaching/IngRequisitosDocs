@@ -32,30 +32,29 @@ Actividades
 ============
 
 Para definir el contexto de un sistema sw, cada grupo deberá realizar las siguientes actividades:
-  #. Planificar una serie de actividades cuyo objetivo final sea la definición del contexto del sistema. Para ello,se aconseja considerar cada vista del sistema de manera individual y realizar, al menos, una dinámica de grupo por vista del contexto.
+  #. Planificar una serie de actividades cuyo objetivo final sea la definición del contexto del sistema. Para ello, se aconseja considerar cada vista del sistema de manera individual y realizar, al menos, una dinámica de grupo por cada vista del contexto a definir.
   #. Ejecutar las actividades definidas anteriormente con objeto de definir cada una de las cuatro vistas propuestas para la definición del contexto: dominio, utilización, tecnología y desarrollo.
   #. Documentar los resultados obtenidos utilizando para ello la plantilla proporcionada más abajo.
-  #. Definir
-  En el caso de la vista de dominio, se deberá definir como resultado, de forma adicional, un glosario que pueda ser utilizado de forma independiente durante el desarrollo del proyecto. Se recomienda crear listas dentro/fuera por cada vista de forma que se pueda determinar con facilidad qué elementos pertenecen al sistema, cuáles al contexto y cuáles son simplemente irrelevantes.
+  #. Generar un glosario de términos relacionados con el contexto del sistema.
 
-:download:`Plantilla para la Definición del Conexto de un Sistema Sw <src/contexto/contextoPlantilla.docx>`
+Para definir la *vista de dominio* del sistema se deberá crear algún tipo de diagrama o modelo que recoga las entidades existentes en el contexto del sistema, así como las relaciones y restricciones existentes entre dichas entidades. Para ello aconseja crear un mapa mental, pero representaciones alternativas como un diagrama entidad-relación o una ontología también serían aceptables. La vista de dominio debe recoger, además, las normativas, regulaciones y leyes que puedan tener algún tipo de relación con las entidades identificadas. Finalmente, para completar la vista de dominio, se deberán crear listas dentro/fuera que determinen qué elementos se estima que pertenecerán al sistema, cuáles al contexto, cuáles son simplemente irrelevantes y cuáles están en las fronteras entre sistema y contexto o entre contexto y la irrelevancia.
 
-:download:`Ejemplo de Definición del Contexto un Sistema Sw <src/contexto/ejemploContexto.pdf>`
+Para definir la *vista de utilización* se deberá, en primer lugar, identificar tantos actores existentes en el contexto del sistema como sea posible. A continuación, se deberá priorizar y ordenar los actores identificados según su relevancia o importancia con respecto al sistema a desarrollar. Dicha lista de actores, ordenada de mayor a menor relevancia, debe incluirse en el documento que defina el contexto del sistema. A continuación, se especificarán sólo los perfiles de los actores de mayor relevancia. Se especificarán tantos perfiles de actores como miembros tenga cada grupo, de manera que exista una especificación del perfil de un actor por alumno. La especificación del perfil de cada actor se realizará de manera individual por un único alumno.
+
+Para definir la *vista de tecnología* se deberá identificar la infraestructura tecnológica, si la hubiere, del entorno donde se desplegará el sistema. Dicha infraestructura deberá describirme por medio del algún diagrama o modelo, como por ejemplo, un diagrama de despliegue o un esquema de topología de red. Dicho diagrama deberá contener todos los detalles del contexto que se consideren relevantes para el sistema y puede complementarse con todo el texto escrito que se considere necesario.
+
+Para definir la *vista de desarrollo* se describirá mediante texto simple todas aquellos elementos y cuestiones existente en el contexto del sistema que se considere que puedan tener influencia en las métodos de trabajo, técnicas y herramientas utilizados para el desarrollo del sistema.
+
+Para la elaboración del glosario deberán incluirse en el mismo dos definiciones por alumno.
+
+Para elaborar el contexto del sistema sw se proporciona:
+
+  #. :download:`La plantilla para la definición del contexto <src/contexto/plantillaContexto.docx>`
+  #. :download:`La plantilla para la definición del glosario <src/contexto/plantillaGlosario.docx>`
+  #. :download:`Ejemplo de Definición del Contexto un Sistema Sw <src/contexto/ejemploContexto.pdf>`
 
 Elementos a Entregar y Aclaraciones
 =======================================
-
-Se deberán entregar para su evaluación los siguientes elementos:
-
-  #. El plan para la definición de la visión del proyecto.
-  #. Las actas de las actividades realizadas.
-  #. El documento *Statement of Work* con la visión del proyecto.
-
-Todos estos documentos se entregarán en un archivo comprimido a través de la plataforma Moodle, siguiendo las instrucciones en ella proporcionadas y dentro de las fechas establecidas. Tanto las entregas fuera de las fechas establecidas como las entregas fuera de formato tendrán una calificación directa de cero.
-
-Los dos primeros ítems se utilizarán para evaluar el apartado de *planificación de actividades y elaboración de actas* del conjunto de elementos evaluables de la asignatura. La calificación obtenida en este apartado para esta primera práctica se actualizará en futuras actividades mediante la entrega de nuevas planificaciones de actividades y la elaboración de sus correspondientes actas.
-
-Para la evaluación de cada uno de estos ítems se hará uso de las rúbricas que se proporcionan en la siguiente sección.
 
 Criterios de Evaluación
 =========================
