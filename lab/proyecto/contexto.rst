@@ -56,56 +56,37 @@ Para elaborar el contexto del sistema sw se proporciona:
 Elementos a Entregar y Aclaraciones
 =======================================
 
+Se deberán entregar para su evaluación los siguientes elementos:
+
+  #. El plan con las actividades a desarrollar para la definición del contexto del sistema.
+  #. Las actas de las dinámicas de grupo realizadas.
+  #. El documento con la definición del contexto del sistema.
+  #. El glosario con la definición de los términos del contexto del sistema.
+
+Estos documentos se entregarán a través de la plataforma Moodle, siguiendo las instrucciones en ella proporcionadas y dentro de las fechas establecidas. La entrega de dichos documentos fuera de dichas fechas o un formato diferente al solicitado supondrá una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
+
 Criterios de Evaluación
 =========================
 
-Los criterios de evaluación para la planificación de actividades y la elaboración de actas se proporcionan en las secciones que describen estos elementos transversales.
+Los criterios de evaluación para la planificación de actividades y la elaboración de actas se proporcionan en las secciones que describen estos elementos transversales. La calificación de dichos elementos computará en su correspondiente apartado.
 
-Para la evaluación de la visión, se analizarán los siguientes elementos:
+La calificación de la fase de definición del contexto del sistema vendrá determinida por la calificación de los siguientes apartados;
 
-  #. Definición de la Visión del Sistema (6 puntos).
-  #. Viabilidad Económica (1 punto).
-  #. Pruebas de Aceptación (2 puntos).
-  #. Ortografía, Gramática y Maquetación (1 punto).
+  #. Definición del Contexto del Sistema Sw (9 puntos).
+  #. Glosario de Términos del Contexto del Sistema Sw (1 punto).
 
-La calificación de cada uno de estos apartados será común a todo el grupo.
-Para *Ortografía, Gramática y Maquetación*, los criterios de evaluación aparecen descritos en la sección de elementos transversales. El resto de apartados se evaluará conforme a los criterios descritos a continuación.
+Cada uno de estos apartados se calificará mediante el procedimiento y los criterios descritos a continuación.
 
-Definición de la Visión del Sistema
-------------------------------------
+Definición del Contexto del Sistema Sw
+----------------------------------------
 
-Para evaluar y calificar la definición de un sistema se atenderá al grado de satisfacción de los elementos abajo descritos.
+La calificación de la *Definición del Contexto del Sistema Sw* vendrá determinada por la calificación de los siguientes apartados:
 
-**Características imprescindibles**
-
-    #. La visión define en un su primera fase el objetivo último del sistema.
-    #. La visión establece claramente qué beneficio obtienen sus usuario mediante la utilización del sistema.
-    #. La visión da una idea general de qué mecanismos concretos se utilizarán para alcanzar los objetivos descritos.
-
-**Características recomendables**
-
-    #. La visión no incluye detalles o formas de realizar el sistema que no sean absolutamente imprescindibles o restrinjan el sistema innecesariamente.
-    #. Todos los elementos mencionados han sido elevados a su máximo nivel de abstracción posible.
-    #. La visión carece de sentencias excesivamente largas, confusas o imprecisas.
-    #. La visión carece de listas cerradas, salvo en los casos en los cuales la intención sea limitar el ámbito del sistema a esa lista concreta.
-
-Para poder obtener una calificación de 5 o más en este apartado es necesario que la definición de la visión satisfaga absolutamente todas las características imprescindibles, así como que satisfaga en gran medida las recomendables.
-
-Viabilidad Económica
----------------------
-
-Para evaluar y calificar la viabilidad económica de un sistema se atenderá al grado de satisfacción de los elementos abajo descritos.
-
-  #. Las fuentes de financiación o ingresos están claramente identificadas.
-  #. El mecanismo por el cual dichas fuentes producen los ingresos esperados está justificado de forma clara, precisa y concisa, y no es fácilmente cuestionable.
-
-La satisfacción del primer elemento es absolutamente imprescindible para poder obtener una calificación de 5 en este apartado.
-
-Pruebas de Aceptación
-----------------------
-
-  #. El criterio de aceptación sirve para medir la utilidad del sistema con respecto al objetivo último de sus usuarios finales.
-  #. El criterio de aceptación está define de forma clara y precisa, de manera que se pueda ejecutar sin ambigüedades ni malinterpretaciones.
-  #. El criterio de aceptación es ejecutable con unos costes razonables.
-
-La satisfacción del primer elemento es absolutamente imprescindible para poder obtener una calificación de 5 en este apartado.
+  #. Vista de Dominio – Objetos (2.5 puntos).
+  #. Vista de Dominio – Listas/Dentro Fuera (1 punto).
+  #. Vista de Dominio – Leyes y Normativas (1 punto).
+  #. Vista de Utilización - Identificación de Actores (1.0 puntos).
+  #. Vista de Utilización - Descripción de Actores (1.0 puntos).
+  #. Vista de Tecnología (1 punto).
+  #. Vista de Desarrollo (1 punto).
+  #. Ortografía, Formato y Maquetación (1 punto).
