@@ -111,3 +111,45 @@ Para evaluar la elaboración de listas dentro/fuera, se analizará el grado de c
   #. Las reglas para excluir elementos del dominio de las lista dentro/fuera son claras.
   #. Todos los objetos identificados como pertenecientes al dominio del sistema o están considerados dentro de una lista dentro/fuera, o están excluidos de las mismas como conscuencia de aplicación de alguna regla claramente definida.
   #. La pertenencia de un objeto al sistema, al contexto o a la parte externa al contexto, así como a cualquiera de las zonas grises, no es claramente rebatible.
+
+Vista de Dominio – Leyes y Normativas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Para evaluar la identificación de leyes y normativas existentes dentro del dominio de un sistema, se verificará que estén recogidas todas las leyes y normativas cuya relación con el contexto del sistema sea obvia. Además, se valorará que se haya aclarado de algún modo la relación o influencia de cada ley o norma con el sistema a desarrollar.
+
+Vista de Utilización - Identificación de Actores
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Al igual que en el apartado anterior, para evaluar la identificación de actores existentes en el dominio de un sistema, se verificará que estén recogidos como actores todas aquellas personas y agentes con una clara relación con el contexto del sistema. Además, se valorará que cada persona o agente identificado como actor relacionado con el contexto del sistema realmente lo sea. Por ejemplo, los programadores de un sistema, en su rol de programadores, casi nunca son actores del sistema que programan.
+
+Vista de Utilización - Descripción de Actores
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Para evaluar la descripción de los actores, se valorará el grado de satifacción de los siguientes elementos:
+
+  #. El nombre de cada actor es significativo con respecto al rol que representa.
+  #. Si dentro de un tipo de rol existiesen varios subroles, y cada subrol puede tener un modo de utilización diferente de nuestro sistema, dicho rol se encuentra dividido en cada uno de sus subroles.
+  #. La identificación de cada actor como primario, secundario o terciario es correcta.
+  #. En el caso de los actores que no sean últimos, se indica claramente quién actuaría como actor último.
+  #. La descripción de las habilidades informáticas refleja las habilidades actuales del actor con respecto a la manipulación de sistemas informáticos y dispositivos electrónicos.
+  #. La descripción de las habilidades informáticas no contienen suposiciones fácilmente discutibles o rebatibles.
+  #. Las habilidades informáticas describen claramente los sistemas actualmente existentes en el entorno del actor y con los cuales dicho actor interacciona.
+  #. Los objetivos de cada actor son suficientemente amplios, no existiendo limitaciones al sistema innecesarias.
+  #. Los objetivos de cada actor no contienen funcionalidades simples que representen operaciones concretas, de escasa importancia, sobre el .
+  #. Los modos de acceso describen como interacciona el actor habitualmente con sistemas similares al nuestro, o como se esperaría que interactúe, de acuerdo con sus rutinas y modo de vida actuales.
+  #. La descripción de la frecuencia indica con qué frecuencia y en qué días y horas realizaría el actor interacciones con nuestro sistema, de acuerdo con sus rutinas y modo de vida actuales.
+  #. La descripción de la frecuencia indica cuántos usuarios podrían realizar operaciones de manera concurrente con nuestro sistema, de acuerdo con sus rutinas y modo de vida actuales, destacando casos medio y peor.
+  #. La descripción de la frencencia no contiene suposiciones claramente discutibles o rebatibles.
+  #. Los ejemplos de actores proporcionados son significativos con respecto al rol que representan.
+  #. En el caso de grupos de actores amplios, como ejemplos de actor no se utilizan ejemplos individuales, sino formas de acceder a un conjunto significativo de dicho tipo de actor. Por ejemplo, si el actor es *estudiante de Bellas Artes*, debería proporcionarse algún modo de acceder, por ejemplo, a un curso completo de estudiantes de Bellas Artes.
+  #. Los ejemplos de actores no son inventados.
+
+Vista de Tecnología
+^^^^^^^^^^^^^^^^^^^^
+
+Para evaluar la vista de tecnología, se verificará que estén correctamente identificados todos aquellos elementos relacionados con cuestiones de infraestructura que se encuentren presentes en el contexto del sistema. Además, se valorará que las relaciones entre elementos identificados sea correcta y que la descripción de cada elemento sea lo suficientemente completa.
+
+Vista de Desarrollo
+^^^^^^^^^^^^^^^^^^^^
+
+Para evaluar la vista de desarrollo, se verificará que estén correctamente identificados todos aquellos elementos que se encuentren presentes en el contexto del sistema que podrían afectar a los procesos de trabajo a seguir durante el desarrollo del sistema que pretendemos crear. Además, se valorará que las relaciones entre elementos identificados sea correcta y que la descripción de cada elemento sea lo suficientemente completa.
