@@ -80,7 +80,7 @@ Cada uno de estos apartados se calificará mediante el procedimiento y los crite
 Definición del Contexto del Sistema Sw
 ----------------------------------------
 
-La calificación de la *Definición del Contexto del Sistema Sw* vendrá determinada por la calificación de los siguientes apartados:
+La calificación de la *Definición del Contexto del Sistema Sw* vendrá determinada por la calificación de los siguientes elementos:
 
   #. Vista de Dominio – Objetos (2.5 puntos).
   #. Vista de Dominio – Listas/Dentro Fuera (1 punto).
@@ -90,3 +90,24 @@ La calificación de la *Definición del Contexto del Sistema Sw* vendrá determi
   #. Vista de Tecnología (1 punto).
   #. Vista de Desarrollo (1 punto).
   #. Ortografía, Formato y Maquetación (1 punto).
+
+La calificación de cada uno de estos ítems será común a todo el grupo, a excepeción del apartado de la *Vista de Utilización - Descripción de Actores*, que será individual para cada alumno. *Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. El resto de elementos se evaluará conforme a los criterios descritos a continuación.
+
+Vista de Dominio – Objetos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Para evaluar la identificación de objetos pertenecientes a la vista de dominio del contexto de un sistema, se analizará el grado de cumplimiento de los siguientes elementos:
+
+  #. El tipo de modelo elegido para representar los elementos del dominio del sistema permita visualizar dichos elementos de forma clara y fácilmente entendible.
+  #. La vista recoge todos aquellos elementos cuya pertenencia al contexto del sistema es obvia.
+  #. Las relaciones entre elementos del sistema que se hayan especificado son correctas.
+  #. El modelo de la vista del dominio es fácilmente legible, está limpio y ordenado.
+
+Vista de Dominio – Listas/Dentro Fuera
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Para evaluar la elaboración de listas dentro/fuera, se analizará el grado de cumplimiento de los siguientes elementos:
+
+  #. Las reglas para excluir elementos del dominio de las lista dentro/fuera son claras.
+  #. Todos los objetos identificados como pertenecientes al dominio del sistema o están considerados dentro de una lista dentro/fuera, o están excluidos de las mismas como conscuencia de aplicación de alguna regla claramente definida.
+  #. La pertenencia de un objeto al sistema, al contexto o a la parte externa al contexto, así como a cualquiera de las zonas grises, no es claramente rebatible.
