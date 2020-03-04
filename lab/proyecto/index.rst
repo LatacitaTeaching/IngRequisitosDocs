@@ -7,7 +7,7 @@
 
    vision.rst
    contexto.rst
-..   proyecto/fuentes.rst
+   proyecto/fuentes.rst
 ..   proyecto/procesoCaptura.rst
 ..   proyecto/entrevista.rst
 ..   proyecto/objetivos.rst
