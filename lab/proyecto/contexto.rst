@@ -61,7 +61,7 @@ Se deberán entregar para su evaluación los siguientes elementos:
   #. El plan con las actividades a desarrollar para la definición del contexto del sistema.
   #. Las actas de las dinámicas de grupo realizadas.
   #. El documento con la definición del contexto del sistema.
-  #. El glosario con la definición de los términos del contexto del sistema.
+  #. El glosario con la definición de los términos del contexto del sistema, el cual deberá contener al menos la definición de un término por cada alumno del grupo.
 
 Estos documentos se entregarán a través de la plataforma Moodle, siguiendo las instrucciones en ella proporcionadas y dentro de las fechas establecidas. La entrega de dichos documentos fuera de dichas fechas o un formato diferente al solicitado supondrá una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
 
@@ -91,7 +91,7 @@ La calificación de la *Definición del Contexto del Sistema Sw* vendrá determi
   #. Vista de Desarrollo (1 punto).
   #. Ortografía, Formato y Maquetación (1 punto).
 
-La calificación de cada uno de estos ítems será común a todo el grupo, a excepeción del apartado de la *Vista de Utilización - Descripción de Actores*, que será individual para cada alumno. *Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. El resto de elementos se evaluará conforme a los criterios descritos a continuación.
+La calificación de cada uno de estos ítems será común a todo el grupo, a excepción del apartado de la *Vista de Utilización - Descripción de Actores*, que será individual para cada alumno. *Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. El resto de elementos se evaluará conforme a los criterios descritos a continuación.
 
 Vista de Dominio – Objetos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -153,3 +153,8 @@ Vista de Desarrollo
 ^^^^^^^^^^^^^^^^^^^^
 
 Para evaluar la vista de desarrollo, se verificará que estén correctamente identificados todos aquellos elementos que se encuentren presentes en el contexto del sistema que podrían afectar a los procesos de trabajo a seguir durante el desarrollo del sistema que pretendemos crear. Además, se valorará que las relaciones entre elementos identificados sea correcta y que la descripción de cada elemento sea lo suficientemente completa.
+
+Glosario de Términos del Contexto del Sistema Sw
+--------------------------------------------------
+
+La calificación de este ítem será común al grupo, salvo que el grupo opte por solicitar una evaluación indiviual. Se valorará principalmente que la definición de cada término sea correcta, precisa y concisa. Además, se valorarán los elementos habituales de presentación, como la ortografía, la gramática o el formato. 
