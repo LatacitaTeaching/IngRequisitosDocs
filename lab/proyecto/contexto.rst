@@ -89,7 +89,7 @@ La calificación de la *Definición del Contexto del Sistema Sw* vendrá determi
   #. Vista de Utilización - Descripción de Actores (1.0 puntos).
   #. Vista de Tecnología (1 punto).
   #. Vista de Desarrollo (1 punto).
-  #. Ortografía, Formato y Maquetación (1 punto).
+  #. Ortografía, Gramática y Maquetación (1 punto).
 
 La calificación de cada uno de estos ítems será común a todo el grupo, a excepción del apartado de la *Vista de Utilización - Descripción de Actores*, que será individual para cada alumno. *Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. El resto de elementos se evaluará conforme a los criterios descritos a continuación.
 
@@ -157,4 +157,11 @@ Para evaluar la vista de desarrollo, se verificará que estén correctamente ide
 Glosario de Términos del Contexto del Sistema Sw
 --------------------------------------------------
 
-La calificación de este ítem será común al grupo, salvo que el grupo opte por solicitar una evaluación indiviual. Se valorará principalmente que la definición de cada término sea correcta, precisa y concisa. Además, se valorarán los elementos habituales de presentación, como la ortografía, la gramática o el formato. 
+La calificación del *Glosario de Términos del Contexto del Sistema Sw* vendrá determinada por la calificación de los siguientes elementos:
+
+  #. Definición de Términos (9 puntos).
+  #. Ortografía, Gramática y Maquetación (1 punto).
+
+*Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. Para calificar la definición de los términos se valorará que dichas definiciones sean correctas, precisas y concisas. 
+
+La calificación de este ítem será común al grupo, salvo que el grupo opte por solicitar una evaluación individual.
