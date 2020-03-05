@@ -70,7 +70,7 @@ Criterios de Evaluación
 
 Los criterios de evaluación para la planificación de actividades y la elaboración de actas se proporcionan en las secciones que describen estos elementos transversales. La calificación de dichos elementos computará en su correspondiente apartado.
 
-La calificación de la fase de definición del contexto del sistema vendrá determinida por la calificación de los siguientes apartados;
+La calificación de la fase de definición del contexto del sistema vendrá determinida por la calificación de los siguientes apartados:
 
   #. Definición del Contexto del Sistema Sw (9 puntos).
   #. Glosario de Términos del Contexto del Sistema Sw (1 punto).
