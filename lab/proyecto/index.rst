@@ -6,8 +6,8 @@
    :maxdepth: 1
 
    vision.rst
-..   proyecto/contexto.rst
-..   proyecto/fuentes.rst
+   contexto.rst
+   fuentes.rst
 ..   proyecto/procesoCaptura.rst
 ..   proyecto/entrevista.rst
 ..   proyecto/objetivos.rst

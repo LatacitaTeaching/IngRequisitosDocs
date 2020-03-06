@@ -52,7 +52,7 @@ Todos estos documentos se entregarán en un archivo comprimido a través de la p
 
 Los dos primeros ítems se utilizarán para evaluar el apartado de *planificación de actividades y elaboración de actas* del conjunto de elementos evaluables de la asignatura. La calificación obtenida en este apartado para esta primera práctica se actualizará en futuras actividades mediante la entrega de nuevas planificaciones de actividades y la elaboración de sus correspondientes actas.
 
-Para la evaluación de cada uno de estos ítems se hará uso de las rúbricas que se proporcionan en la siguiente sección.
+Para la evaluación de cada uno de estos ítems se hará uso de los criterios de evaluación que se proporcionan a continuación.
 
 Criterios de Evaluación
 =========================
