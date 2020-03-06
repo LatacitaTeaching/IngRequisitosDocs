@@ -36,7 +36,7 @@ Para identificar y especificar las fuentes que se utilizarán para la captura re
 Para elaborar el contexto del sistema sw se proporciona:
 
   #. :download:`La plantilla para la definición de la fuentes de requisitos <src/fuentes/plantillaFuentes.docx>`
-  #. :download:`Ejemplo de Especificación de Fuentes de Requisitos <src/fuentes/ejemploFuentes.pdf>`
+  #. :download:`Un ejemplo de especificación de fuentes de requisitos <src/fuentes/ejemploFuentes.pdf>`
 
 Elementos a Entregar y Aclaraciones
 =======================================
