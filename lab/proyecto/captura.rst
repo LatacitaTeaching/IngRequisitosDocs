@@ -54,15 +54,51 @@ La calificación de la fase de definición de las actividades que conformarán e
   #. Secuenciación de las Actividades (1 punto).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
+Los apartados de *Elección de Actividades*, *Secuenciación de las Actividades* y *Ortografía, Gramática y Maquetación* tendrán una calificación común a todo el grupo, mientras que la calificación de *Descripción de las Actividades* será individual.
+
+*Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. El resto de elementos se evaluará conforme a los criterios descritos a continuación.
 
 Elección de Actividades
 ------------------------
 
+Para evaluar este apartado se verificará que todas las actividades elegidas sean adecuadas para el tipo de fuente e información a obtener; y, además, que posean un coste razonable para los resultados esperados.
+
+Para poder obtener una calificación de aprobado en este apartado, más de la mitad de las actividades elegidas deben ser correctas. Además, para las actividades que fuesen incorrectas, no deben haberse cometidos fallos graves consecuencia de la existencia de errores conceptuales importantes.
+
 Descripción de las Actividades
 -------------------------------
+
+Para calificar la descripción de las actividades, se verificará el grado de satisfacción de los siguientes elementos:
+
+  #. Cada actividad tiene un identificador asignado.
+  #. La estrategia a seguir en cada actividad está claramente definida.
+  #. Los participantes son adecuados y contribuyen a la consecución del objetivo de la actividad, y, a este respecto, su elección de participantes no es fácilmente rebatible.
+  #. El objetivo de la actividad especifica claramente el propósito concreto de la actividad, incluyendo una breve descripción de por qué se sigue exactamente la estrategia seleccionada.
+  #. La información a obtener indica claramente los artefactos que se generarán tras ejecutar la actividad, así como la forma concreta que tendrán esos artefactos.
+  #. La duración es realista y adecuada, e indica el tiempo total de ejecución de la actividad. En el caso de los cuestionarios, dicho tiempo reflejará tanto el tiempo de ejecución de un cuestionario individual, como el de realización de todos los cuestionarios.
+  #. El lugar donde realizar la actividad es adecuado y su elección no es fácilmente rebatible. En el caso de cuestionarios *online*, el lugar será la web o sistema web donde se aloje el cuestionario.
+  #. Los recursos asociados a la actividad no son fácilmente rebatible, no conteniendo carencias obvias ni excesos evidentes.
+  #. El coste de los recursos es realista, no pecando de excesos ni defectos claros. En este sentido, hay que tener en cuenta, por ejemplo, que para pagar una comida, hay un punto intermedio entre un menú del día de 9.50€ en un bar de estudiantes y un menú degustación de 80€ en un resturantes con estrellas Michelín. A modo de guía, en el Apéndice A, se adjunta una tabla con posibles costes.
+  #. Las horas asignadas a la preparación y procesamiento de la actividad son adecuadas, no pecando de excesivos defectos ni excesos. A este respecto cabe destacar que cuando se trabaja no se trata de hacer carreras de velocidad, sino de mantener un ritmo normal y sostenible de trabajo. Es decir, aunque un diagrama UML pudiese hacerse en algún momento en dos horas, o alguien alguna vez lo hiciese en una hora, su duración debe ser la de hacerlo relajado, sin prisas, pero sin excesiva calma.
+  #. La información proporcionada en los comentarios adicionales es de utilidad y contribuye a enteder mejor la descripción de la actividad.
 
 Secuenciación de las Actividades
 ---------------------------------
 
-Ortografía, Gramática y Maquetación
------------------------------------- 
+  #. Cada actividad descrita está incluida en el calendario.
+  #. La duración de cada actividad es consistente con los tiempos de preparación, ejecución y procesamiento propocionadas en la correspondiente descripción de la actividad.
+  #. Los hitos importantes de cada actividad, como el día de ejecución de una entrevista, están correctamente resaltados en el calendar io.
+  #. Las personas y recursos involucradas en cada actividad están claramente identificados.
+  #. No se producen utilizaciones simultáneas de recursos, ya sean humanos o materiales.
+  #. Se respetan las dependencias entre tareas.
+
+Apéndice A. Tablas de Costes
+================================
+====================== =========
+Concepto                Precio
+====================== =========
+Hora Ingeniero Senior       130€
+Hora Ingeniero Junior        80€
+Dietas Comida / Día          70€
+Dietas Alojamiento          120€
+====================== =========
