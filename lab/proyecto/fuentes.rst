@@ -53,13 +53,15 @@ Criterios de Evaluación
 
 Los criterios de evaluación para la elaboración de actas se proporcionan en las secciones que describen estos elementos transversales. La calificación de dichos elementos computará en su correspondiente apartado.
 
-La calificación de la fase de identificación de fuentes de requisitos vendrá determinida por la ponderación de las calificaciones de los siguientes apartados:
+La calificación del *documento con la especificación de las fuentes de requisitos* vendrá determinida por la ponderación de las calificaciones de los siguientes apartados:
 
   #. Completitud (4 puntos).
   #. Descripción de las Fuentes (5 puntos)
   #. Ortografía, Gramática y Maquetación (1 punto).
 
-Cada uno de estos apartados se calificará mediante el procedimiento y los criterios a continuación proporcionados.
+Los apartados de *Completitud* y *Ortografía, Gramática y Maquetación* tendrán una calificación común a todo el grupo, mientras que la calificación de *Descripción de las Fuentes* será individual.
+
+*Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. El resto de elementos se calificará mediante el procedimiento y los criterios a continuación proporcionados.
 
 Completitud
 ------------
