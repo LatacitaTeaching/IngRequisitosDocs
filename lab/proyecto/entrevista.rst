@@ -32,10 +32,10 @@ Para diseñar y ejecutar una entrevista para la captura de requisitos, el profes
   #. Diseñar una entrevista de manera completa, detallando cómo se ejecutará la misma y produciendo todo el material que fuese necesario para ello. La entrevista debe estar orientada a la extracción de objetivos, de manera que tras la realización de la entrevista cada grupo pueda elaborar un modelo de objetivos para dicho *stakeholder*. Para el diseño de la entrevista, se aconseja seguir la lista de comprobación  proporcionada en el libro Requirements Engineering de Klaus Pohl (*Hint 22-1*, páginas 416-417).
   #. Ejecutar la entrevista, procurando seguir todas las recomendaciones de la lista de comprobación anteriormente citada. Para ejecutar la entrevista, cada grupo deberá solicitar cita con el profesor de la asignatura, el cual interpretará el papel del *stakeholder* que corresponda. En la solicitud de cita, cada grupo puede indicar sus preferencias horarias, y el profesor, en la medida de lo posible, tratará de adaptarse a ellas.
 
-Para elaborar las entrevistas, no es necesario seguir ninguna plantilla prefijada. Como modelos de buenas prácticas, se proporciona una ejemplo de entrevista, realizada de manera brillante por un alumno en cursos anteriores.
+Para elaborar las entrevistas, no es necesario seguir ninguna plantilla prefijada. Como modelos de buenas prácticas, se proporciona un par de ejemplos de entrevistas, realizadas de manera brillante por compañeros vuestros en cursos anteriores.
 
-  #. :download:`Ejemplo de Entrevista <src/actividad/ejemplo00.pdf>`
-  #. :download:`Ejemplo de Entrevista <src/actividad/ejemplo01.pdf>`
+  #. :download:`Ejemplo 1 de Entrevista <src/actividad/ejemplo00.pdf>`
+  #. :download:`Ejemplo 2 de Entrevista <src/actividad/ejemplo01.pdf>`
 
 Elementos a Entregar y Aclaraciones
 ====================================
