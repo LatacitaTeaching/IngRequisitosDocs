@@ -29,11 +29,12 @@ Actividades
 
 Para diseñar y ejecutar una entrevista para la captura de requisitos, el profesor asignará a cada grupo un *stakeholder* concreto a entrevistar. La lista con la asignación de stakeholders a grupos estará disponible en la plataforma *Moodle*. Una vez conocido dicho *stakeholder*, cada grupo deberá realizar las siguientes acciones:
 
-  #. Diseñar una entrevista de manera completa, detallando cómo se ejecutará la misma y produciendo todo el material que fuese necesario para ello. La entrevista debe estar orientada a la extracción de objetivos, de manera que tras la realización de la entrevista cada grupo pueda elaborar un modelo de objetivos para dicho *stakeholder*. Para el diseño de la entrevista, se aconseja seguir la lista de comprobación  proporcionada en el libro Requirements Engineering de Klaus Pohl (Hint 22-1*, páginas 416-417).
+  #. Diseñar una entrevista de manera completa, detallando cómo se ejecutará la misma y produciendo todo el material que fuese necesario para ello. La entrevista debe estar orientada a la extracción de objetivos, de manera que tras la realización de la entrevista cada grupo pueda elaborar un modelo de objetivos para dicho *stakeholder*. Para el diseño de la entrevista, se aconseja seguir la lista de comprobación  proporcionada en el libro Requirements Engineering de Klaus Pohl (*Hint 22-1*, páginas 416-417).
   #. Ejecutar la entrevista, procurando seguir todas las recomendaciones de la lista de comprobación anteriormente citada. Para ejecutar la entrevista, cada grupo deberá solicitar cita con el profesor de la asignatura, el cual interpretará el papel del *stakeholder* que corresponda. En la solicitud de cita, cada grupo puede indicar sus preferencias horarias, y el profesor, en la medida de lo posible, tratará de adaptarse a ellas.
 
 Para elaborar las entrevistas, no es necesario seguir ninguna plantilla prefijada. Como modelos de buenas prácticas, se proporciona una ejemplo de entrevista, realizada de manera brillante por un alumno en cursos anteriores.
 
+  #. :download:`Ejemplo de Entrevista <src/actividad/ejemplo00.pdf>`
   #. :download:`Ejemplo de Entrevista <src/actividad/ejemplo01.pdf>`
 
 Elementos a Entregar y Aclaraciones
