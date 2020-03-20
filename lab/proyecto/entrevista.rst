@@ -34,6 +34,7 @@ Para diseñar y ejecutar una entrevista para la captura de requisitos, el profes
 
 Para elaborar las entrevistas, no es necesario seguir ninguna plantilla prefijada. Como modelos de buenas prácticas, se proporciona una ejemplo de entrevista, realizada de manera brillante por un alumno en cursos anteriores.
 
+  #. :download:`Ejemplo de Entrevista <src/actividad/ejemplo00.pdf>`
   #. :download:`Ejemplo de Entrevista <src/actividad/ejemplo01.pdf>`
 
 Elementos a Entregar y Aclaraciones
