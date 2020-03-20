@@ -9,7 +9,7 @@
    contexto.rst
    fuentes.rst
    captura.rst
-..   proyecto/entrevista.rst
+   entrevista.rst
 ..   proyecto/objetivos.rst
 ..   proyecto/funcionales.rst
 ..   proyecto/seguridad.rst
