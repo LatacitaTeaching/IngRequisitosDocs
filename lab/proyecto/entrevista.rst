@@ -29,7 +29,7 @@ Actividades
 
 Para diseñar y ejecutar una entrevista para la captura de requisitos, el profesor asignará a cada grupo un *stakeholder* concreto a entrevistar. La lista con la asignación de stakeholders a grupos estará disponible en la plataforma *Moodle*. Una vez conocido dicho *stakeholder*, cada grupo deberá realizar las siguientes acciones:
 
-  #. Diseñar una entrevista de manera completa, detallando cómo se ejecutará la misma y produciendo todo el material que fuese necesario para ello. La entrevista debe estar orientada a la extracción de objetivos, de manera que tras la realización de la entrevista cada grupo pueda elaborar un modelo de objetivos para dicho *stakeholder*. Para el diseño de la entrevista, se aconseja seguir la lista de comprobación  proporcionada en el libro Requirements Engineering de Klaus Pohl (*Hint 22-1*, páginas 416-417).
+  #. Diseñar una entrevista de manera completa, detallando cómo se ejecutará la misma y produciendo todo el material que fuese necesario para ello. La entrevista debe estar orientada a la extracción de objetivos, de manera que tras la realización de la entrevista cada grupo pueda elaborar un modelo de objetivos para dicho *stakeholder*. Para el diseño de la entrevista, se aconseja seguir la lista de comprobación  proporcionada en el libro *Requirements Engineering* de Klaus Pohl (*Hint 22-1*, páginas 416-417).
   #. Ejecutar la entrevista, procurando seguir todas las recomendaciones de la lista de comprobación anteriormente citada. Para ejecutar la entrevista, cada grupo deberá solicitar cita con el profesor de la asignatura, el cual interpretará el papel del *stakeholder* que corresponda. En la solicitud de cita, cada grupo puede indicar sus preferencias horarias, y el profesor, en la medida de lo posible, tratará de adaptarse a ellas.
 
 Para elaborar las entrevistas, no es necesario seguir ninguna plantilla prefijada. Como modelos de buenas prácticas, se proporciona un par de ejemplos de entrevistas, realizadas de manera brillante por compañeros vuestros en cursos anteriores.
@@ -59,14 +59,46 @@ Todos los apartados tendrán una calificación común a todo el grupo. *Ortograf
 Diseño de las Preguntas de la Entrevista
 -----------------------------------------
 
-[PENDIENTE DE SER COMPLETADO]
+Para evaluar este apartado se comprobará que no se incumpla ningún item de la lista de comprobación proporcionada en el libro en el libro *Requirements Engineering* de Klaus Pohl (*Hint 22-1*, páginas 416-417). Más concretamente, se verificará que:
+
+  #. El entrevistador comienza la entrevista presentándose y poniendo al entrevistado en contexto.
+  #. La entrevista comienza con una dos preguntas generales de calentamiento, destinadas a romper el hielo y centrar la atención del entrevistado.
+  #. Ninguna pregunta asume conocimiento por parte del entrevistado de elementos que no sean propios de su dominio.
+  #. Todas las preguntas están precedidas de un cierto contexto que ayuda al entrevistado a visualizar la pregunta.
+  #. No existen preguntas dirigidas o preguntas que puedan condicionar la respuesta del entrevistado.
+  #. Al cerrar la entrevista, se repasan las anotaciones y elementos recopilados.
+  #. Al despedirse, se da las gracias al entrevistado por su colaboración, resaltando su importancia.
+
+Además, dado que la finalidad de la entrevista es la creación de un modelo de objetivos, se comproborá que:
+
+  #. Todas las preguntas, a excepción de las de introducción y cierre, están orientadas a la identificación de objetivos.
+  #. No se echan en falta preguntas obvias que podrían ayudar a la identificación de objetivos.
+  #. Las preguntas están ordenadas de mayor a menor nivel de abstracción.
+  #. No existan preguntas claramente suprimibles en tanto en cuenta no ayudan a la identificación de objetivos.
+  #. No existen preguntas redundantes.
+
+Además, con carácter general, se recomienda no realizar preguntas del tipo *¿Qué funcionalidades desea que incluya el sistema?*, ya que ése sería nuestro trabajo como Ingeniero de Requisitos, y no el del entrevistado. En general, se espera que los entrevistados puedan explicar con solvencia elementos de su entorno habitual, pero podrían tener dificultades a la hora de imaginar cómo un sistema software puede ayudarle.
 
 Diseño de Elementos Adicionales para la Entrevista
 ---------------------------------------------------
 
-[PENDIENTE DE SER COMPLETADO]
+Para evaluar este apartado se comprobará que no se incumpla ningún item de la lista de comprobación proporcionada en el libro en el libro *Requirements Engineering* de Klaus Pohl (*Hint 22-1*, páginas 416-417). Más concretamente, se verificará que:
+
+  #. El objetivo de la entrevista esté claramente definido.
+  #. Estén definidos los correosque se van a enviar a los entrevistados, tanto para invitarlas a la entrevista como para recordarles la cita.
+  #. Dentro de ese correo se deje claro al entrevistado el objetivo e importancia de la entrevista.
+  #. Las fechas de envío de cada correo estén claramente identificadas.
 
 Ejecución de la Entrevista
 ---------------------------
 
-[PENDIENTE DE SER COMPLETADO]
+Para evaluar este apartado se comprobará que durante la ejecución de la entrevista:
+
+  #. El entrevistador se presente antes de iniciar la entrevista.
+  #. El entrevistador pida permiso para grabar la entrevista, en el caso de que desee grabarla.
+  #. El entrevistador comience la entrevista explicando el objetivo de la entrevista y situando al entrevistado en el contexto de la misma.
+  #. El entrevistador es capaz de reformular las preguntas cuando el entrevistado requiera que se le clarifiquen.
+  #. El entrevistador no pregunta cuestiones sobre las que el entrevistado ya ha manifestado su desinterés.
+  #. El entrevistador profundiza en aquellas cuestiones sobre las que el entrevistado manifiesta un especial interés o preocupación.
+  #. El entrevistado es capaz de reconducir al entrevistado con educación cuando éste último se desvía del tema de la entrevista.
+  #. El entrevistador se despide formalmente y agradece al entrevistado su colaboración.
