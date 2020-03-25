@@ -39,8 +39,8 @@ Para modelar y especificar los objetivos del sistema a desarrollar cada grupo de
 Para la especificación de objetivos se proporciona:
 
   #. :download:`Una plantilla para la especificación detallada de objetivos <src/objetivos/plantillaObjetivos.docx>`
-  #. :download:`Ejemplo de especificación de objetivos nivel cielo <src/objetivos/plantillaObjetivos.docx>`
-  #. :download:`Una plantilla para la especificación detallada de objetivos <src/objetivos/plantillaObjetivos.docx>`
+  #. :download:`Ejemplo de especificación de objetivos nivel cielo <src/objetivos/ejemploObjetivoCielo.pdf>`
+  #. :download:`Ejemplo de especificación de objetivos nivel cometa - mar <src/objetivos/ejemploObjetivoCometaMar.pdf>`
 
 Elementos a Entregar y Aclaraciones
 =======================================
