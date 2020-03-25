@@ -10,6 +10,6 @@
    fuentes.rst
    captura.rst
    entrevista.rst
-..   proyecto/objetivos.rst
+   objetivos.rst
 ..   proyecto/funcionales.rst
 ..   proyecto/seguridad.rst
