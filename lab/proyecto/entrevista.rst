@@ -85,7 +85,7 @@ Diseño de Elementos Adicionales para la Entrevista
 Para evaluar este apartado se comprobará que no se incumpla ningún item de la lista de comprobación proporcionada en el libro en el libro *Requirements Engineering* de Klaus Pohl (*Hint 22-1*, páginas 416-417). Más concretamente, se verificará que:
 
   #. El objetivo de la entrevista esté claramente definido.
-  #. Estén definidos los correosque se van a enviar a los entrevistados, tanto para invitarlas a la entrevista como para recordarles la cita.
+  #. Estén definidos los correos que se van a enviar a los entrevistados, tanto para invitarlas a la entrevista como para recordarles la cita.
   #. Dentro de ese correo se deje claro al entrevistado el objetivo e importancia de la entrevista.
   #. Las fechas de envío de cada correo estén claramente identificadas.
 
