@@ -81,7 +81,7 @@ Descripción de las Fuentes
 Para calificar la descripción de las fuentes identificadas, se verificará el grado de satisfacción de los siguientes elementos:
 
   #. Cada fuente tiene asignado un identificador.
-  #. El nombre de cada fuente es significativo y represenativo de su propósito.
+  #. El nombre de cada fuente es significativo y representativo de su propósito.
   #. La información a obtener detalla con la mayor precisión posible qué información o requisitos deberán ser extraídos de esa fuente durante las actividades de captura de requisitos que se apliquen a dicha fuente.
   #. La información a obtener es coherente con lo establecido en las tablas de cobertura.
   #. La prioridad no es fácilmente rebatible.
