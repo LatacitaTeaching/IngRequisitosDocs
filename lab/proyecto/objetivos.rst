@@ -39,8 +39,7 @@ Para modelar y especificar los objetivos del sistema a desarrollar cada grupo de
 Para la especificación de objetivos se proporciona:
 
   #. :download:`Una plantilla para la especificación detallada de objetivos <src/objetivos/plantillaObjetivos.docx>`
-  #. :download:`Ejemplo de especificación de objetivos nivel cielo <src/objetivos/ejemploObjetivoCielo.pdf>`
-  #. :download:`Ejemplo de especificación de objetivos nivel cometa - mar <src/objetivos/ejemploObjetivoCometaMar.pdf>`
+  #. :download:`Ejemplos de especificación de objetivos <src/objetivos/ejemploObjetivos.pdf>`
 
 Elementos a Entregar y Aclaraciones
 =======================================
@@ -111,4 +110,4 @@ Para calificar la corrección de las especificaciones de objetivos creadas, se v
   #. Por cada contribución descrita, el peso de dicha contribución está debidamente justificado.
   #. La justificación del peso de cada contribución no es una simple réplica de la descripción asociada a su valor cualitativo. Por ejemplo, para una contribución de tipo *make*, la justificación de que la satisfacción del hijo es suficiente para la satisfacción del padre no sería una justificación aceptable. En este caso, habría que explicar por qué la satisfacción del objetivo, por si sola, es suficiente para alcanzar la satisfacción del padre, no siendo necesaria la satisfacción de ningún otro objetivo hijo.
   #. Toda contribución que aparece en el modelo de objetivos está descrita en el correspondiente apartado de contribuciones, y viceversa.
-  #. Todo objetivo referenciado en la especificación del objetivo está también contenido en el modelo de objetivos. 
+  #. Todo objetivo referenciado en la especificación del objetivo está también contenido en el modelo de objetivos.
