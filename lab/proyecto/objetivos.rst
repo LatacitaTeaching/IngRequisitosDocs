@@ -41,6 +41,10 @@ Para la especificación de objetivos se proporciona:
   #. :download:`Una plantilla para la especificación detallada de objetivos <src/objetivos/plantillaObjetivos.docx>`
   #. :download:`Ejemplos de especificación de objetivos <src/objetivos/ejemploObjetivos.pdf>`
 
+.. note::
+   Para la especificación de valores de Kano de cada objetivo identificado se utilizará la clasificación y conjunto de valores proporcionados por la herramienta Scrumdesk, que es la herramienta que se utilizará en cuarto curso para la realización del proyecto integrado. Dicho clasificación está disponible en este `enlace <https://www.scrumdesk.com/how-to-kano-model-helps-in-agile-product-backlog-prioritization/>`_.
+
+
 Elementos a Entregar y Aclaraciones
 =======================================
 
