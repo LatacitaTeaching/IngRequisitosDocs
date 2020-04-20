@@ -65,17 +65,19 @@ La calificación de la fase de modelado y especificación de objetivos vendrá d
   #. Completitud del Caso de Uso (1 punto).
   #. Corrección de la Especificación del Caso de Uso (2 puntos).
   #. Completitud de la Historia de Usuario (1 punto).
-  #. Corrección de la descripción de la Historia de Usuario (2 puntos).
-  #. Corrección de la especificación de los criterios de confirmación de la Historia de Usuario (1 puntos).
+  #. Corrección de la Tarjeta de la Historia de Usuario (2 puntos).
+  #. Corrección de la Confirmación de la Historia de Usuario (1 puntos).
   #. Identificación de Escenarios Alternativos y Excepcionales (2 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
 Cada uno de estos apartados se calificará mediante el procedimiento y los criterios a continuación proporcionados, excepto *Ortografía, Gramática y Maquetación*, que se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales.
 
-Completitud del Caso de Uso
-----------------------------
+Completitud del Caso de Uso e Historia de Usuario
+---------------------------------------------------
 
-Para evaluar la completitud del caso de uso se verificará que el escenario especificado permita satisfacer de manera satisfactoria el objetivo, u objetivos, para el cual fue creado.  Para poder obtener una calificación de aprobado en este apartado, no deberá haber más de una objeción razonable al funcionamiento del caso de uso. En los casos en los que dicha objeción sea muy evidente, aún cuando sea sólo una, el alumno tampoco podrá obtener una calificación de aprobado o superior.
+Para evaluar la completitud del caso de uso, y de la historia de usuario, se verificará que el escenario especificado permita satisfacer de manera satisfactoria el objetivo, u objetivos, para el cual fue creado. Para poder obtener una calificación de aprobado en este apartado, no deberá haber más de una objeción razonable al funcionamiento del caso de uso o historia de usuario. En los casos en los que dicha objeción sea muy evidente, aún cuando sea sólo una, el alumno tampoco podrá obtener una calificación de aprobado o superior en el correspondiente apartado.
+
+Se verificará también que todo caso de uso termine informando al usuario de algún modo acerca del éxito o fracaso de la ejecución del escenario que representa.
 
 Corrección de la Especificación del Caso de Uso
 ------------------------------------------------
@@ -116,33 +118,55 @@ Para calificar la corrección de la especificación del caso de uso creado por e
   #. Cada paso del escenario principal, o de una extensión, contiene una única acción y no puede ser fácilmente descompuesto en dos pasos.
   #. Cada paso del escenario principal, o de una extensión, tiene claramente identificado el sujeto que realiza la acción.
   #. Cada paso del escenario principal, o de una extensión, que sea una interacción entre el sistema y un actor, tiene claramente identificado tanto el destinatario de la acción como lo que se transfiere entre el sistema y el actor.
+  #. Cada paso del escenario principal, o de una extensión, es consistente con el paso anterior. Por ejemplo, si un paso ``X`` se transifiere el control del sistema al usuario, en el paso ``X+1``, el sistema no puede continuar seguir realizando acciones.
   #. Cada paso del escenario principal, o de una extensión, no hace referencia a elemntos gráficos concretos, como *botón* o *lista desplegable*, estando estos *widgets* gráficos convenientemente abstraidos.
+  #. Cada paso del escenario principal, o de una extensión, que se refiere a un formulario, identifica dicho formulario de manera unívoca.
+  #. Cada extensión tiene una condición de extensión claramente especificada.
+  #. Cada condición de extensión especifica un evento detectable por el sistema.
+  #. Cada extensión referencia al paso del escenario principal, o de otra extensión, donde podría producirse el evento que da lugar a la ejecución de dicha extensión.
   #. El paso inicial de una extensión no vuelve a chequear la condición de extensión.
   #. El paso final de una extensión indica a donde se redirige el flujo de la extensión.
   #. Siempre que el sistema muestre información a un actor, el sistema espera a que el usuario haya leído la información mostrada.
-  #. Todo escenario termina informando al usuario de algún modo acerca del éxito o fracaso de la ejecución del caso de uso. 
 
+Corrección de la Tarjeta de la Historia de Usuario
+---------------------------------------------------
 
+Para calificar la corrección de la tarjeta inicial asociada a una historia de usuario  se verificará el grado de satisfacción de los siguientes elementos:
 
+  #. La historia de usuario tiene un identificador asignado.
+  #. El nombre de la La historia de usuario comienza con un verbo.
+  #. El nombre de la La historia de usuario es significativo de la acción que realiza.
+  #. La descripción de la historia de usuario sigue el formato ``Yo, como <rol>, quiero <requisito> de manera que <objetivo>``.
+  #. El rol especificado es correcto.
+  #. El rol no es simplemente ``usuario`` en sistemas donde existan usuarios con diferentes tipos de roles.
+  #. La acción a ejecutar es clara y consistente con el nombre de la historia de usuario.
+  #. El objetivo especificado no es una simple consecuencia de la acción.
+  #. El objetivo especificado indica el beneficio real que el actor espera conseguir con la ejecución de la acción.
 
+Corrección de la Confirmación de la Historia de Usuario
+--------------------------------------------------------
 
+Para calificar la corrección de la tarjeta inicial asociada a una historia de usuario  se verificará el grado de satisfacción de los siguientes elementos:
 
-Especificación de Objetivos de Nivel Cielo, Cometa y Mar
----------------------------------------------------------
+  #. Cada prueba de confirmación tiene un título que resume brevemente el propósito de la prueba.
+  #. Cada prueba de confirmación está compuesta por un conjunto de pasos de preparación más una serie de verificaciones.
+  #. Cada prueba de confirmación está escrita de manera que sea fácilmente implementable como un test automatizado.
+  #. Cada paso de una prueba de confirmación es una interacción usuario-sistema, sistema-usuario, sistema-sistema, una verificación del sistema o una computación.
+  #. Cada paso de una prueba de confirmación contiene una única acción y no puede ser fácilmente descompuesto en dos pasos.
+  #. Cada paso de una prueba de confirmación tiene claramente identificado el sujeto que realiza la acción.
+  #. Cada paso de una prueba de confirmación que se refiere a un formulario, identifica dicho formulario de manera unívoca.
+  #. Cada verificación expresa una condición que sea computable.
 
-Para calificar la corrección de las especificaciones de objetivos creadas, se verificará el grado de satisfacción de los siguientes elementos:
+Identificación de Escenarios Alternativos y Excepcionales
+----------------------------------------------------------
 
-  #. Cada objetivo está correctamente identificado.
-  #. El nombre de cada objetivo proporciona una idea clara del propósito de dicho objetivo. Para ello, se recomienda que el objetivo comience por verbo que indique la acción a realizar. En el caso de los objetivos blandos, se recomienda añadir algún adverbio o adjetivo al nombre del objetivo, de manera que quede más claro cómo se puede graduar el objetivo.
-  #. Cada objetivo está correctamente identificado como duro o blando.
-  #. Si el objetivo es blando, dicho objetivo tiene definido un criterio de verificación que permite medir con claridad el grado de satisfacción del objetivo.
-  #. El nivel del objetivo es correcto y no es fácilmente rebatible.
-  #. El valor de Kano asignado al objetivo es correcto y no es fácilmente rebatible.
-  #. La lista de actores involucrados o afectados por el objetivo es correcta, conteniendo todos actores relevantes para el objetivo y no conteniendo actores que se puedan considerar como irrelevantes.
-  #. La descripción del objetivo expresa un deseo o intención de un determinado actor o conjunto de actores.
-  #. La descripción del objetivo da una idea clara y precisa del beneficio que espera obtener el actor mediante la satisfacción de dicho objetivo.
-  #. El apartado de contribuciones describe como el objetivo especificado contribuye a satisfacer uno o más objetivos padre.
-  #. Por cada contribución descrita, el peso de dicha contribución está debidamente justificado.
-  #. La justificación del peso de cada contribución no es una simple réplica de la descripción asociada a su valor cualitativo. Por ejemplo, para una contribución de tipo *make*, la justificación de que la satisfacción del hijo es suficiente para la satisfacción del padre no sería una justificación aceptable. En este caso, habría que explicar por qué la satisfacción del objetivo, por si sola, es suficiente para alcanzar la satisfacción del padre, no siendo necesaria la satisfacción de ningún otro objetivo hijo.
-  #. Toda contribución que aparece en el modelo de objetivos está descrita en el correspondiente apartado de contribuciones, y viceversa.
-  #. Todo objetivo referenciado en la especificación del objetivo está también contenido en el modelo de objetivos.
+Para evaluar la completitud de los escenario alternativos y excepcionales identificados se verificará que existan tanto extensiones como criterios de confirmación para un amplio abanico de situaciones, entre las cuáles se recomienda incluir al menos:
+
+  #. Entrada de datos erróneos por parte del actor primario.
+  #. Inactividad del actor primario cuando esta inactividad pueda dejar el escenario en un estado intemedio peligroso para el sistema.
+  #. Fallos al acceder a elementos hardware como ficheros alojados en discos duros.
+  #. Fallos al acceder a bases de datos.
+  #. Fallos al comunicarse con sistemas externos.
+  #. Denegación de peticiones realizadas a sistemas externos.
+  #. Fallos por falta de recursos para computaciones pesadas.
+  #. Fallos al realizar verificaciones internas de condiciones (e.g. disponibilidad de saldo). 
