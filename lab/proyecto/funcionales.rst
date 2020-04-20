@@ -62,34 +62,70 @@ Criterios de Evaluación
 
 La calificación de la fase de modelado y especificación de objetivos vendrá determinada por la ponderación de las calificaciones de los siguientes apartados:
 
-  #.
+  #. Completitud del Caso de Uso (1 punto).
+  #. Corrección de la Especificación del Caso de Uso (2 puntos).
+  #. Completitud de la Historia de Usuario (1 punto).
+  #. Corrección de la descripción de la Historia de Usuario (2 puntos).
+  #. Corrección de la especificación de los criterios de confirmación de la Historia de Usuario (1 puntos).
+  #. Identificación de Escenarios Alternativos y Excepcionales (2 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
 Cada uno de estos apartados se calificará mediante el procedimiento y los criterios a continuación proporcionados, excepto *Ortografía, Gramática y Maquetación*, que se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales.
 
-Completitud
-------------
+Completitud del Caso de Uso
+----------------------------
 
-Para evaluar la completitud del modelo de objetivos se verificará que estén recogidos en dicho modelo todos los objetivos del stakeholder  entrevistado en la fase anterior del proyecto.
+Para evaluar la completitud del caso de uso se verificará que el escenario especificado permita satisfacer de manera satisfactoria el objetivo, u objetivos, para el cual fue creado.  Para poder obtener una calificación de aprobado en este apartado, no deberá haber más de una objeción razonable al funcionamiento del caso de uso. En los casos en los que dicha objeción sea muy evidente, aún cuando sea sólo una, el alumno tampoco podrá obtener una calificación de aprobado o superior.
 
-Para poder obtener una calificación de aprobado en este apartado, todos aquellos objetivos que puedan ser considerados como de alta importancia para el stakeholder entrevistado deberán estar contenidos en el modelo creado.
+Corrección de la Especificación del Caso de Uso
+------------------------------------------------
 
-Modelado de Objetivos
-----------------------
+Para calificar la corrección de la especificación del caso de uso creado por el alumnos, se verificará el grado de satisfacción de los siguientes elementos:
 
-Para calificar la corrección del modelo de objetivos creado, se verificará el grado de satisfacción de los siguientes elementos:
+  #. El caso de uso tiene un identificador asignado.
+  #. El nombre del caso de uso comienza con un verbo.
+  #. El nombre del caso de uso es significativo de la acción que realiza.
+  #. El actor principal es la persona que inicia, físicamente o a petición suya, la ejecución del caso de uso.
+  #. En aquellos casos en los que el actor principal no sea el que físicamente inicie el caso de uso, el actor primario último está corrctamente identificado y especificado.
+  #. Todos los actores secundarios que intervienen en el caso de uso están correctamente identificados y especificados.
+  #. Todos los actores secundarios especificados intervienen explícitamente en el caso de uso.
+  #. La descripción del caso de uso no dice nada que pueda ser fácilmente rebatible.
+  #. La descripción del caso de uso permite comprender de manera resumida qué hace el caso de uso y cómo lo hace.
+  #. La descripción del caso de uso es breve, no siendo superior a 5 líneas, salvo casos muy justificados.
+  #. El evento de activación está correctamente identificado.
+  #. El evento de activación no contiene referencias a elementos concretos de una interfaz
+  gráfica.
+  #. El evento de activación no forma parte del escenario principal.
+  #. La precondición especifica un predicado sobre el estado del sistema que ha de ser verdad
+  antes de la ejecución del caso de uso para que éste pueda alcanzar el éxito.
+  #. La precondición chequea sólo condiciones que se puedan verificar antes de la ejecución del caso de uso.
+  #. La precondición se refiere sólo el estado inicial del sistema y no hace referencia a elementos obvios que puedan ser perfectamente asumibles de manera implícita.
+  #. La precondición no chequea condiciones que pudiesen variar espontáneamente durante la ejecución del caso de uso.
+  #. Las garantías de éxito establecen claramente cómo se modifica el estado del sistema en caso
+  de que el escenario pueda ejecutarse con éxito.
+  #. Las garantías de éxito están especificadas de manera que se facilite la creación de un caso de prueba que verifique su satisfacción.
+  #. Las garantías mínimas establecen las condiciones necesarias para asegurar que, en caso de que el escenario no pueda ejecutarse de forma satisfactoria, ningún actor del sistema, ni el propio sistema, resulten perjudicados.
+  #. El escenario principal especifica el escenario de éxito habitual que se espera de la ejecución del caso de uso.
+  #. Tanto el escenario principal como los escenarios de las extensiones son secuencias lineales de pasos que no contienen bifurcaciones.
+  #. El escenario principal no contiene errores ni situaciones excepcionales.
+  #. Cada paso del escenario principal, o de una extensión, está adecuadamente numerado.
+  #. Cada paso de una extensión está adecuadamente tabulado.
+  #. Cada paso del escenario principal está escrito desde una perspectiva de éxito.
+  #. Cada paso del escenario principal, o de una extensión, es una interacción usuario-sistema, sistema-usuario, sistema-sistema, una verificación del sistema o una computación.
+  #. Cada paso es realizable desde un punto de vista computacional.
+  #. Cada paso del escenario principal, o de una extensión, contiene una única acción y no puede ser fácilmente descompuesto en dos pasos.
+  #. Cada paso del escenario principal, o de una extensión, tiene claramente identificado el sujeto que realiza la acción.
+  #. Cada paso del escenario principal, o de una extensión, que sea una interacción entre el sistema y un actor, tiene claramente identificado tanto el destinatario de la acción como lo que se transfiere entre el sistema y el actor.
+  #. Cada paso del escenario principal, o de una extensión, no hace referencia a elemntos gráficos concretos, como *botón* o *lista desplegable*, estando estos *widgets* gráficos convenientemente abstraidos.
+  #. El paso inicial de una extensión no vuelve a chequear la condición de extensión.
+  #. El paso final de una extensión indica a donde se redirige el flujo de la extensión.
+  #. Siempre que el sistema muestre información a un actor, el sistema espera a que el usuario haya leído la información mostrada.
+  #. Todo escenario termina informando al usuario de algún modo acerca del éxito o fracaso de la ejecución del caso de uso. 
 
-  #. Cada elemento del modelo es sintácticamente correcto.
-  #. No se utilizan elementos de modelado sin razón aparente y de manera inconsistente. Por ejemplo, aparecen de repente recursos asociados a ciertos objetivos, sin razón aparente.
-  #. Para cada relación AND, la no satisfacción del padre debida a la no satisfacción de cualquiera de sus hijos es obvia y no es fácilmente refutable.
-  #. Para cada relación OR, la satisfacción inmediata del padre debida a la satisfacción de cualquiera de sus hijos es obvia y no es fácilmente refutable.
-  #. Por casa descomposición basada en una serie de contribuciones, la sustitución de dicha serie de contribuciones por una descomposición AND u OR no es obvia y fácilmente argumentable.
-  #. Los hijos de un padre sirven para responder a la pregunta de cómo se alcanza el objetivo especificado por el padre.
-  #. El padre un hijo sirve para responder, en parte, a la pregunta de por qué se desea satisfacer un objetivo hijo.
-  #. El signo de cada contribución es correcto.
-  #. El peso de cada contribución es adecuado dentro del contexto del modelo de objetivos.
-  #. Todas las relaciones entre objetivos están debidamente identificadas.
-  #. Las tareas se utilizan correctamente para modelar la existencia de escenarios que dan lugar a la satisfacción de uno o más objetivos.
+
+
+
+
 
 Especificación de Objetivos de Nivel Cielo, Cometa y Mar
 ---------------------------------------------------------
