@@ -1,6 +1,6 @@
-=====================================================
-Fase 7 - Especificación de Requisitos No Funcionales
-=====================================================
+==================================================
+Fase 7 - Especificación de Requisitos Funcionales
+==================================================
 
 Introducción
 =============
@@ -41,8 +41,8 @@ Para la realización de los *mock-ups*, se recomienda la utilización de la herr
 
 Para la *especificación de casos de uso* e *historias de usuario* se proporciona:
 
-  #. :download:`Una plantilla para la especificación de casos de uso <src/funcionales/plantillaObjetivos.docx>`
-  #. :download:`Una plantilla para la especificación de historias de usuario <src/funcionales/plantillaHistoriasUsuario.docx>`
+  #. :download:`Una plantilla para la especificación de casos de uso <src/funcionales/plantillaCasosDeUso.docx>`
+  #. :download:`Una plantilla para la especificación de historias de usuario <src/funcionales/plantillaHistoriasDeUsuario.docx>`
   #. :download:`Ejemplo de especificación de un caso de uso <src/funcionales/ejemploCasoDeUso.pdf>`
   #. :download:`Ejemplo de especificación de una historia de usuario <src/funcionales/ejemploHistoriaDeUsuario.pdf>`
 
