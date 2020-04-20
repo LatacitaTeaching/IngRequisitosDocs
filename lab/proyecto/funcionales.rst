@@ -95,16 +95,13 @@ Para calificar la corrección de la especificación del caso de uso creado por e
   #. La descripción del caso de uso permite comprender de manera resumida qué hace el caso de uso y cómo lo hace.
   #. La descripción del caso de uso es breve, no siendo superior a 5 líneas, salvo casos muy justificados.
   #. El evento de activación está correctamente identificado.
-  #. El evento de activación no contiene referencias a elementos concretos de una interfaz
-  gráfica.
+  #. El evento de activación no contiene referencias a elementos concretos de una interfaz gráfica.
   #. El evento de activación no forma parte del escenario principal.
-  #. La precondición especifica un predicado sobre el estado del sistema que ha de ser verdad
-  antes de la ejecución del caso de uso para que éste pueda alcanzar el éxito.
+  #. La precondición especifica un predicado sobre el estado del sistema que ha de ser verdad antes de la ejecución del caso de uso para que éste pueda alcanzar el éxito.
   #. La precondición chequea sólo condiciones que se puedan verificar antes de la ejecución del caso de uso.
   #. La precondición se refiere sólo el estado inicial del sistema y no hace referencia a elementos obvios que puedan ser perfectamente asumibles de manera implícita.
   #. La precondición no chequea condiciones que pudiesen variar espontáneamente durante la ejecución del caso de uso.
-  #. Las garantías de éxito establecen claramente cómo se modifica el estado del sistema en caso
-  de que el escenario pueda ejecutarse con éxito.
+  #. Las garantías de éxito establecen claramente cómo se modifica el estado del sistema en caso de que el escenario pueda ejecutarse con éxito.
   #. Las garantías de éxito están especificadas de manera que se facilite la creación de un caso de prueba que verifique su satisfacción.
   #. Las garantías mínimas establecen las condiciones necesarias para asegurar que, en caso de que el escenario no pueda ejecutarse de forma satisfactoria, ningún actor del sistema, ni el propio sistema, resulten perjudicados.
   #. El escenario principal especifica el escenario de éxito habitual que se espera de la ejecución del caso de uso.
@@ -169,4 +166,4 @@ Para evaluar la completitud de los escenario alternativos y excepcionales identi
   #. Fallos al comunicarse con sistemas externos.
   #. Denegación de peticiones realizadas a sistemas externos.
   #. Fallos por falta de recursos para computaciones pesadas.
-  #. Fallos al realizar verificaciones internas de condiciones (e.g. disponibilidad de saldo). 
+  #. Fallos al realizar verificaciones internas de condiciones (e.g. disponibilidad de saldo).
