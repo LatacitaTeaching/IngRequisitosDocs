@@ -11,5 +11,5 @@
    captura.rst
    entrevista.rst
    objetivos.rst
-..   proyecto/funcionales.rst
+   funcionales.rst
 ..   proyecto/seguridad.rst
