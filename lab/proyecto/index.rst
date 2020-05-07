@@ -12,4 +12,4 @@
    entrevista.rst
    objetivos.rst
    funcionales.rst
-..   proyecto/seguridad.rst
+   seguridad.rst

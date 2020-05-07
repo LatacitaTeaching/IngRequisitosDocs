@@ -17,12 +17,16 @@ Objetivos
 
 Los objetivos concretos de esta práctica son:
 
+<<<<<<< HEAD
   #. Ser capaz de identificar activos de un sistema sw.
   #. Ser capaz de identificar y analizar amenazas que podrían afectar a un activo software.
   #. Ser capaz de identificar diferentes ataques que podrían materializar las amenazas identificadas.
   #. Ser capaz de diseñar y analizar diferentes tipos de medidas de seguridad que permitan evitar, neutralizar o mitigar los diferentes ataques que podría sufrir un sistema software.
   #. Ser capaz de analizar la efectividad de las medidas de seguridad de un sistema mediante el análisis de sus premisas de confianza y contrargumentos.
   #. Ser capaz de balancear seguridad frente a otros requisitos no funcionales del sistema, como coste o usabilidad. 
+=======
+  #.
+>>>>>>> master
 
 La siguiente sección describe las actividades que se deberán realizar para la consecución de estos objetivos.
 
