@@ -11,22 +11,17 @@ Por tanto, cuando desarrollamos un sistema software, si queremos que dicho siste
 
 El objetivo de esta práctica es aprender a ejecutar procesos de análisis y especificación de requisitos de seguridad. Para ello, deberán satisfacerse los objetivos que se detallan en la siguiente subsección.
 
-
 Objetivos
 ==========
 
 Los objetivos concretos de esta práctica son:
 
-<<<<<<< HEAD
   #. Ser capaz de identificar activos de un sistema sw.
   #. Ser capaz de identificar y analizar amenazas que podrían afectar a un activo software.
   #. Ser capaz de identificar diferentes ataques que podrían materializar las amenazas identificadas.
   #. Ser capaz de diseñar y analizar diferentes tipos de medidas de seguridad que permitan evitar, neutralizar o mitigar los diferentes ataques que podría sufrir un sistema software.
   #. Ser capaz de analizar la efectividad de las medidas de seguridad de un sistema mediante el análisis de sus premisas de confianza y contrargumentos.
-  #. Ser capaz de balancear seguridad frente a otros requisitos no funcionales del sistema, como coste o usabilidad. 
-=======
-  #.
->>>>>>> master
+  #. Ser capaz de balancear seguridad frente a otros requisitos no funcionales del sistema, como coste o usabilidad.
 
 La siguiente sección describe las actividades que se deberán realizar para la consecución de estos objetivos.
 
@@ -35,13 +30,22 @@ Actividades
 
 Para aprender a especificar requisitos de seguridad, cada alumno deberá, de manera individual:
 
-  #.
-  #.
+  #. Partiendo de los modelos de objetivos y escenarios creados en las etapas anteriores del proyecto, identificar un activo que forme parte de dicho sistema software. Cada alumno deberá escoger un activo distinto al de sus compañeros.
+  #. Para el activo identificado, identificar todas las potenciales amenazas que podrían afectar a dicho activo.
+  #. Para las dos amenazas que se consideren más relevantes, analizar su exposición.
+  #. Para la amenaza que se considere más importante tratar, de las dos anteriormente analizadas, identificar todos los posibles ataques que podrían materializar dicha amenaza. Especificar cómo se llevaría a cabo el ataque de manera detallada.
+  #. Para todos los ataques identificados en el punto anterior, diseñar medidas de control que permitan evitar, neutralizar o mitigar dichos ataques.
+  #. Para una de las medidas de control especificadas en el punto anterior, especificar cuáles serían sus premisas de confianza.
+  #. Para cada premisa de confianza identificada en el punto anterior, identificar sus contrargumentos, si los hubiere.
+  #. Si hubiese algún contrargumento que mereciese la pena seguir tratando, diseñar una medida de control. Para dicha medida de control no es necesario identificar nuevas premisas de confianza y contrargumentos, por lo que el análisis de la seguridad deberá parar en este nivel.
 
 Para la *especificación de requisitos de seguridad* se proporciona:
 
   #. :download:`Una plantilla para la especificación de requisitos de seguridad <src/seguridad/plantillaSeguridad.docx>`
   #. :download:`Ejemplo de análisis y especificación de requisitos de seguridad <src/seguridad/ejemploAnalisisSeguridadAsignacion.pdf>`
+
+Estas actividades se evaluarán conforme al procedimiento descrito en la siguiente sección.
+
 
 Elementos a Entregar y Aclaraciones
 =======================================
@@ -63,3 +67,5 @@ Cada uno de estos apartados se calificará mediante el procedimiento y los crite
 
 Completitud de ...
 ---------------------------------------------------
+
+La relación entre amenaza, exposición, ataque, medida de control, premisa de confianza y contrargumento debe quedar lo más clara posible.
