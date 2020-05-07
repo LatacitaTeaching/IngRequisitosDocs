@@ -5,6 +5,11 @@ Fase 8 - Análisis y Especificación de Requisitos Seguridad
 Introducción
 =============
 
+Afortundamente, la mayoría de las personas tienen una actitud positiva que les hace pensar que otras personas no cometerán errores y que no existen personas deshonestas o malintencionadas. Por desgracia, la realidad es bien distinta. Todas las personas somos falibles y, por tanto, podemos equivocarnos en algún momento de nuestras vidas. Consecuentemente, todo proceso que dependa de personas es falible, y podría fallar debido a errores humanos. De igual forma, el hardware también falla, haciendo que los sistemas software que corren sobre dicho hardware fallen. Finalmente, hay que tener en cuenta que aunque todos los que estamos leyendo este documento somos personas honestas, es bien sabido por todos que, desafortunadamente, hay personas deshonestas que pueden utilizar un sistema malintencionadamente, tanto por buscar un beneficio propio como por el placer de generar el caos.
+
+Por tanto, cuando desarrollamos un sistema software, si queremos que dicho sistema software sea *confiable*, tendremos que proteger al sistema de todos estos posibles elementos que podrían causarle daños. La *seguridad software* estudia precisamente cómo proteger un sistema software de acciones externas, conocidas como *ataques*, que podrían dañar el sistema, generando un perjuicio a los stakeholders que lo utilizan. Esta protección es de vital importancia en los *sistemas sociotécnicos*, es decir, en sistemas que dan soporte a los procesos de negocio de diferentes organizaciones.
+
+El objetivo de esta práctica es aprender a ejecutar procesos de análisis y especificación de requisitos de seguridad. Para ello, deberán satisfacerse los objetivos que se detallan en la siguiente subsección.
 
 
 Objetivos
