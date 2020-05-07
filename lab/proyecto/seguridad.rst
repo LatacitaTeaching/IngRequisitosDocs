@@ -46,15 +46,12 @@ Para la *especificación de requisitos de seguridad* se proporciona:
 
 Estas actividades se evaluarán conforme al procedimiento descrito en la siguiente sección.
 
-
 Elementos a Entregar y Aclaraciones
 =======================================
 
-Se deberán entregar para su evaluación los siguientes elementos:
+Para la evaluación de esta práctica se deberán entregar un documento, conforme a una plantilla proporcionada, conteniendo los resultados de la ejecución del proceso de ingeniería de requisitos para el activo seleccionado.
 
-  #.
-
-El conjunto de ficheros resultantes se entregará dentro de las fechas establecidas a través de la plataforma *Moodle* siguiendo las instrucciones en ella proporcionadas. Las entregas fuera de las fechas establecidas o con un formato diferente al solicitado tendrán una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
+Dicho documento se entregará dentro de las fechas establecidas a través de la plataforma *Moodle* siguiendo las instrucciones en ella proporcionadas. Las entregas fuera de las fechas establecidas o con un formato diferente al solicitado tendrán una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
 
 Criterios de Evaluación
 =========================
