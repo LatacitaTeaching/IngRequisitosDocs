@@ -92,6 +92,7 @@ Secuenciación de las Actividades
   #. Las personas y recursos involucradas en cada actividad están claramente identificados.
   #. No se producen utilizaciones simultáneas de recursos, ya sean humanos o materiales.
   #. Se respetan las dependencias entre tareas.
+  #. Las actividades comienzan a ejecutarse tan pronto como es posible.
 
 Apéndice A. Tablas de Costes
 ================================
