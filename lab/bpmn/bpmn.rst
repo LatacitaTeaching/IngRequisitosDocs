@@ -13,27 +13,26 @@ En segundo lugar, la formalización de los procesos de negocio facilita su anál
 
 Dentro del ámbito del desarrollo software, la especificación de procesos de negocio es importante para saber cómo tienen que comportarse los sistemas software que dan soporte a dichos procesos de negocio. Mediante la definición de un proceso de negocio, sabremos qué acciones concretas deberán llevar a cabo los sistemas software ante determinados eventos, qué información necesitan y cómo han de comunicarse con otros sistemas. Dicho de otro modo, un proceso de negocio establece un conjunto de requisitos acerca de cómo ha de comportarse un sistema software. Consecuentemente, todo buen Ingeniero de Requisitos debe saber como especificar y modelar de manera rigurosa procesos de negocio. Por tanto, el objetivo general de esta práctica es que el alumno  se entrene en la especificación de procesos de negocio sencillos utilizando para ello la notación BPMN 2.0, como punto de partida para un posterior aprendizaje más completo del modelado y especificación de procesos de negocio.
 
-
-
-
-
-
 Objetivos
 ==========
 
 Los objetivos concretos de esta práctica son:
 
-  #.
+  #. Comprender el concepto de proceso de negocio.
+  #. Entender la relación entre la definición de un proceso de negocio y la captura de requisitos.
+  #. Aprender a modelar procesos de negocio sencillos utilizando BPMN 2.0.
 
 La siguiente sección describe las actividades que se deberán realizar para la consecución de estos objetivos concretos.
 
 Actividades
 ============
 
-Para alcanzar los objetivos descritos en la sección anterior, el alumno deberá crear, utilizando la herramienta Eclipse BPMN2 Modeler un modelo BPMN 2.0 para el proceso de negocio que se describe a continuación.
+Para alcanzar los objetivos descritos en la sección anterior, el alumno deberá crear, utilizando la herramienta Eclipse BPMN2 Modeler, un modelo BPMN 2.0 que especifique el proceso de negocio que se describe a continuación.
 
 Presentación de un TFG
 -----------------------
+
+
 
 
 Elementos a Entregar y Aclaraciones
