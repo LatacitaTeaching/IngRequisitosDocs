@@ -13,3 +13,4 @@
    objetivos.rst
    funcionales.rst
    seguridad.rst
+   bpmn.rst
