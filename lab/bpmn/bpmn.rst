@@ -19,7 +19,7 @@ Objetivos
 Los objetivos concretos de esta práctica son:
 
   #. Comprender el concepto de proceso de negocio.
-  #. Entender la relación entre la definición de un proceso de negocio y la captura de requisitos.
+  #. Entender la relación entre la definición de procesos de negocio y la captura de requisitos.
   #. Aprender a modelar procesos de negocio sencillos utilizando BPMN 2.0.
 
 La siguiente sección describe las actividades que se deberán realizar para la consecución de estos objetivos concretos.
@@ -29,24 +29,26 @@ Actividades
 
 Para alcanzar los objetivos descritos en la sección anterior, el alumno deberá crear, utilizando la herramienta Eclipse BPMN2 Modeler, un modelo BPMN 2.0 que especifique el proceso de negocio que se describe a continuación.
 
-Presentación de un TFG
------------------------
+Tramites para el Depósito de un TFG
+------------------------------------
 
-Una vez que un alumno considere como terminado su Trabajo Fin de Grado, éste deberá iniciar los trámites para su presentación y pública defensa. El primer paso para proceder a dicha presentación será solicitar el visto bueno de su director de Trabajo Fin de Grado. El director, ante tal petición de visto bueno, revisará el Trabajo Fin de Grado e informará al alumno de si le concede o no dicho visto bueno. Si se lo concede, el director deberá enviar un correo electrónico al Presidente de la Comisión de Evaluación de Trabajos de Fin de Grado para informarle que hay un alumno listo para defender públicamente su Trabajo Fin de Grado, facilitando así que dicho Presidente pueda empezar a realizar los arreglos que estime oportunos. Si no le concede el visto bueno, el director no deberá hacer nada más y terminará su proceso, espera de que el alumno modique su trabajo y vuelva a solicitar un nuevo visto bueno.
+Una vez que un alumno considere como terminado su Trabajo Fin de Grado, éste deberá iniciar los trámites para su presentación y pública defensa. El primer paso para proceder a dicha presentación será solicitar el visto bueno de su director de Trabajo Fin de Grado.
 
-Si el alumno no obtiene el visto bueno de su director de Trabajo de Fin de Grado, éste deberá revisar su trabajo. Cuando haya realizado las modificaciones solicitadas, el alumno podrá solicitar de nuevo el visto bueno de su director; visto bueno que podrá nuevamente ser denegado o concedido.
+El director, ante tal petición de visto bueno, revisará el correspondiente Trabajo Fin de Grado e informará al alumno de si se le concede o no dicho visto bueno. Si se lo concede, tras comunicárselo al alumno, el director deberá enviar un correo electrónico al Presidente de la Comisión de Evaluación de Trabajos de Fin de Grado para informarle de que hay un alumno listo para defender públicamente su Trabajo Fin de Grado, facilitando así que se puedan empezar a realizar los trámites oportunos por parte de esta
+comisión. Por el contrario, si el director le denegase el visto bueno, éste no deberá hacer nada más y terminará su participación en proceso.
 
-Si el alumno obtiene el visto bueno, el alumno deberá cumplimentar el impreso para la solicitud de depósito de su Trabajo Fin de Grado, y enviarlo por correo electrónico tanto a su director de Trabajo Fin de Grado como a la Secretaría de la Facultad. A continuación, deberá subir el documento pdf con su memoria de Trabajo Fin de Grado a la plataforma Moodle, dentro del curso y la tarea creada para ello. Tras estos trámites, el alumno deberá esperar a que se le notifique la fecha y hora para la defensa pública de su Trabajo Fin de Grado, o la denegación de la solicitud de depósito por incumplir alguno de los requisitos necesarios para poder proceder a dicha defensa pública.
+Si el alumno no obtiene el visto bueno de su director de Trabajo de Fin de Grado, deberá revisar su trabajo. Cuando haya realizado las modificaciones oportunas, el alumno podrá solicitar de nuevo el visto bueno de su director; visto bueno que podrá nuevamente ser denegado o concedido.
 
-El director del Trabajo Fin de Grado, al recibir el correo del alumno con el impreso de solicitud, deberá confirmar a la Secretaría de la Facultad que el alumno tiene autorización para proceder al depósito. Si el director del Trabajo Fin de Grado indicase que el alumno no tiene autorización para realizar el depósito, la Secretaría de la Facultad cancelará de inmediato todos los trámites para el depósito del Trabajo Fin de Grado del Alumno. Si la Secretaría de la Facultad no recibe confirmación del director del Trabajo Fin de Grado en el plazo de 5 días, procederá inmediatamente a la cancelación de todos los trámites para el depósito.
+Una vez que el alumno haya obtenido el visto bueno de su director, éste deberá cumplimentar el impreso para la solicitud de depósito de su Trabajo Fin de Grado, y enviarlo por correo electrónico tanto a su director de Trabajo Fin de Grado como a la Secretaría de la Facultad. A continuación, deberá subir el documento pdf con su memoria de Trabajo Fin de Grado a la plataforma Moodle, dentro del curso y la tarea creados para ello. Tras estos trámites, el alumno deberá esperar a que se le notifique o bien la fecha y hora para la defensa pública de su Trabajo Fin de Grado, o bien la denegación de la solicitud de depósito por incumplir alguno de los requisitos necesarios para poder proceder a dicha defensa pública.
 
-Por otra parte, una vez enviada la confirmación de la autorización para el depósito a la Secretaría de la Facultad, el director del Trabajo de Fin de Grado deberá enviar un informe confidencial sobre la calidad del Trabajo de Fin de Grado realizado por el alumno al Presidente de la Comisión de Evaluación de Trabajos de Fin de Grado. Tras este envío, su participacón en este proceso se dará por concluida.
+Respecto al director del del Trabajo Fin de Grado, éste, al recibir el correo del alumno con el impreso de solicitud, deberá confirmar a la Secretaría de la Facultad que el alumno tiene autorización para proceder a dicho depósito.
+Además, una vez enviada la confirmación de la autorización para el depósito a la Secretaría de la Facultad, el director del Trabajo de Fin de Grado deberá enviar un informe confidencial sobre la calidad del Trabajo de Fin de Grado realizado por el alumno al Presidente de la Comisión de Evaluación de Trabajos de Fin de Grado. Tras este envío, su participacón en este proceso se dará por concluida.
 
-La Secretaría de la Facultad, una vez recibida la confirmación del director del Trabajo Fin de Grado, comprobará si el alumno cumple o no con los requisitos necesarios para proceder a la defensa pública de su trabajo. Si no los cumple, se cancelarán inmediatamente todos los trámites. Si los cumple, informará al Presidente de la Comisión de Evaluación de Trabajos de Fin de Grado para que asigne fecha, lugar y hora para la celebración de la defensa pública del trabajo. Tras esta notificación, concluye la participación de la Secretaría de la Facultad en este proceso administrativo.
+Si el director del Trabajo Fin de Grado indicase a la  la Secretaría de la Facultad que el alumno no tiene autorización para realizar el depósito, ésta  denegará de inmediato al alumno el depósito de su Trabajo Fin de Grado. Por otro lado, si la Secretaría de la Facultad no recibe confirmación de la autorización de depósito por parte director del Trabajo Fin de Grado en el plazo de 5 días tras la recepción por correo electrónico de la solicitud de depósito del alumno, se entenderá dicha solicitud de depósito como no autorizada y se procederá a su inmediata denegación.
 
-Por otro lado, una vez recibida la notificación de la Secretaría, el Presidente de la Comisión de Evaluación de Trabajos de Fin de Grado notificará al alumno la fecha, lugar y hora para la defensa pública de su Trabajo Fin de Grado.
+En relación a la Secretaría de la Facultad, una vez ésta reciba la confirmación del director del Trabajo Fin de Grado de la autorización para el depósito, comprobará si el alumno cumple o no con los requisitos necesarios para proceder a la defensa pública de su Trabajo Fin de Grado. Si el alumno no cumple dichos requisitos, se procederá a denegar su solicitud de depósito. Si el alumno cumple con los requisitos para el depósito, la Secretaría de la Facultad informará al Presidente de la Comisión para la Evaluación de los Trabajos de Fin de Grado para que asigne fecha, lugar y hora para la celebración de la defensa pública de dicho trabajo. Tras esta notificación, concluye la participación de la Secretaría de la Facultad en este proceso administrativo.
 
-Tras recibir el alumno esta notificación, se da por concluido el proceso administratibo de depósito de un Trabajo Fin de Grado.
+El Presidente de la Comisión para la Evaluación de los Trabajos de Fin de Grado, una vez recibida la notificación de la Secretaría confirmando el depósito de un nuevo Trabajo Fin de Grado formará un tribunal adecuado para la evaluación de dicho trabajo, fijará día, hora y lugar para su lectura y pública defensa, e informará de todos estos datos al alumno, tras lo cual terminará su participación en este proceso.
 
 Elementos a Entregar y Aclaraciones
 ====================================
@@ -59,3 +61,12 @@ Las entregas se evaluarán conforme a los criterios de evaluación descritos en 
 
 Criterios de Evaluación
 =========================
+
+El diagrama entregado se calificará de acuerdo a los siguientes criterios:
+
+  #. Identificación de Participantes (1 punto).
+  #. Corrección Sintáctica (1 punto).
+  #. Correcta Utilización de las Tareas (1 punto).
+  #. Correcta Utilización de los Gateways (1 punto).
+  #. Corrección Semántica (5 puntos).
+  #. Ortografía, Gramática y Maquetación (1 punto).
