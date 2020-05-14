@@ -62,11 +62,76 @@ Las entregas se evaluarán conforme a los criterios de evaluación descritos en 
 Criterios de Evaluación
 =========================
 
-El diagrama entregado se calificará de acuerdo a los siguientes criterios:
+La calificación del modelado del proceso de negocio propuesto vendrá determinida por la ponderación de las calificaciones de los siguientes elementos:
 
   #. Identificación de Participantes (1 punto).
   #. Corrección Sintáctica (1 punto).
-  #. Correcta Utilización de las Tareas (1 punto).
+  #. Correcta Utilización de las Tareas y Eventos (1 punto).
   #. Correcta Utilización de los Gateways (1 punto).
   #. Corrección Semántica (5 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
+
+La calificación de esta práctica será individual y se evaluará conforme a los criterios descritos a continuación.
+
+Identificación de Participantes
+---------------------------------
+
+En este apartado se valorará que se hayan identificado correctamente todos los actores que intervienen en el proceso de negocio, y que éstos estén correctamente representados como *participantes (pools)* o *subparticipantes (lanes)*.
+
+Dada la sencillez de este apartado, un único error puede hacer perder la totalidad de sus puntos.
+
+Corrección Sintáctica
+-----------------------
+
+En este apartado se valorará que el diagrama BPMN 2.0 creado sea sintácticamente correcto, es decir, que se hayan respetado las reglas del lenguaje. A este respecto, cabe señalar que la herramienta *Eclipse BPMN2 Modeler* es capaz de verificar la corrección sintáctica de los diagramas, señalando con una aspa roja aquellos elementos que puedan considerarse como sintácticamente incorrectos.
+
+Dada la sencillez de este apartado, un único error puede hacer perder la totalidad de sus puntos.
+
+Correcta Utilización de las Tareas y Eventos
+---------------------------------------------
+
+Para calificar la correcta utilización de las tareas y eventos, se verificará el grado de satisfacción de los siguientes elementos:
+
+  #. Cada tarea constituye una actividad atómica que no es fácilmente descomponible en dos o más pasos.
+  #. Las tareas cuyo resultado sea una comunicación entre participantes generan un mensaje, que es recogido de manera adecuada por el correspondiente participante.
+  #. Cada participante tiene correctamente identificado un evento de inicio.
+  #. El tipo de evento para iniciar el flujo de actividades de cada participante es adecuado.
+  #. El flujo de actividades de cada participante llega un evento de terminación.
+  #. Cada nodo de terminación está correctamente identificado como terminación simple o terminación abrupta.
+  #. Cada evento de temporización tiene indicado o bien el tiempo que ha de transcurrir desde que se activa hasta que genere un *token* de salida, o bien la hora concreta a la que generará un *token* de salida.
+  #. Los eventos basados en la recepción de un mensaje indican el asunto del mesaje cuando éste sea relevante.
+  #. Los eventos basados en condición identifican con claridad la condición que ha de cumplirse para que generen un token de salida.
+
+Correcta Utilización de los Gateways
+-------------------------------------
+
+En este apartado se valorará que los *gateways* seleccionados para crear bifurcaciones sean correctos con respecto a su propósito, así como que las condiciones de sus flujos condicionales, cuando proceda, estén correctamente identificadas.
+
+Más concretamente, se analizará el grado de satisfacción de los siguientes elementos:
+
+  #. Las bifurcaciones basadas en eventos tienen identificadas al menos dos eventos.
+  #. Las bifurcaciones exclusivas tienen un conjunto de condiciones mutuamente excluyentes.
+  #. Las bifurcaciones exclusivas o inclusivas poseen flujos condicionales suficientes para cubrir todas las situaciones posibles que fuese necesario tratar.
+  #. Las bifurcaciones paralelas convergentes se utilizan para sincronizar flujos de ejecución que deban sincronizarse en un punto determinado.
+  #. Las bifurcaciones inclusivas convergentes se utilizan para unir flujos de ejecución alternativos donde uno solo de ellos podría estar activo en un momento dado.
+  #. Se diferencia correctamente entre bifurcación divergente exclusiva e inclusiva.
+
+Corrección Semántica
+---------------------
+
+En este apartado se valorará que todo lo indicado en la descripción textual del proceso de negocio quede reflejado en algún apartado del diagrama BPMN 2.0 que lo modela, y que todo lo que aparece en el diagrama del proceso de negocio sea conforme a la descripción textual del proceso de negocio. Se verificará también que cada tarea esté correctamente asignada al participante que deba realizarla.
+
+Ortografía, Gramática y Maquetación
+-------------------------------------
+
+Para calificar la ortografía, gramática y maquetación, se verificará el grado de satisfacción de los siguientes elementos:
+
+  #. Los textos que aparecen en el diagrama están libres de errores tipográficos u ortográficos.
+  #. Los textos que aparecen en el diagrama están libres de errores gramaticales.
+  #. Los elementos del diagrama están, en general, bien alineados.
+  #. Los elementos del diagrama no están solapados.
+  #. El diagrama es, con carácter general, compacto, sin existir un espaciado excesivo entre sus elementos.
+  #. El diagrama se lee bien de izquierda a derecha.
+  #. Las líneas entre elementos son, con carácter general, líneas rectas.
+  #. Los cruces de líneas se evitan, en la medida de lo posible.
+  #. El diagrama, con carácter general, se percibe como ordenado y limpio.
