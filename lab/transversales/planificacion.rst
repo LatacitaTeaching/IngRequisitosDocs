@@ -37,6 +37,9 @@ La planificación de cada dinámica de grupo deberá realizarse utilizando la pl
 
 :download:`Ejemplo de Planificación de una Actividad <src/planificacion/ejemploPlanificacion.pdf>`
 
+:download:`Ejemplo de Planificación de una Actividad (versión Covid-19) <src/planificacion/ejemploPlanificacion(covid-19).pdf>`
+
+
 Criterios de Evaluación
 =========================
 
