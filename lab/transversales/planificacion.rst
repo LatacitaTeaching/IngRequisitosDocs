@@ -66,7 +66,7 @@ Para evaluar y calificar este apartado se atenderá al grado de satisfacción de
 
   #. El objetivo y los resultados esperados de la actividad están claramente especificados.
   #. Los datos administrativos proporcionados para la ejecución de la actividad son suficientes para su correcta ejecución y no dejan lugar a dudas razonables. Se recomienda prestar atención a que estén especificados fecha, hora y lugar de la actividad.
-  #. La descripción de la actividad es técnicamente correcta. Es decir, si se decide utilizar un *Método KJ*
+  #. La descripción de la actividad es técnicamente correcta. Es decir, si se decide utilizar un *Método KJ*, hay una fase de pensamiento individual y en silencio.
   #. La descripción de cómo se debe ejecutar la actividad es clara, precisa y concisa.
 
 En caso de que los objetivos de la actividad estén muy débilmente especificados, siendo claramente difusos o erróneos, la calificación global de la planificación no podrá exceder de los 4 puntos, con independencia de las calificaciones obtenidas en el resto de los elementos evaluables.
