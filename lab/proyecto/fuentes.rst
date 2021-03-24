@@ -43,7 +43,8 @@ Elementos a Entregar y Aclaraciones
 
 Se deberán entregar para su evaluación los siguientes elementos:
 
-    #. El acta o las actas correspondientes a las activiadades realizadas para la identificación de fuentes de requisitos.
+    #. La planificicación de las actividades a ejecutar para la identificación de las fuentes de requisitos.
+    #. El acta o las actas correspondientes a las actividades realizadas para la identificación de fuentes de requisitos.
     #. El documento con la especificación de las fuentes de requisitos.
 
 Estos documentos se entregarán a través de la plataforma moodle siguiendo las instrucciones en ella proporcionadas y dentro de las fechas establecidas. La entrega de dichos documentos fuera de dichas fechas o un formato diferente al solicitado supondrá una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
