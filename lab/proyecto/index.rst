@@ -5,11 +5,12 @@
 .. toctree::
    :maxdepth: 1
 
-   vision.rst
    contexto.rst
+   vision.rst
    fuentes.rst
    captura.rst
    entrevista.rst
    objetivos.rst
-..   proyecto/funcionales.rst
-..   proyecto/seguridad.rst
+   funcionales.rst
+   seguridad.rst
+   bpmn.rst

@@ -1,5 +1,5 @@
 ===============================================
- Fase 1 - Definición de la Visión del Proyecto
+ Fase 2 - Definición de la Visión del Proyecto
 ===============================================
 
 Introducción
