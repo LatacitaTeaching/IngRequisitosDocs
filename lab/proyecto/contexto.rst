@@ -1,5 +1,5 @@
 ================================================
- Fase 2 - Definición del Contexto de un Sistema
+ Fase 1 - Definición del Contexto de un Sistema
 ================================================
 
 Introducción
@@ -162,6 +162,6 @@ La calificación del *Glosario de Términos del Contexto del Sistema Sw* vendrá
   #. Definición de Términos (9 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
-*Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. Para calificar la definición de los términos se valorará que dichas definiciones sean correctas, precisas y concisas. 
+*Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. Para calificar la definición de los términos se valorará que dichas definiciones sean correctas, precisas y concisas.
 
 La calificación de este ítem será común al grupo, salvo que el grupo opte por solicitar una evaluación individual.
