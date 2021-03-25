@@ -75,6 +75,7 @@ Para calificar la descripción de las actividades, se verificará el grado de sa
   #. Los participantes son adecuados y contribuyen a la consecución del objetivo de la actividad, y, a este respecto, su elección de participantes no es fácilmente rebatible.
   #. El objetivo de la actividad especifica claramente el propósito concreto de la actividad, incluyendo una breve descripción de por qué se sigue exactamente la estrategia seleccionada.
   #. La información a obtener indica claramente los artefactos que se generarán tras ejecutar la actividad, así como la forma concreta que tendrán esos artefactos.
+  #. Los artefactos generados son artefactos propios de un proceso de Ingeniería de Requisitos, como objetivos, escenarios, modelos solución o restricciones.
   #. La duración es realista y adecuada, e indica el tiempo total de ejecución de la actividad. En el caso de los cuestionarios, dicho tiempo reflejará tanto el tiempo de ejecución de un cuestionario individual, como el de realización de todos los cuestionarios.
   #. El lugar donde realizar la actividad es adecuado y su elección no es fácilmente rebatible. En el caso de cuestionarios *online*, el lugar será la web o sistema web donde se aloje el cuestionario.
   #. Los recursos asociados a la actividad no son fácilmente rebatible, no conteniendo carencias obvias ni excesos evidentes.
@@ -91,6 +92,7 @@ Secuenciación de las Actividades
   #. Las personas y recursos involucradas en cada actividad están claramente identificados.
   #. No se producen utilizaciones simultáneas de recursos, ya sean humanos o materiales.
   #. Se respetan las dependencias entre tareas.
+  #. Las actividades comienzan a ejecutarse tan pronto como es posible.
 
 Apéndice A. Tablas de Costes
 ================================
