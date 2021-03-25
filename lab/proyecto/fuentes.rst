@@ -30,8 +30,14 @@ Actividades
 Para identificar y especificar las fuentes que se utilizarán para la captura requisitos se deberán llevar a cabo las siguientes actividades:
 
   #. Ejecutar el procedimiento propuesto por Klaus Pohl en la Sección 21.4 de su libro *Requirements Engineering*. A la hora de ejecutar este procedimiento, se pueden introducir actividades complementarias tanto para fomentar la creatividad durante la propuesta de potenciales fuentes como para llevar a cabo su priorización por relevancia y selección.
-  #. Analizar la cobertura del contexto y, en caso de que haya elementos sin cubrir, volver a identificar el proceso anterior.
-  #. Generar un documento, conforme a la plantilla más abajo proporcionada, donde aparezcan: (1) las fuentes identificadas, ordenadas mayor a menor relevancia; (2) la descripción de al menos una fuente de las identificadas por alumno; y, (3) el análisis de la cobertura del contexto.
+  #. Analizar la cobertura del contexto y, en caso de que haya elementos sin cubrir, volver a ejecutar el proceso del punto anterior.
+  #. Generar un documento, conforme a la plantilla más abajo proporcionada, donde aparezcan:
+
+    a. las fuentes de requisitos identificadas, ordenadas mayor a menor relevancia;
+    b. una descripción por alumno de una fuente de requisitos;
+    c. el análisis de la cobertura del contexto.
+
+  Las fuentes seleccionadas para su especificación deben ser de las identificadas como de mayor relevancia. Es decir, en un equipo de trabajo de 5 alumnos, las fuentes que se especificarán de manera más detallada serán las 5 fuentes identificadas como de mayor relevancia.
 
 Para elaborar el contexto del sistema sw se proporciona:
 
