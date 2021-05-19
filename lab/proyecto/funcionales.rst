@@ -5,13 +5,13 @@ Fase 7 - Especificación de Requisitos Funcionales
 Introducción
 =============
 
-Durante un proceso de Ingeniería de Requisitos, los conceptos de *esencia* y *encarnación* aparecen recurrentemente a lo largo del mismo para, en primer lugar, definir qué debe hacer el sistema (esencia), y, a continuación, especificar *cómo* debe hacerlo (encarnación). Es decir, un Proceso de Ingeniería completo consiste en determinar cómo hacer lo que se debe hacer.
+Durante un proceso de Ingeniería de Requisitos, los conceptos de *esencia* y *encarnación* aparecen recurrentemente a lo largo del mismo para, en primer lugar, definir qué debe hacer el sistema (esencia), y, a continuación, especificar *cómo* debe hacerlo (encarnación). Es decir, un Proceso de Ingeniería de Requisitos completo consiste en determinar cómo hacer lo que se debe hacer.
 
-Por ejemplo, para un sistema software para la gestión de una biblioteca, un Ingeniero de Requisitos puede determinar que el sistema debe permitir la incorporación de nuevos libros al catálogo de la biblioteca. Esto especifica el qué se quiere hacer. No obstante, hay diversas formas de hacerlo. La más sencilla es crear un formulario que permita la incorporación de las nuevas adquisiciones de manera manual. Esta forma sería un posible *cómo*, pero no es el único *cómo*, o manera de materializar el sistema. Por ejemplo, podría considerarse como alternativa la posibilidad de importar automáticamente los datos de los nuevos libros a añadir desde algún catálogo de libros públicamente accesible en línea. Esta nueva alternativa es más cómoda para el usuario, que únicamente necesitaría especificar algún dato del libro, como su ISBN, quedando el resto de sus datos automáticamente incorporados al catálogo de la biblioteca. Por otro lado, esta nueva alternativa podría más compleja de implementar, y por tanto más cara de desarrollar, que la opción inicial de crear un formulario para la incorporación manual de los datos.
+Por ejemplo, para un sistema software para la gestión de una biblioteca, un Ingeniero de Requisitos puede determinar que el sistema debe permitir la incorporación de nuevos libros al catálogo de la biblioteca. Esto especifica el qué se quiere hacer. No obstante, hay diversas formas de hacerlo. La más sencilla es crear un formulario que permita la incorporación de las nuevas adquisiciones de manera manual. Esta forma sería un posible *cómo*, pero no es el único *cómo*, o manera de materializar el sistema. Por ejemplo, podría considerarse como alternativa la posibilidad de importar automáticamente los datos de los nuevos libros a añadir desde algún catálogo de libros accesible públicamente en línea. Esta nueva alternativa es más cómoda para el usuario, que únicamente necesitaría especificar algún dato del libro, como su ISBN, quedando el resto de sus datos automáticamente incorporados al catálogo de la biblioteca. Por otro lado, esta nueva alternativa podría ser más compleja de implementar y, por tanto, más cara.
 
-En la fase anterior del Proceso de Ingeniería de Requisitos, vimos cómo se pueden utilizar modelos de objetivos para especificar las intenciones y deseos de los diversos *stakeholders* con respecto a un sistema sw. Es decir, para especificar el *qué* debe hacer el sistema. Tras esta especificación del *qué*, o de la esencia del sistema, para completar una *Especificación de Requisitos*, los ingenieros de requisitos deberán desarrollar escenarios que especifiquen maneras concretas de satisfacer los objetivos identificados. Es decir, los ingenieros de requisitos deberán especificar con detalle *cómo* el sistema va a hacer lo que tiene que hacer.
+En la fase anterior del Proceso de Ingeniería de Requisitos, vimos cómo se pueden utilizar modelos de objetivos para especificar las intenciones y deseos de los diversos *stakeholders* con respecto a un sistema sw. Es decir, para especificar el *qué* debe hacer el sistema. Tras esta especificación del *qué*, o de la esencia del sistema, para completar una *Especificación de Requisitos*, los ingenieros de requisitos deberán desarrollar escenarios que especifiquen maneras concretas de satisfacer los objetivos identificados. Es decir, los se deberá especificar con detalle *cómo* el sistema va a hacer lo que tiene que hacer.
 
-El objetivo último de esta práctica es que el alumno adquiera las habilidades necesarias para especificar escenarios satisfactoriamente. La siguiente sección detalla los subobjetivos que  deberán satisfacerse para poder alcanzar dicho objetivo general.
+El objetivo último de esta fase del proyecto de Ingeniería de Requisitos es que el alumno adquiera las habilidades necesarias para especificar escenarios satisfactoriamente. La siguiente sección detalla los subobjetivos que deberán satisfacerse para poder alcanzar este objetivo general.
 
 Objetivos
 ==========
@@ -19,8 +19,9 @@ Objetivos
 Los objetivos concretos de esta práctica son:
 
   #. Ser capaz de especificar tareas de un modelo de objetivos mediante *casos de uso*.
-  #. Ser capaz de especificar escenarios alterativos y excepcionales mediante la especificación de extensiones de un caso de uso.
+  #. Ser capaz de especificar escenarios alternativos y excepcionales mediante la especificación de extensiones de un caso de uso.
   #. Ser capaz de especificar tareas de un modelo de objetivos mediante *historias de usuario*.
+  #. Construir el *Product Backlog* que se utilizará durante el curso que viene para el desarrollo del proyecto integrado.
 
 La siguiente sección describe las actividades que se deberán realizar para la consecución de estos objetivos.
 
@@ -30,19 +31,19 @@ Actividades
 Para aprender a especificar escenarios que indiquen maneras concretas de satisfacer un requisito funcional, cada alumno, de manera individual, deberá:
 
   #. Especificar de manera completa, como *caso de uso*, una tarea, u objetivo de nivel mar, contenido en el modelo de objetivos elaborado en la práctica anterior. Para especificar este caso de uso, se deberá utilizar la plantilla estandarizada disponible al final de esta sección. Además, el alumno deberá crear *mock-ups* de las diferentes interfaces de usuario a utilizar durante la ejecución del caso de uso.
-  #. Especificar de manera completa, como *historia de usuario*, una tarea, u objetivo de nivel mar, contenido en el modelo de objetivos elaborado en la práctica anterior. Para especificar esta historia de usuario, se deberá utilizar la plantilla estandarizada disponible al final de esta sección. Además, el alumno deberá crear *mock-ups* de las diferentes interfaces de usuario a utilizar durante la ejecución de la historia de usuario.
+  #. Especificar de manera inicial en *Scrumdesk*, es decir, incluyendo sólo título y descripción, todas las tareas identificadas en el modelo de objetivos creado en la fase anterior del proyecto. Por cada historia de usuario, identificar con claridad su autor.
+  #. Especificar de manera completa, como *historia de usuario*, una tarea de las anteriormente introducidas en *Scrumdesk*, incluyendo en tal especificación todas las pruebas de aceptación que sean pertinentes y adjuntando todos los *mockups* que sean necesarios para la comprensión de la historia de usuario.
 
-Las tareas, u objetivos de nivel mar, escogidos por cada alumno para la especificación del caso de uso y de la historia de usuario deberán ser distintos entre sí; y a su vez, distintos de cualquier tarea, u objetivo de nivel mar, seleccionado por el resto de sus compañeros de grupo para la especificación de sus casos de uso e historias de usuario. En caso de no haber tareas suficientes en el modelo de objetivos para todos los miembros de un grupo, se deberá contactar con el profesor, quien generará nuevas tareas para que haya al menos dos tareas por cada miembro del grupo.
+Las tareas, u objetivos de nivel mar, escogidos por cada alumno para la especificación del caso de uso y de la historia de usuario deberán ser distintos entre sí; y a su vez, distintos de cualquier tarea, u objetivo de nivel mar, seleccionado por el resto de sus compañeros de grupo para la especificación de sus casos de uso e historias de usuario. En caso de no haber tareas suficientes en el modelo de objetivos para todos los miembros de un grupo, se deberá contactar con el profesor, quien generará nuevas tareas para que haya al menos dos tareas diferentes por cada miembro del grupo.
 
-Para la realización de los *mock-ups*, se recomienda la utilización de la herramienta `NinjaMock <https://ninjamock.com/>`_. En cualquier caso, se aconseja que los prototipos realizados no sean muy realistas y tengan la apariencia de bocetos a mano alzada, aún cuando hayan sido realizados mediante herramientas informáticas.
+Para la realización de los *mock-ups* se podrá hacer uso de cualquier herramienta. En cualquier caso, se aconseja que los prototipos realizados no sean muy realistas y tengan la apariencia de bocetos a mano alzada, aún cuando hayan sido realizados mediante herramientas informáticas.
 
 .. note::
-   Dadas las circunstancias excepcionales que estamos viviendo durante el curso 2019-2020 debido a la crisis sanitaria generada por el Covid-19, se permitirá a los alumnos de dicho curso  utilizar una misma tarea, u objetivo de nivel mar, para especificar su caso de uso y su historia de usuario. De esta forma, se espera rebajar el trabajo del alumno, que simplemente deberá especificar un caso de uso y, a continuación, llevar a cabo las modificaciones que sean oportunas para especificar el mismo escenario como historia de usuario. Si lo desease, también podría realizarlo al revés, primero especificar el escenario como historia de usuario y luego transformarlo a caso de uso. No obstante, esta facilidad posee como problema de que los errores cometidos en la especificación del escenario aparecerían duplicados en ambas especificaciones, por lo que podrían penalizar doble.
+   Dadas las circunstancias excepcionales que estamos viviendo durante el curso 2020-2021 debido a la crisis sanitaria generada por el Covid-19, se permitirá a los alumnos de dicho curso  utilizar una misma tarea, u objetivo de nivel mar, para especificar su caso de uso y su historia de usuario. De esta forma, se espera rebajar el trabajo del alumno, que simplemente deberá especificar un caso de uso y, a continuación, llevar a cabo las modificaciones que sean oportunas para especificar el mismo escenario como historia de usuario. Si lo desease, también podría realizarlo al revés, primero especificar el escenario como historia de usuario y luego transformarlo a caso de uso. No obstante, esta facilidad posee como problema de que los errores cometidos en la especificación del escenario aparecerían duplicados en ambas especificaciones, por lo que podrían penalizar doble.
 
 Para la *especificación de casos de uso* e *historias de usuario* se proporciona:
 
   #. :download:`Una plantilla para la especificación de casos de uso <src/funcionales/plantillaCasosDeUso.docx>`
-  #. :download:`Una plantilla para la especificación de historias de usuario <src/funcionales/plantillaHistoriasDeUsuario.docx>`
   #. :download:`Ejemplo de especificación de un caso de uso <src/funcionales/ejemploCasoDeUso.pdf>`
   #. :download:`Ejemplo de especificación de una historia de usuario <src/funcionales/ejemploHistoriaDeUsuario.pdf>`
 
@@ -51,9 +52,10 @@ Elementos a Entregar y Aclaraciones
 
 Se deberán entregar para su evaluación los siguientes elementos:
 
-  #. Una plantilla con la especificación completa del caso de uso seleccionado por el alumno.
-  #. Una plantilla con la especificación completa de la historia de usuario seleccionada por el alumno.
-  #. Una serie de *mock-ups* que especifiquen, a modo de prototipo, las interfaces de usuario que sería necesario implementar para dar soporte al caso de uso e historias de usuario especificadas.
+  #. Una plantilla con la especificación completa del caso de uso seleccionado por cada alumno del equipo.
+  #. Un *Product Backlog* completo en *Scrumdesk*, con la especificación inicial como historias de usuario de todas las tareas identificadas en el diagrama de objetivos creado en la fase anterior del proyecto de Ingeniería de Requisitos.
+  #. La especificación completa, incluyendo la definición de las pruebas de aceptación, de una historia de usuario por cada alumno del equipo.
+  #. Una serie de *mock-ups* que especifiquen, a modo de prototipo, las interfaces de usuario que sería necesario implementar para dar soporte al caso de uso especificado por cada alumno.
 
 El conjunto de ficheros resultantes se entregará dentro de las fechas establecidas a través de la plataforma *Moodle* siguiendo las instrucciones en ella proporcionadas. Las entregas fuera de las fechas establecidas o con un formato diferente al solicitado tendrán una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
 
@@ -65,7 +67,7 @@ La calificación de la fase de modelado y especificación de objetivos vendrá d
   #. Completitud del Caso de Uso (1 punto).
   #. Corrección de la Especificación del Caso de Uso (2 puntos).
   #. Completitud de la Historia de Usuario (1 punto).
-  #. Corrección de la Tarjeta de la Historia de Usuario (2 puntos).
+  #. Corrección de las Tarjetas de la Historia de Usuario (2 puntos).
   #. Corrección de la Confirmación de la Historia de Usuario (1 puntos).
   #. Identificación de Escenarios Alternativos y Excepcionales (2 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
@@ -125,8 +127,10 @@ Para calificar la corrección de la especificación del caso de uso creado por e
   #. El paso final de una extensión indica a donde se redirige el flujo de la extensión.
   #. Siempre que el sistema muestre información a un actor, el sistema espera a que el usuario haya leído la información mostrada.
 
-Corrección de la Tarjeta de la Historia de Usuario
----------------------------------------------------
+Corrección de las Tarjetas de las Historias de Usuario
+--------------------------------------------------------
+
+De todas las historias de usuario especificadas por un alumno, se calificarán las tarjetas de las tres que este alumno decida. Entre esas tres debe estar la historia de usuario que el alumno haya especificado de manera completa. Los nombres de estas tres historias de usuario se indicarán al final de documento que contenga el caso de uso especificado por el alumno.
 
 Para calificar la corrección de la tarjeta inicial asociada a una historia de usuario  se verificará el grado de satisfacción de los siguientes elementos:
 
