@@ -39,6 +39,8 @@ Para aprender a especificar requisitos de seguridad, cada alumno deberá, de man
   #. Para cada premisa de confianza identificada en el punto anterior, identificar sus contrargumentos, si los hubiere.
   #. Si hubiese algún contrargumento que mereciese la pena seguir tratando, diseñar una medida de control. Para dicha medida de control no es necesario identificar nuevas premisas de confianza y contrargumentos, por lo que el análisis de la seguridad deberá parar en este nivel.
 
+.. note:: Para el curso 2020-2021, dado lo apretado del calendario, no es necesario especificar permisas de confianza y contrargumentos. Es decir, si alguien ha realizado un análisis de seguridad perfecto pero ha dejado de especificar las premisas de confianza y los contrargumentos, su calificación será de 10. No obstante, aquellos alumnos que lo deseen, podrán especificar premisas de confianza y contrargumentos que, en caso de estar bien especificados, serán recompensados con hasta dos puntos extra en la práctica.
+
 Para la *especificación de requisitos de seguridad* se proporciona:
 
   #. :download:`Una plantilla para la especificación de requisitos de seguridad <src/seguridad/plantillaSeguridad.docx>`
