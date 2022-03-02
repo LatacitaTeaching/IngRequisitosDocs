@@ -51,7 +51,7 @@ Para elaborar el contexto del sistema sw se proporciona:
 
   #. :download:`La plantilla para la definición del contexto <src/contexto/plantillaContexto.docx>`
   #. :download:`La plantilla para la definición del glosario <src/contexto/plantillaGlosario.docx>`
-..  #. :download:`Ejemplo de Definición del Contexto un Sistema Sw <src/contexto/ejemploContexto.pdf>`
+  #. :download:`Ejemplo de Definición del Contexto un Sistema Sw <src/contexto/ejemploContexto.pdf>`
 
 Elementos a Entregar y Aclaraciones
 =======================================
