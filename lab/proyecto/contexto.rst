@@ -131,18 +131,15 @@ Para evaluar la descripción de los actores, se valorará el grado de satifacci�
   #. Si dentro de un tipo de rol existiesen varios subroles, y cada subrol puede tener un modo de utilización diferente de nuestro sistema, dicho rol se encuentra dividido en cada uno de sus subroles.
   #. La identificación de cada actor como primario, secundario o terciario es correcta.
   #. En el caso de los actores que no sean últimos, se indica claramente quién actuaría como actor último.
-  #. La descripción de las habilidades informáticas refleja las habilidades actuales del actor con respecto a la manipulación de sistemas informáticos y dispositivos electrónicos.
-  #. La descripción de las habilidades informáticas no contienen suposiciones fácilmente discutibles o rebatibles.
-  #. Las habilidades informáticas describen claramente los sistemas actualmente existentes en el entorno del actor y con los cuales dicho actor interacciona.
+  #. El rango de edad de cada actor no es fácilmente rebatible.
   #. Los objetivos de cada actor son suficientemente amplios, no existiendo limitaciones al sistema innecesarias.
-  #. Los objetivos de cada actor no contienen funcionalidades simples que representen operaciones concretas, de escasa importancia, sobre el .
-  #. Los modos de acceso describen como interacciona el actor habitualmente con sistemas similares al nuestro, o como se esperaría que interactúe, de acuerdo con sus rutinas y modo de vida actuales.
-  #. La descripción de la frecuencia indica con qué frecuencia y en qué días y horas realizaría el actor interacciones con nuestro sistema, de acuerdo con sus rutinas y modo de vida actuales.
-  #. La descripción de la frecuencia indica cuántos usuarios podrían realizar operaciones de manera concurrente con nuestro sistema, de acuerdo con sus rutinas y modo de vida actuales, destacando casos medio y peor.
-  #. La descripción de la frencencia no contiene suposiciones claramente discutibles o rebatibles.
-  #. Los ejemplos de actores proporcionados son significativos con respecto al rol que representan.
-  #. En el caso de grupos de actores amplios, como ejemplos de actor no se utilizan ejemplos individuales, sino formas de acceder a un conjunto significativo de dicho tipo de actor. Por ejemplo, si el actor es *estudiante de Bellas Artes*, debería proporcionarse algún modo de acceder, por ejemplo, a un curso completo de estudiantes de Bellas Artes.
-  #. Los ejemplos de actores no son inventados.
+  #. Los objetivos de cada actor no contienen funcionalidades simples que representen operaciones concretas, de escasa importancia, que se ejecuten dentro del contexto del sistema.
+  #. Las formas de opración describen el entorno y los elementos utilizados por los actores para ejeuctar las operaciones que realizan dentro del contexto, de acuerdo con sus rutinas y modo de vida habituales.
+  #. La descripción de la frecuencia indica con qué frecuencia y en qué días y horas realizaría el actor las operaciones en el contexto, de acuerdo con sus rutinas y modo de vida habituales.
+  #. La descripción de la frecuencia indica cuántos usuarios podrían realizar operaciones de manera concurrente en el contexto del sistema, de acuerdo con sus rutinas y modo de vida actuales, destacando casos medio y peor.
+  #. La descripción de la frecuencia no contiene afirmaciones claramente discutibles o rebatibles.
+  #. La forma de contacto describe un procedimiento concreto para ponerse en contacto con uno o más actores concretos que desempeñen el rol descrito, de manera que si hiciese falta conseguir un actor con el rol descrito en posteriores fases del procesos de Ingeniería de Requisitos, sepamos cómo hacerlo.
+  #. En el caso de grupos de actores amplios, como ejemplos de actor no se pueden utilizar datos de contacto de personas concretas, sino que hay que describir formas de acceder a un conjunto significativo de dicho tipo de actor. Por ejemplo, si el actor es *estudiante de Bellas Artes*, debería proporcionarse algún modo de acceder, por ejemplo, a un curso completo de estudiantes de Bellas Artes.
 
 Vista de Tecnología
 ^^^^^^^^^^^^^^^^^^^^
