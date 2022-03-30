@@ -30,7 +30,7 @@ Actividades
 
 Para diseñar un proceso de captura de requisitos deberán llevarse a cabo las siguientes acciones:
 
-  #. Para las 10 fuentes identificadas como de mayor relevancia en la fase anterior del proceso de Ingeniería de Requisitos, elegir la estrategia más adecuada para extraer requisitos de dichas fuentes.
+  #. Para un conjunto, consensuado con el profesor, de  las fuentes de requisitos identificadas como de mayor relevancia en la fase anterior del proceso de Ingeniería de Requisitos, elegir la estrategia más adecuada para extraer requisitos de dichas fuentes.
   #. A continuación, cada miembro del equipo deberá especificar, de manera individual y completa, una de las actividades creadas en el punto anterior, utilizando para ello la plantilla proporcionada.
   #. Secuenciar las actividades que hayan sido especificadas, de forma que se ordenen temporalmente sobre un calendario, teniendo en cuenta los recursos disponibles. Como recursos se puede contar con los miembros de cada equipo, más una sala de reuniones, que por comodidad, podemos considerar que no estará ocupada por otros proyectos. Igualmente, se puede considerar que los recursos externos, como personas para entrevistar, estarán también disponibles para nosotros. Para la elaboración del calendario puede considerarse como inicio del proceso de captura de requisitos el 1 de Marzo del año que corresponda.
 
