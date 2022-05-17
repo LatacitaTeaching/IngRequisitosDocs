@@ -31,15 +31,13 @@ Actividades
 Para aprender a especificar requisitos de seguridad, cada alumno deberá, de manera individual:
 
   #. Partiendo de los modelos de objetivos y escenarios creados en las etapas anteriores del proyecto, identificar un activo que forme parte de dicho sistema software. Cada alumno deberá escoger un activo distinto al de sus compañeros.
-  #. Para el activo identificado, identificar todas las potenciales amenazas que podrían afectar a dicho activo.
+  #. Para el activo escogido, identificar todas las potenciales amenazas que podrían afectar a dicho activo.
   #. Para las dos amenazas que se consideren más relevantes, analizar su exposición.
   #. Para la amenaza que se considere más importante tratar de las dos anteriormente analizadas, identificar todos los posibles ataques que podrían materializar dicha amenaza. Especificar cómo se llevaría a cabo el ataque de manera detallada.
   #. Para todos los ataques identificados en el punto anterior, diseñar medidas de control que permitan evitar, neutralizar o mitigar dichos ataques.
   #. Para una de las medidas de control especificadas en el punto anterior, especificar cuáles serían sus premisas de confianza.
   #. Para cada premisa de confianza identificada en el punto anterior, identificar sus contrargumentos, si los hubiere.
   #. Si hubiese algún contrargumento que mereciese la pena seguir tratando, diseñar una medida de control. Para dicha medida de control no es necesario identificar nuevas premisas de confianza y contrargumentos, por lo que el análisis de la seguridad deberá parar en este nivel.
-
-.. note:: Para el curso 2020-2021, dado lo apretado del calendario, no es necesario especificar permisas de confianza y contrargumentos. Es decir, si alguien ha realizado un análisis de seguridad perfecto pero ha dejado de especificar las premisas de confianza y los contrargumentos, su calificación será de 10. No obstante, aquellos alumnos que lo deseen, podrán especificar premisas de confianza y contrargumentos que, en caso de estar bien especificados, serán recompensados con hasta dos puntos extra en la práctica.
 
 Para la *especificación de requisitos de seguridad* se proporciona:
 
