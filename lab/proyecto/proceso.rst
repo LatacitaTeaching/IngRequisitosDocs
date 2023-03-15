@@ -42,7 +42,7 @@ Para diseñar un proceso de captura de requisitos se deberán llevar a cabo las 
   #. Especificar, por cada miembro del equipo de trabajo, una de las actividades creadas en el punto anterior, de manera individual y completa y utilizando para ello la plantilla proporcionada.
   #. Secuenciar las actividades que hayan sido especificadas, de forma que se ordenen temporalmente sobre un calendario, teniendo en cuenta los recursos disponibles. Como recursos se puede contar con los miembros de cada equipo, más una sala de reuniones, que por comodidad, podemos considerar que no estará ocupada por otros proyectos. Igualmente, se puede considerar que los recursos externos, como personas para entrevistar, estarán también disponibles para nosotros. Para la elaboración del calendario puede considerarse como inicio del proceso de captura de requisitos el 1 de Marzo del año que corresponda.
 
-Para elaborar el documento con el proceso de captur se proporciona:
+Para elaborar el documento con el proceso de captura se proporciona:
 
   #. :download:`La plantilla para la definición de la fuentes de requisitos <src/fuentes/plantillaFuentes.docx>`
   #. :download:`Un ejemplo de especificación de fuentes de requisitos <src/fuentes/ejemploFuentes.pdf>`
@@ -55,7 +55,7 @@ Se deberán entrega para su evaluación un único  documento con la identificaci
 Criterios de Evaluación
 =========================
 
-La calificación del *documento con el proceso de captura de requisitos* vendrá determinida por la ponderación de las calificaciones de los siguientes apartados:
+La calificación del *documento con el proceso de captura de requisitos* vendrá determinada por la ponderación de las calificaciones de los siguientes apartados:
 
   #. Completitud (2.5 puntos).
   #. Elección de Actividades (3 puntos).
@@ -106,3 +106,29 @@ Para calificar la descripción de las actividades, se verificará el grado de sa
   #. Las horas asignadas a la preparación y procesamiento de la actividad son adecuadas, no pecando de  defectos ni excesos. A este respecto cabe destacar que cuando se trabaja no se trata de hacer carreras de velocidad, sino de mantener un ritmo normal y sostenible de trabajo. Es decir, aunque un diagrama UML pudiese hacerse en algún momento en dos horas, o alguien alguna vez lo hiciese en una hora, su duración debe ser la de hacerlo relajado y sin prisas.
   #. La forma de contacto da una idea clara de cómo encontrar a los participantes en un actividad y cómo contactar con ellos. En caso de que las actividades se realicen sobre sistemas o documentos, en este apartado se deberá indicar cómo puede acceder al sistema o dónde puedo encontrar un documento. Por ejemplo, podría proporcionar una URL al sistema o documento. 
   #. La información proporcionada en los comentarios adicionales es de utilidad y contribuye a entender mejor la descripción de la actividad, no siendo fácilmente prescindible.
+
+  .. Poner criterios mínimos. 
+
+  Secuenciación de las Actividades
+---------------------------------
+
+  #. Cada actividad descrita está incluida en el calendario.
+  #. La duración de cada actividad es consistente con los tiempos de preparación, ejecución y procesamiento propocionadas en la correspondiente descripción de la actividad.
+  #. Los hitos importantes de cada actividad, como el día de ejecución de una entrevista, están correctamente resaltados en el calendar io.
+  #. Las personas y recursos involucradas en cada actividad están claramente identificados.
+  #. No se producen utilizaciones simultáneas de recursos, ya sean humanos o materiales.
+  #. Se respetan las dependencias entre tareas.
+
+.. Poner criterios mínimos. 
+
+Apéndice A. Tablas de Costes
+================================
+
+====================== =========
+Concepto                Precio
+====================== =========
+Hora Ingeniero Senior       130€
+Hora Ingeniero Junior        80€
+Dietas Comida                70€
+Dietas Alojamiento          120€
+====================== =========
