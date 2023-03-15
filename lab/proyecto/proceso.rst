@@ -109,11 +109,11 @@ Para calificar la descripción de las actividades, se verificará el grado de sa
 
   .. Poner criterios mínimos. 
 
-  Secuenciación de las Actividades
----------------------------------
+Secuenciación de las Actividades
+----------------------------------
 
   #. Cada actividad descrita está incluida en el calendario.
-  #. La duración de cada actividad es consistente con los tiempos de preparación, ejecución y procesamiento propocionadas en la correspondiente descripción de la actividad.
+  #. La duración de cada actividad es consistente con los tiempos de preparación, ejecución y procesamiento proporcionadas en la correspondiente descripción de la actividad.
   #. Los hitos importantes de cada actividad, como el día de ejecución de una entrevista, están correctamente resaltados en el calendar io.
   #. Las personas y recursos involucradas en cada actividad están claramente identificados.
   #. No se producen utilizaciones simultáneas de recursos, ya sean humanos o materiales.

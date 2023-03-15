@@ -1,5 +1,5 @@
 ================================================
-Fase 6 - Modelado y Especificación de Objetivos
+Fase 5 - Modelado y Especificación de Objetivos
 ================================================
 
 Introducción

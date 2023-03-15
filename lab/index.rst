@@ -9,4 +9,3 @@ El objetivo fundamental de la asignatura de Ingeniería de Requisitos es que el 
 
    proyecto/index.rst
    transversales/index.rst
-   bpmn/bpmn.rst
