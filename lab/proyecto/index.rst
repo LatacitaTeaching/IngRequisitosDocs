@@ -7,8 +7,7 @@
 
    contexto.rst
    vision.rst
-   fuentes.rst
-   captura.rst
+   proceso.rst
    entrevista.rst
    objetivos.rst
    funcionales.rst
