@@ -25,7 +25,7 @@ Los objetivos de esta práctica son:
   #. Ser capaz de identificar potenciales fuentes de requisitos.
   #. Ser capaz de seleccionar fuentes de requisitos en función de su relevancia.
   #. Ser capaz de seleccionar las estrategias de captura de requisitos que resulten más adecuada para extraer información de las fuentes de requisitos identificadas, teniendo en cuenta las características de cada fuente, la información que se espera obtener de ella y las limitaciones de tiempo y coste de cada proyecto.
-  #. Ser capaz de asegurar que un proceso de captura de requisio es completo, cubriendo de manera adecuada todos aquellos elementos del contexto de un sistema que resulten relevantes para su desarrollo. 
+  #. Ser capaz de asegurar que un proceso de captura de requisito es completo, cubriendo de manera adecuada todos aquellos elementos del contexto de un sistema que resulten relevantes para su desarrollo. 
   #. Ser capaz de planificar a alto nivel actividades de captura de requisitos.
   #. Ser capaz de secuenciar actividades para la captura de requisitos, teniendo en cuenta la disponibilidad de los recursos y las dependencias entre actividades.
 
@@ -38,14 +38,14 @@ Para diseñar un proceso de captura de requisitos se deberán llevar a cabo las 
 
   #. Ejecutar el procedimiento propuesto por Klaus Pohl en la Sección 21.4 de su libro *Requirements Engineering*. 
   #. Ordenar las fuentes identificadas en el punto anterior en función de su relevancia. NOTA: A la hora de ejecutar estos dos primeros puntos, se pueden introducir actividades complementarias tanto para fomentar la creatividad durante la propuesta de potenciales de requisitos fuentes como para llevar a cabo su priorización.
-  #. Seleccionar estrategias de captura de requisitos para las fuentes de mayor relevancia hasta asegurar que los elementos del contexto del sistema que sean de relevancia para su desarrollo estánº adecuadamente cubierto.
+  #. Seleccionar estrategias de captura de requisitos para las fuentes de mayor relevancia hasta asegurar que los elementos del contexto del sistema que sean de relevancia para su desarrollo están adecuadamente cubiertos.
   #. Especificar, por cada miembro del equipo de trabajo, una de las actividades creadas en el punto anterior, de manera individual y completa y utilizando para ello la plantilla proporcionada.
   #. Secuenciar las actividades que hayan sido especificadas, de forma que se ordenen temporalmente sobre un calendario, teniendo en cuenta los recursos disponibles. Como recursos se puede contar con los miembros de cada equipo, más una sala de reuniones, que por comodidad, podemos considerar que no estará ocupada por otros proyectos. Igualmente, se puede considerar que los recursos externos, como personas para entrevistar, estarán también disponibles para nosotros. Para la elaboración del calendario puede considerarse como inicio del proceso de captura de requisitos el 1 de Marzo del año que corresponda.
 
 Para elaborar el documento con el proceso de captura se proporciona:
 
-  #. :download:`La plantilla para la definición de la fuentes de requisitos <src/fuentes/plantillaFuentes.docx>`
-  #. :download:`Un ejemplo de especificación de fuentes de requisitos <src/fuentes/ejemploFuentes.pdf>`
+  #. :download:`La plantilla para la definición del proceso de captura de requisitos <src/captura/plantillaProcesoCaptura.docx>`
+  #. :download:`Un ejemplo de especificación de un proceso de captura de requisitos <src/captura/ejemploProcesoCaptura.pdf>`
 
 Elementos a Entregar y Aclaraciones
 =======================================
