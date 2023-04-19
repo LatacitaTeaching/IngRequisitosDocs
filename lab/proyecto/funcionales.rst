@@ -1,5 +1,5 @@
 ==================================================
-Fase 7 - Especificación de Requisitos Funcionales
+Fase 6 - Especificación de Requisitos Funcionales
 ==================================================
 
 Introducción
