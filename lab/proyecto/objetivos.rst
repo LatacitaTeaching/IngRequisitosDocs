@@ -20,9 +20,10 @@ Los objetivos concretos de esta práctica son:
 
   #. Ser capaz de identificar objetivos mediante el examen del material obtenido en una actividad de captura de requisitos.
   #. Ser capaz de modelar objetivos utilizando una notación concreta, más específicamente, la notación GRL.
-  #. Ser capaz de especificar objetivos en lenguaje natural mediante plantillas estandarizadas.
   #. Ser capaz de utilizar la herramienta `jUCMNav <http://jucmnav.softwareengineering.ca/foswiki/ProjetSEG>`_ para la creación de modelos de objetivos.
 
+..  #. Ser capaz de especificar objetivos en lenguaje natural mediante plantillas estandarizadas.
+  
 La siguiente sección describe las actividades que se deberán realizar para la consecución de estos objetivos.
 
 Actividades
@@ -33,16 +34,16 @@ Para modelar y especificar los objetivos del sistema a desarrollar cada grupo de
   #. Identificar los objetivos que deberá satisfacer el sistema a partir de la información obtenida en las entrevistas realizadas en la fase anterior del proyecto. En el caso de que, tras examinar el material recopilado, se advierta que este material es insuficiente o incompleto, se recomienda contactar con el profesor para repetir la entre
   #. Crear un modelo GRL inicial que contenga tanto los objetivos identificados como las relaciones entre dichos objetivos.
   #. Refinar el modelo de objetivos hasta alcanzar su completitud.
-  #. Especificar un objetivo del nivel cielo utilizando para ello las plantillas proporcionadas.
-  #. Por último, cada miembro del grupo deberá especificar, de manera individual, utilizando la correspondiente plantilla, un objetivo cometa o del nivel de mar.
 
-Para la especificación de objetivos se proporciona:
+..  #. Especificar un objetivo del nivel cielo utilizando para ello las plantillas proporcionadas.
+..  #. Por último, cada miembro del grupo deberá especificar, de manera individual, utilizando la correspondiente plantilla, un objetivo cometa o del nivel de mar.
 
-  #. :download:`Una plantilla para la especificación detallada de objetivos <src/objetivos/plantillaObjetivos.docx>`
-  #. :download:`Ejemplos de especificación de objetivos <src/objetivos/ejemploObjetivos.pdf>`
+.. Para la especificación de objetivos se proporciona:
 
-.. note::
-   Para la especificación de valores de Kano de cada objetivo identificado se utilizará la clasificación y conjunto de valores proporcionados por la herramienta Scrumdesk, que es la herramienta que se utilizará en cuarto curso para la realización del proyecto integrado. Dicho clasificación está disponible en este `enlace <https://www.scrumdesk.com/how-to-kano-model-helps-in-agile-product-backlog-prioritization/>`_.
+..  #. :download:`Una plantilla para la especificación detallada de objetivos <src/objetivos/plantillaObjetivos.docx>`
+..  #. :download:`Ejemplos de especificación de objetivos <src/objetivos/ejemploObjetivos.pdf>`
+
+..   Para la especificación de valores de Kano de cada objetivo identificado se utilizará la clasificación y conjunto de valores proporcionados por la herramienta Scrumdesk, que es la herramienta que se utilizará en cuarto curso para la realización del proyecto integrado. Dicho clasificación está disponible en este `enlace <https://www.scrumdesk.com/how-to-kano-model-helps-in-agile-product-backlog-prioritization/>`_.
 
 
 Elementos a Entregar y Aclaraciones
@@ -50,8 +51,9 @@ Elementos a Entregar y Aclaraciones
 
 Se deberán entregar para su evaluación los siguientes elementos:
 
-  #. *Modelo de objetivos*: Se deberán entregar uno o más archivos de imagen en formato .png o .jpg, con los diagramas correspondientes al modelo de objetivos creado.
-  #. *Plantillas de especificación de objetivos*: Las plantillas de especificación de objetivos se entregarán en un único documento en formato .pdf. Dicho documento deberá contener la especificación de un objetivo del nivel cielo, y tantos objetivo del nivel cometa o mar como alumnos tenga el grupo. Además, la autoría de cada objetivo del nivel cometa o mar debe estar claramente identificada.
+  #. *Modelo de objetivos*: Se deberán entregar uno o más archivos de imagen en formato .png o .jpg, con los diagramas correspondientes al modelo de objetivos creado. Se recomienda además incorporar un fichero de texto con la descripción del modelo de objetivos, de manera que se pueda entender mejor la lógica existente tras su diseño. 
+
+..  #. *Plantillas de especificación de objetivos*: Las plantillas de especificación de objetivos se entregarán en un único documento en formato .pdf. Dicho documento deberá contener la especificación de un objetivo del nivel cielo, y tantos objetivo del nivel cometa o mar como alumnos tenga el grupo. Además, la autoría de cada objetivo del nivel cometa o mar debe estar claramente identificada.
 
 El conjunto de ficheros resultantes se entregará a través de la plataforma *Moodle* siguiendo las instrucciones en ella proporcionadas y dentro de las fechas establecidas. Las entregas fuera de dichas fechas o con un formato diferente al solicitado tendrán una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
 
@@ -60,15 +62,14 @@ Criterios de Evaluación
 
 La calificación de la fase de modelado y especificación de objetivos vendrá determinada por la ponderación de las calificaciones de los siguientes apartados:
 
-  #. Completitud (2.5 puntos).
-  #. Modelado de Objetivos (4 puntos).
-  #. Especificación de Objetivos de Nivel Cielo (1 punto)
-  #. Especificación de Objetivos de Nivel Cometa o Mar (1.5 puntos)
+  #. Completitud (3 puntos).
+  #. Modelado de Objetivos (6 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
-Los apartados de *Completitud*, *Modelado de Objetivos*, *Especificación de Objetivos de Nivel Cielo* y *Ortografía, Gramática y Maquetación* tendrán una calificación común a todo el grupo, mientras que la calificación de *Especificación de Objetivos de Nivel Cometa o Mar* será individual.
+..  #. Especificación de Objetivos de Nivel Cielo (1 punto)
+..  #. Especificación de Objetivos de Nivel Cometa o Mar (1.5 puntos)
 
-Cada uno de estos apartados se calificará mediante el procedimiento y los criterios a continuación proporcionados.
+Todos los apartados tendrán una calificación común a todo el grupo. Cada uno de estos apartados se calificará mediante el procedimiento y los criterios a continuación proporcionados.
 
 *Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. El resto de elementos se calificará mediante el procedimiento y los criterios a continuación proporcionados.
 
@@ -96,10 +97,10 @@ Para calificar la corrección del modelo de objetivos creado, se verificará el 
   #. Todas las relaciones entre objetivos están debidamente identificadas.
   #. Las tareas se utilizan correctamente para modelar la existencia de escenarios que dan lugar a la satisfacción de uno o más objetivos.
 
-Especificación de Objetivos de Nivel Cielo, Cometa y Mar
----------------------------------------------------------
+.. Especificación de Objetivos de Nivel Cielo, Cometa y Mar
+.. ---------------------------------------------------------
 
-Para calificar la corrección de las especificaciones de objetivos creadas, se verificará el grado de satisfacción de los siguientes elementos:
+.. Para calificar la corrección de las especificaciones de objetivos creadas, se verificará el grado de satisfacción de los siguientes elementos:
 
   #. Cada objetivo está correctamente identificado.
   #. El nombre de cada objetivo proporciona una idea clara del propósito de dicho objetivo. Para ello, se recomienda que el objetivo comience por verbo que indique la acción a realizar. En el caso de los objetivos blandos, se recomienda añadir algún adverbio o adjetivo al nombre del objetivo, de manera que quede más claro cómo se puede graduar el objetivo.
