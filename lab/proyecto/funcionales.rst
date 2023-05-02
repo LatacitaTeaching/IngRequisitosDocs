@@ -34,12 +34,12 @@ Para aprender a especificar escenarios que indiquen maneras concretas de satisfa
   #. Especificar de manera inicial en *Scrumdesk*, es decir, incluyendo sólo título y descripción, todas las tareas identificadas en el modelo de objetivos creado en la fase anterior del proyecto. Por cada historia de usuario, identificar con claridad su autor.
   #. Especificar de manera completa, como *historia de usuario*, una tarea de las anteriormente introducidas en *Scrumdesk*, incluyendo en tal especificación todas las pruebas de aceptación que sean pertinentes y adjuntando todos los *mockups* que sean necesarios para la comprensión de la historia de usuario.
 
-Las tareas, u objetivos de nivel mar, escogidos por cada alumno para la especificación del caso de uso y de la historia de usuario deberán ser distintos entre sí; y a su vez, distintos de cualquier tarea, u objetivo de nivel mar, seleccionado por el resto de sus compañeros de grupo para la especificación de sus casos de uso e historias de usuario. En caso de no haber tareas suficientes en el modelo de objetivos para todos los miembros de un grupo, se deberá contactar con el profesor, quien generará nuevas tareas para que haya al menos dos tareas diferentes por cada miembro del grupo.
+Para la especificación del caso de uso y las historia de usuario completa, un alumno podrá utilizar una misma tarea del modelo de objetivos. 
+De esta forma, el alumno podría rebajar su carga de trabajo, ya que simplemente deberá especificar uno de los dos elementos y, a continuación, transformar dicho elemento al otro formato. No obstante, esta facilidad posee como problema que los errores cometidos en la especificación del escenario aparecerían duplicados en ambas especificaciones, por lo que podrían penalizar doble. Además, en caso de que el caso de uso y la historia de usuario no fuesen consistentes, es decir, hubiese elementos en una representación que no tuviesen su análogo en la otra representación, la calificación global de esta práctica sería de suspenso. 
+
+Las tareas escogidas por cada alumno para la especificación del caso de uso y de la historia de usuario deberán ser distintas de las tareas seleccionadas por el resto de sus compañeros de grupo para la especificación de sus casos de uso e historias de usuario. En caso de no haber tareas suficientes en el modelo de objetivos para todos los miembros de un grupo, se deberá contactar con el profesor, quien generará nuevas tareas para que haya al menos dos tareas diferentes por cada miembro del grupo.
 
 Para la realización de los *mock-ups* se podrá hacer uso de cualquier herramienta. En cualquier caso, se aconseja que los prototipos realizados no sean muy realistas y tengan la apariencia de bocetos a mano alzada, aún cuando hayan sido realizados mediante herramientas informáticas.
-
-.. note::
-   Dadas las circunstancias excepcionales que estamos viviendo durante el curso 2020-2021 debido a la crisis sanitaria generada por el Covid-19, se permitirá a los alumnos de dicho curso  utilizar una misma tarea, u objetivo de nivel mar, para especificar su caso de uso y su historia de usuario. De esta forma, se espera rebajar el trabajo del alumno, que simplemente deberá especificar un caso de uso y, a continuación, llevar a cabo las modificaciones que sean oportunas para especificar el mismo escenario como historia de usuario. Si lo desease, también podría realizarlo al revés, primero especificar el escenario como historia de usuario y luego transformarlo a caso de uso. No obstante, esta facilidad posee como problema de que los errores cometidos en la especificación del escenario aparecerían duplicados en ambas especificaciones, por lo que podrían penalizar doble.
 
 Para la *especificación de casos de uso* e *historias de usuario* se proporciona:
 
@@ -90,7 +90,7 @@ Para calificar la corrección de la especificación del caso de uso creado por e
   #. El nombre del caso de uso comienza con un verbo.
   #. El nombre del caso de uso es significativo de la acción que realiza.
   #. El actor principal es la persona que inicia, físicamente o a petición suya, la ejecución del caso de uso.
-  #. En aquellos casos en los que el actor principal no sea el que físicamente inicie el caso de uso, el actor primario último está corrctamente identificado y especificado.
+  #. En aquellos casos en los que el actor principal no sea el que físicamente inicie el caso de uso, el actor primario último está correctamente identificado y especificado.
   #. Todos los actores secundarios que intervienen en el caso de uso están correctamente identificados y especificados.
   #. Todos los actores secundarios especificados intervienen explícitamente en el caso de uso.
   #. La descripción del caso de uso no dice nada que pueda ser fácilmente rebatible.
@@ -117,8 +117,8 @@ Para calificar la corrección de la especificación del caso de uso creado por e
   #. Cada paso del escenario principal, o de una extensión, contiene una única acción y no puede ser fácilmente descompuesto en dos pasos.
   #. Cada paso del escenario principal, o de una extensión, tiene claramente identificado el sujeto que realiza la acción.
   #. Cada paso del escenario principal, o de una extensión, que sea una interacción entre el sistema y un actor, tiene claramente identificado tanto el destinatario de la acción como lo que se transfiere entre el sistema y el actor.
-  #. Cada paso del escenario principal, o de una extensión, es consistente con el paso anterior. Por ejemplo, si un paso ``X`` se transifiere el control del sistema al usuario, en el paso ``X+1``, el sistema no puede seguir realizando acciones.
-  #. Cada paso del escenario principal, o de una extensión, no hace referencia a elementos gráficos concretos, como *botón* o *lista desplegable*, estando estos *widgets* gráficos convenientemente abstraidos.
+  #. Cada paso del escenario principal, o de una extensión, es consistente con el paso anterior. Por ejemplo, si un paso ``X`` se transfiere el control del sistema al usuario, en el paso ``X+1``, el sistema no puede seguir realizando acciones.
+  #. Cada paso del escenario principal, o de una extensión, no hace referencia a elementos gráficos concretos, como *botón* o *lista desplegable*, estando estos *widgets* gráficos convenientemente abstraídos.
   #. Cada paso del escenario principal, o de una extensión, que se refiere a un formulario, identifica dicho formulario de manera unívoca.
   #. Cada extensión tiene una condición de extensión claramente especificada.
   #. Cada condición de extensión especifica un evento detectable por el sistema.
