@@ -57,7 +57,7 @@ Criterios de Evaluación
 
 La calificación del *documento con el proceso de captura de requisitos* vendrá determinada por la ponderación de las calificaciones de los siguientes apartados:
 
-  #. Completitud (2.5 puntos).
+  #. Completitud y Selección de Fuentes (2.5 puntos).
   #. Elección de Actividades (3 puntos).
   #. Descripción de las Actividades (2.5 puntos).
   #. Secuenciación de las Actividades (1 punto).
@@ -70,22 +70,32 @@ Todos los apartados tendrán una calificación común a todo el grupo, a excepci
 Completitud
 ------------
 
-Para calificar la completitud del proceso de identificación de fuentes, se verificará el grado de satisfacción de los siguientes elementos:
+Para calificar la completitud del proceso de identificación de fuentes, se verificará el grado de satisfacción de los siguientes criterios:
+
+*Elementos Imprescindibles*
 
   #. Las tablas de coberturas están correctamente elaboradas y contienen todos los elementos del contexto del sistema sobre los que es necesario extraer requisitos.
   #. Por cada elemento presente en las tablas de cobertura, existe al menos una fuente que pueda proporcionar información sobre dicho elemento.
-  #. Existe un número amplio de potenciales fuentes identificadas, con independencia de que dichas fuentes finalmente se utilicen o no se utilicen.  
+  #. Existe un número amplio de potenciales fuentes identificadas, con independencia de que dichas fuentes finalmente se utilicen o no se utilicen. A modo de referencia, para un sistema como el desarrollado en los laboratorios debería haber unas 20 fuentes identificadas. A este respecto, merece la pena recordar que las fuentes asociadas a perfiles amplios, como *cliente* o *usuario*, pueden subdividirse en fuentes con perfiles más concretos (e.g. *cliente joven y soltero*).
   #. No se ha obviado ninguna fuente de requisitos que pueda considerarse como fácilmente identificable.
-  #. La ordenación por relevancia de las fuentes no es fácilmente rebatible.
 
-Para poder obtener una calificación de aprobado en este apartado todos los elementos del contexto del sistema deberán quedar cubiertos por alguna fuente, y deben estar identificadas todas aquellas fuentes que se consideren como básicas u obvias. A partir de este punto, cuanto más extensa y correcta sea la lista de fuentes identificadas, mayor será la calificación de este apartado.
+*Elementos Relevantes*
+
+  #. Todas las fuentes identificadas son correctas. A este respecto, cabe señalar que elementos como *experto en bases de datos*, los cuales aportarían formación técnica que nuestro equipo de desarrollo debería tener. 
+  #. Todas las fuentes identificadas poseen nombres claros. 
+  #. No hay fuentes duplicadas. 
+  #. No hay fuentes que incluyan a otras (e.g. Gobierno de Cantabria y Consejería de Educación), salvo que se vaya a obtener información claramente diferenciada de cada una de ellas. 
+  #. La ordenación por relevancia de las fuentes no es fácilmente rebatible.
+  #. La información a obtener de cada fuente está clara y es relevante para el desarrollo de nuestro sistema.
+
+Para poder obtener una calificación de aprobado en este apartado, deben satisfacerse todos los elementos identificados como  imprescindibles. A partir de este punto, cuanto más extensa y correcta sea la lista de fuentes identificadas, mayor será la calificación de este apartado. Además, para poder obtener una calificación de sobresaliente en este apartado, no deben incumplirse más de dos veces los elementos de considerados como relevantes, y para obtener una calificación de notable, este número límite sería de seis. 
 
 Elección de Actividades
 ------------------------
 
 Para evaluar este apartado se verificará que todas las actividades elegidas sean adecuadas para el tipo de fuente o fuentes a procesar y para la información a obtener. Además, estas actividades deberán tener un coste razonable para los resultados esperados.
 
-Para poder obtener una calificación de aprobado en este apartado, más de la mitad de las actividades elegidas deben ser correctas. Además, para las actividades que fuesen incorrectas, no deben haberse cometidos fallos graves consecuencia de la existencia de errores conceptuales importantes.
+Para poder obtener una calificación de aprobado en este apartado, más de dos tercios de las actividades elegidas deben ser correctas. Además, para las actividades que fuesen incorrectas, no deben haberse cometidos fallos graves consecuencia de la existencia de errores conceptuales importantes.
 
 .. Poner ejemplo de error conceptual grave
 
@@ -107,19 +117,31 @@ Para calificar la descripción de las actividades, se verificará el grado de sa
   #. La forma de contacto da una idea clara de cómo encontrar a los participantes en un actividad y cómo contactar con ellos. En caso de que las actividades se realicen sobre sistemas o documentos, en este apartado se deberá indicar cómo puede acceder al sistema o dónde puedo encontrar un documento. Por ejemplo, podría proporcionar una URL al sistema o documento. 
   #. La información proporcionada en los comentarios adicionales es de utilidad y contribuye a entender mejor la descripción de la actividad, no siendo fácilmente prescindible.
 
-  .. Poner criterios mínimos. 
+  .. Participantes, 0.5 puntos
+  .. Objetivo, 3.5 puntos
+  .. Información, 2.5 puntos
+  .. Duración, lugar y recursos, 1 punto
+  .. Coste, 1.5 puntos
+  .. Acceso a Fuentes, 1 punto
 
   Secuenciación de las Actividades
 ---------------------------------
 
+**Elementos Imprescindibles**
+
   #. Cada actividad descrita está incluida en el calendario.
-  #. La duración de cada actividad es consistente con los tiempos de preparación, ejecución y procesamiento propocionadas en la correspondiente descripción de la actividad.
-  #. Los hitos importantes de cada actividad, como el día de ejecución de una entrevista, están correctamente resaltados en el calendar io.
+  #. La duración de cada actividad es consistente con los tiempos de preparación, ejecución y procesamiento proporcionadas en la correspondiente descripción de la actividad.
+
+**Elementos Relevantes**  
+  
+  #. Todas las tareas comienzan lo más pronto posible.
+  #. Los hitos importantes de cada actividad, como el día de ejecución de una entrevista, están correctamente resaltados en el calendario.
   #. Las personas y recursos involucradas en cada actividad están claramente identificados.
   #. No se producen utilizaciones simultáneas de recursos, ya sean humanos o materiales.
   #. Se respetan las dependencias entre tareas.
-
-.. Poner criterios mínimos. 
+  
+.. Un imprescindible, suspenso. 
+.. Un fallo relevant, notable, dos fallos relevantes, aprobado, tres o más relevantes, suspenso.
 
 Apéndice A. Tablas de Costes
 ================================
