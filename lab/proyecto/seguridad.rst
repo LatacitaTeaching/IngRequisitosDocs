@@ -30,14 +30,14 @@ Actividades
 
 Para aprender a especificar requisitos de seguridad, cada alumno deberá, de manera individual:
 
-  #. Partiendo de los modelos de objetivos y escenarios creados en las etapas anteriores del proyecto, identificar un activo que forme parte de dicho sistema software. Cada alumno deberá escoger un activo distinto al de sus compañeros.
+  #. Partiendo de los modelos de objetivos y escenarios creados en las etapas anteriores del proyecto, identificar un activo que forme parte de dicho sistema software. Cada alumno deberá escoger un activo distinto al de sus compañeros. Estos activos deberán estar aprobados por el profesor de la asignatura. 
   #. Para el activo escogido, identificar todas las potenciales amenazas que podrían afectar a dicho activo.
   #. Para las dos amenazas que se consideren más relevantes, analizar su exposición.
   #. Para la amenaza que se considere más importante tratar de las dos anteriormente analizadas, identificar todos los posibles ataques que podrían materializar dicha amenaza. Especificar cómo se llevaría a cabo el ataque de manera detallada.
-  #. Para todos los ataques identificados en el punto anterior, diseñar medidas de control que permitan evitar, neutralizar o mitigar dichos ataques.
+  #. Para tres de los ataques identificados en el punto anterior, diseñar medidas de control que permitan evitar, neutralizar o mitigar dichos ataques.
   #. Para una de las medidas de control especificadas en el punto anterior, especificar cuáles serían sus premisas de confianza.
   #. Para cada premisa de confianza identificada en el punto anterior, identificar sus contrargumentos, si los hubiere.
-  #. Si hubiese algún contrargumento que mereciese la pena seguir tratando, diseñar una medida de control. Para dicha medida de control no es necesario identificar nuevas premisas de confianza y contrargumentos, por lo que el análisis de la seguridad deberá parar en este nivel.
+  #. Si hubiese uno o más contrargumentos que mereciese la pena seguir tratando, diseñar una medida de control para uno de ellos. Para dicha medida de control no es necesario identificar nuevas premisas de confianza y contrargumentos, por lo que el análisis de la seguridad deberá parar en este nivel.
 
 Para la *especificación de requisitos de seguridad* se proporciona:
 
@@ -93,7 +93,6 @@ Para evaluar la corrección del análisis realizado, se verificará que:
   #. La descripción de cada medida de control es clara y no existen dudas obvias de cómo se podría proceder a su implantación.
   #. Cada premisa de confianza representa un predicado lógico que ha de ser verdad para que la medida de control sea efectiva.
   #. Cada contrargumento representa un hecho o fenómeno concreto y detallado que invalidaría la premisa de confianza a la que se asocia.
-
 
 .. danger::
   El campo *Radioisótopos Afectados* no tiene ningún sentido y hay que dejarlo en blanco. Se ha introducido en la plantilla de especificación de requisitos de seguridad simplemente para verificar qué alumnos prestan atención a clase o, al menos, leen las normas de evaluación. Todo aquél que indique algún radioisótopo en esta casilla tendrá automáticamente una calificación de cero en esta fase del proyecto. Por tanto, esta casilla debe considerarse como una simple `cláusula Van Halen <https://twitter.com/eladdio/status/1313612563284926466>`_.
