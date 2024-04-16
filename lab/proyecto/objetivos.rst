@@ -110,7 +110,7 @@ Para calificar la corrección de los criterios de verificación especificados, s
 
   #. El criterio de verificación establece un procedimiento de medida claro que permita asociar un determinado valor al grado de satisfacción del objetivo. 
   #. El procedimiento de medida sirve para conocer el grado de satisfacción del objetivo, y mide lo que tiene que medir, y no otra cosa. Por ejemplo, si el objetivo es reducir el número de errores, no se trata de inferir que no hay errores porque los usuarios están contentos con el sistema, sino que se diseña un procedimiento para ver cuántos errores se han conseguido eliminar, con independencia de cómo afecten esos errores a la satisfacción.
-  #. El procedimiento de medida considera un número suficiente de casos y contextos, de manera que sus medidas puedan considerarse representativas de un amplio número de situaciones y no de un hecho puntual aislado. Por ejemplo, si se trata de medir cuánto tarda un usuario una operación, se toman medidas con diferentes grupos de usuarios, perteneciendo cada grupo a un perfil de usuario diferente, en lugar de utilizarse un único usuario, o usuarios de un único tipo. 
+  #. El procedimiento de medida considera un número suficiente de casos y contextos, de manera que sus medidas puedan considerarse representativas de un amplio número de situaciones y no de un hecho aislado. Por ejemplo, si se trata de medir cuánto tarda un usuario una operación, se toman medidas con diferentes grupos de usuarios, perteneciendo cada grupo a un perfil de usuario diferente, en lugar de utilizarse un único usuario, o usuarios de un único tipo. 
 
 .. Especificación de Objetivos de Nivel Cielo, Cometa y Mar
 .. ---------------------------------------------------------
