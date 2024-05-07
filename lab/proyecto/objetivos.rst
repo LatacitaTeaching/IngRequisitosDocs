@@ -54,7 +54,7 @@ Elementos a Entregar y Aclaraciones
 Se deberán entregar para su evaluación los siguientes elementos:
 
   #. *Modelo de objetivos*: Se deberán entregar uno o más archivos de imagen en formato .png o .jpg, con los diagramas correspondientes al modelo de objetivos creado. Se recomienda además incorporar un fichero de texto con la descripción del modelo de objetivos, de manera que se pueda entender mejor la lógica existente tras su diseño. 
-  #. *Criterios de verificación de los objetivos blandos*: Entregar un documento con 
+  #. *Criterios de verificación de los objetivos blandos*: Entregar un documento de texto, en formato libre, que contenga los criterios de verificación para cada objetivo seleccionado. Los criterios se separarán de manera adecuada entre sí y el nombre de cada objetivo blando deberá preceder a su correspondiente criterio de verificación.
 
 ..  #. *Plantillas de especificación de objetivos*: Las plantillas de especificación de objetivos se entregarán en un único documento en formato .pdf. Dicho documento deberá contener la especificación de un objetivo del nivel cielo, y tantos objetivo del nivel cometa o mar como alumnos tenga el grupo. Además, la autoría de cada objetivo del nivel cometa o mar debe estar claramente identificada.
 
