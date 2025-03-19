@@ -97,6 +97,7 @@ Para evaluar la corrección del análisis realizado, se verificará que:
 .. danger::
   El campo *Radioisótopos Afectados* no tiene ningún sentido y hay que dejarlo en blanco. Se ha introducido en la plantilla de especificación de requisitos de seguridad simplemente para verificar qué alumnos prestan atención a clase o, al menos, leen las normas de evaluación. Todo aquél que indique algún radioisótopo en esta casilla tendrá automáticamente una calificación de cero en esta fase del proyecto. Por tanto, esta casilla debe considerarse como una simple `cláusula Van Halen <https://twitter.com/eladdio/status/1313612563284926466>`_.
 
+
 Eficacia de las Medidas de Control
 -----------------------------------
 

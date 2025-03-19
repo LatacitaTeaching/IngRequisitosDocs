@@ -101,4 +101,5 @@ Para evaluar este apartado se comprobará que durante la ejecución de la entrev
   #. El entrevistador no pregunta cuestiones sobre las que el entrevistado ya ha manifestado su desinterés.
   #. El entrevistador profundiza en aquellas cuestiones sobre las que el entrevistado manifiesta un especial interés o preocupación.
   #. El entrevistado es capaz de reconducir al entrevistado con educación cuando éste último se desvía del tema de la entrevista.
+  #. El entrevistador hace un resumen de los datos y conclusiones obtenidas antes de finalizar la entrevista.
   #. El entrevistador se despide formalmente y agradece al entrevistado su colaboración.
