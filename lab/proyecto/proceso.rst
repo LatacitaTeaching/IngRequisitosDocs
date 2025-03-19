@@ -58,8 +58,8 @@ Criterios de Evaluación
 La calificación del *documento con el proceso de captura de requisitos* vendrá determinada por la ponderación de las calificaciones de los siguientes apartados:
 
   #. Completitud (2.5 puntos).
-  #. Elección de Actividades (3 puntos).
-  #. Descripción de las Actividades (2.5 puntos).
+  #. Elección de Actividades (2.5 puntos).
+  #. Descripción de las Actividades (3 puntos).
   #. Secuenciación de las Actividades (1 punto).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
@@ -72,8 +72,7 @@ Completitud
 
 Para calificar la completitud del proceso de identificación de fuentes, se verificará el grado de satisfacción de los siguientes elementos:
 
-  #. Las tablas de coberturas están correctamente elaboradas y contienen todos los elementos del contexto del sistema sobre los que es necesario extraer requisitos.
-  #. Por cada elemento presente en las tablas de cobertura, existe al menos una fuente que pueda proporcionar información sobre dicho elemento.
+  #. Por cada elemento del contexto del dominio que potencialmente tenga relación con el sistema existe al menos una fuente que pueda proporcionar información sobre dicho elemento.
   #. Existe un número amplio de potenciales fuentes identificadas, con independencia de que dichas fuentes finalmente se utilicen o no se utilicen.  
   #. No se ha obviado ninguna fuente de requisitos que pueda considerarse como fácilmente identificable.
   #. La ordenación por relevancia de las fuentes no es fácilmente rebatible.
