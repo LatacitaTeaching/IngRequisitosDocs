@@ -7,7 +7,7 @@ Introducción
 
 El *contexto de un sistema software* es el entorno donde se enmarca dicho sistema software. Sin una consideración adecuada del contexto resulta imposible desarrollar de forma correcta un sistema software, ya que dicho contexto influye directamente sobre dicho sistema. Es decir, no se puede considerar un sistema de forma aislada a su contexto.
 
-Por ejemplo, una empresa que desarrolle un sistema informático para una administración pública podría decidir qué es interesante que se puedan exportar informes de resultados como documentos Excel, conocida hoja de cálculo muy utilizada por los equipos directivos para innumerables tareas. No obstante, dicha administración pública podría haber decretado que todo el software utilizado dentro de dicha administración debe ser, en la medida de lo posible, software libre. Ejemplos de dichas administraciones podrían ser la Junta de Extremadura o la Junta de Andalucía.
+Por ejemplo, una empresa que desarrolle un sistema informático para una administración pública podría decidir que es interesante que se puedan exportar informes de resultados como documentos Excel, conocida hoja de cálculo muy utilizada por los equipos directivos para innumerables tareas. No obstante, dicha administración pública podría haber decretado que todo el software utilizado dentro de dicha administración debe ser, en la medida de lo posible, software libre. Ejemplos de dichas administraciones podrían ser la Junta de Extremadura o la Junta de Andalucía.
 
 En estas circunstancias, la funcionalidad del sistema relativa a la posibilidad de exportar informes a documentos Excel debe ser revisada. El programa Excel no es en absoluto software libre, por lo que entraría en conflicto con las normas reguladoras del contexto donde se enmarca dicho sistema. Por tanto, algo que se añade como una funcionalidad extra para beneficio del usuario, puede acabar siendo fuente de innumerables problemas por una inadecuada consideración del contexto.
 
@@ -23,7 +23,7 @@ Los objetivos de esta práctica son:
   #. Ser capaz de definir las leyes y normativas que podrían influir en el desarrollo y funcionamiento de un sistema sw, sabiendo, además, identificar la vista concreta a la cual pertenecen dichas leyes, normativas o regulaciones.
   #. Ser capaz de identificar los actores que forman parte del contexto de un sistema software.
   #. Ser capaz de elaborar perfiles de actores que formen parte del contexto de un sistema software.
-  #. Ser capaz de describir la infrestructura tecnológica existente en el entorno donde se desplegará un sistema software.
+  #. Ser capaz de describir la infraestructura tecnológica existente en el entorno donde se desplegará un sistema software.
   #. Ser capaz de describir todos los elementos existentes en el entorno donde se desplegará un sistema software que podrían condicionar los procesos y técnicas a utilizar para el desarrollo de dicho sistema software.
   #. Ser capaz a definir la frontera de un sistema sw, el contexto de un sistema software y la frontera del contexto de un sistema sw.
   #. Ser capaz de definir un glosario que permita entender la terminología propia del contexto donde se desplegará un determinado sistema software.
@@ -37,21 +37,21 @@ Para definir el contexto de un sistema sw, cada grupo deberá realizar las sigui
   #. Documentar los resultados obtenidos utilizando para ello la plantilla proporcionada más abajo.
   #. Generar un glosario de términos relacionados con el contexto del sistema.
 
-Para definir la *vista de dominio* del sistema se deberá crear algún tipo de diagrama o modelo que recoga las entidades existentes en el contexto del sistema, así como las relaciones y restricciones existentes entre dichas entidades. Para ello aconseja crear un mapa mental, pero representaciones alternativas como un diagrama entidad-relación o una ontología también serían aceptables. La vista de dominio debe recoger, además, las normativas, regulaciones y leyes que puedan tener algún tipo de relación con las entidades identificadas. Finalmente, para completar la vista de dominio, se deberán crear listas dentro/fuera que determinen qué elementos se estima que pertenecerán al sistema, cuáles al contexto, cuáles son simplemente irrelevantes y cuáles están en las fronteras entre sistema y contexto o entre contexto y la irrelevancia.
+Para definir la *vista de dominio* del sistema se deberá crear algún tipo de diagrama o modelo que recoja las entidades existentes en el contexto del sistema, así como las relaciones y restricciones existentes entre dichas entidades. Para ello aconseja crear un mapa mental, pero representaciones alternativas como un diagrama entidad-relación o una ontología también serían aceptables. La vista de dominio debe recoger, además, las normativas, regulaciones y leyes que puedan tener algún tipo de relación con las entidades identificadas. Finalmente, para completar la vista de dominio, se deberán crear listas dentro/fuera que determinen qué elementos se estima que pertenecerán al sistema, cuáles al contexto, cuáles son simplemente irrelevantes y cuáles están en las fronteras entre sistema y contexto o entre contexto y la irrelevancia.
 
 Para definir la *vista de utilización* se deberá, en primer lugar, identificar tantos actores existentes en el contexto del sistema como sea posible. A continuación, se deberá priorizar y ordenar los actores identificados según su relevancia o importancia con respecto al sistema a desarrollar. Dicha lista de actores, ordenada de mayor a menor relevancia, debe incluirse en el documento que defina el contexto del sistema. A continuación, se especificarán sólo los perfiles de los actores de mayor relevancia. Se especificarán tantos perfiles de actores como miembros tenga cada grupo, de manera que exista una especificación del perfil de un actor por alumno. La especificación del perfil de cada actor se realizará de manera individual por un único alumno.
 
 Para definir la *vista de tecnología* se deberá identificar la infraestructura tecnológica, si la hubiere, del entorno donde se desplegará el sistema. Dicha infraestructura deberá describirme por medio del algún diagrama o modelo, como por ejemplo, un diagrama de despliegue o un esquema de topología de red. Dicho diagrama deberá contener todos los detalles del contexto que se consideren relevantes para el sistema y puede complementarse con todo el texto escrito que se considere necesario.
 
-Para definir la *vista de desarrollo* se describirá mediante texto simple todas aquellos elementos y cuestiones existente en el contexto del sistema que se considere que puedan tener influencia en las métodos de trabajo, técnicas y herramientas utilizados para el desarrollo del sistema.
+Para definir la *vista de desarrollo* se describirá mediante texto simple todas aquellos elementos y cuestiones existente en el contexto del sistema que se considere que puedan tener influencia en las métodos de trabajo, técnicas y herramientas utilizadas para el desarrollo del sistema.
 
-Para la elaboración del glosario deberán incluirse en el mismo dos definiciones por alumno.
+Para la elaboración del glosario, cada alumno deberá incluir en el mismo un número de definiciones especificado en los elementos a entregar (más abajo).
 
 Para elaborar el contexto del sistema sw se proporciona:
 
   #. :download:`La plantilla para la definición del contexto <src/contexto/plantillaContexto.docx>`
   #. :download:`La plantilla para la definición del glosario <src/contexto/plantillaGlosario.docx>`
-  #. :download:`Ejemplo de Definición del Contexto un Sistema Sw <src/contexto/ejemploContexto.pdf>`
+  #. :download:`Ejemplo de Definición del Contexto de un Sistema Sw <src/contexto/ejemploContexto.pdf>`
 
 Elementos a Entregar y Aclaraciones
 =======================================
@@ -70,7 +70,7 @@ Criterios de Evaluación
 
 Los criterios de evaluación para la planificación de actividades y la elaboración de actas se proporcionan en las secciones que describen estos elementos transversales. La calificación de dichos elementos computará en su correspondiente apartado.
 
-La calificación de la fase de definición del contexto del sistema vendrá determinida por la calificación de los siguientes apartados:
+La calificación de la fase de definición del contexto del sistema vendrá determinada por la calificación de los siguientes apartados:
 
   #. Definición del Contexto del Sistema Sw (9 puntos).
   #. Glosario de Términos del Contexto del Sistema Sw (1 punto).
@@ -85,8 +85,8 @@ La calificación de la *Definición del Contexto del Sistema Sw* vendrá determi
   #. Vista de Dominio – Objetos (2.5 puntos).
   #. Vista de Dominio – Listas/Dentro Fuera (1 punto).
   #. Vista de Dominio – Leyes y Normativas (1 punto).
-  #. Vista de Utilización - Identificación de Actores (1.0 puntos).
-  #. Vista de Utilización - Descripción de Actores (1.0 puntos).
+  #. Vista de Utilización - Identificación de Actores (1 punto).
+  #. Vista de Utilización - Descripción de Actores (1 punto).
   #. Vista de Tecnología (1 punto).
   #. Vista de Desarrollo (1 punto).
   #. Ortografía, Gramática y Maquetación (1 punto).
@@ -109,7 +109,7 @@ Vista de Dominio – Listas/Dentro Fuera
 Para evaluar la elaboración de listas dentro/fuera, se analizará el grado de cumplimiento de los siguientes elementos:
 
   #. Las reglas para excluir elementos del dominio de las lista dentro/fuera son claras.
-  #. Todos los objetos identificados como pertenecientes al dominio del sistema o están considerados dentro de una lista dentro/fuera, o están excluidos de las mismas como conscuencia de aplicación de alguna regla claramente definida.
+  #. Todos los objetos identificados como pertenecientes al dominio del sistema o están considerados dentro de una lista dentro/fuera, o están excluidos de las mismas como consecuencia de la aplicación de alguna regla claramente definida.
   #. La pertenencia de un objeto al sistema, al contexto o a la parte externa al contexto, así como a cualquiera de las zonas grises, no es claramente rebatible.
 
 Vista de Dominio – Leyes y Normativas
@@ -125,7 +125,7 @@ Al igual que en el apartado anterior, para evaluar la identificación de actores
 Vista de Utilización - Descripción de Actores
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Para evaluar la descripción de los actores, se valorará el grado de satifacción de los siguientes elementos:
+Para evaluar la descripción de los actores, se valorará el grado de satisfacción de los siguientes elementos:
 
   #. El nombre de cada actor es significativo con respecto al rol que representa.
   #. Si dentro de un tipo de rol existiesen varios subroles, y cada subrol puede tener un modo de utilización diferente de nuestro sistema, dicho rol se encuentra dividido en cada uno de sus subroles.
@@ -134,7 +134,7 @@ Para evaluar la descripción de los actores, se valorará el grado de satifacci�
   #. El rango de edad de cada actor no es fácilmente rebatible.
   #. Los objetivos de cada actor son suficientemente amplios, no existiendo limitaciones al sistema innecesarias.
   #. Los objetivos de cada actor no contienen funcionalidades simples que representen operaciones concretas, de escasa importancia, que se ejecuten dentro del contexto del sistema.
-  #. Las formas de opración describen el entorno y los elementos utilizados por los actores para ejeuctar las operaciones que realizan dentro del contexto, de acuerdo con sus rutinas y modo de vida habituales.
+  #. Las formas de operación describen el entorno y los elementos utilizados por los actores para ejecutar las operaciones que realizan dentro del contexto, de acuerdo con sus rutinas y modo de vida habituales.
   #. La descripción de la frecuencia indica con qué frecuencia y en qué días y horas realizaría el actor las operaciones en el contexto, de acuerdo con sus rutinas y modo de vida habituales.
   #. La descripción de la frecuencia indica cuántos usuarios podrían realizar operaciones de manera concurrente en el contexto del sistema, de acuerdo con sus rutinas y modo de vida actuales, destacando casos medio y peor.
   #. La descripción de la frecuencia no contiene afirmaciones claramente discutibles o rebatibles.
@@ -159,6 +159,6 @@ La calificación del *Glosario de Términos del Contexto del Sistema Sw* vendrá
   #. Definición de Términos (9 puntos).
   #. Ortografía, Gramática y Maquetación (1 punto).
 
-*Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. Para calificar la definición de los términos se valorará que dichas definiciones sean correctas, precisas y concisas.
+*Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. Para calificar la definición de los términos se valorará que las definiciones sean correctas, precisas y concisas.
 
 La calificación de este ítem será común al grupo, salvo que el grupo opte por solicitar una evaluación individual.
