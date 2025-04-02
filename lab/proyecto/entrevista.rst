@@ -40,7 +40,7 @@ Para elaborar las entrevistas, no es necesario seguir ninguna plantilla prefijad
 Elementos a Entregar y Aclaraciones
 ====================================
 
-Se deberá entregar para su evaluación un documento con el diseño completo de la entrevista. Este documento se entregará a través de la plataforma moodle siguiendo las instrucciones en ella proporcionadas y dentro de las fechas establecidas. Las entregas de documentos fuera de dichas fechas o un formato diferente al solicitado tendrán una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
+Se deberá entregar para su evaluación un documento con el diseño completo de la entrevista. Este documento se entregará a través de la plataforma moodle siguiendo las instrucciones en ella proporcionadas y dentro de las fechas establecidas. Las entregas de documentos fuera de dichas fechas supondrá una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
 
 Además, antes de la fecha de finalización de la entrega de la entrevista, el grupo deberá haber ejecutado, con la colabiración del profesor, la entrevista. En caso de el resultado de la primera ejecución de la entrevista fuese insatisfactorio, ésta podría repetirse una segunda vez.
 
