@@ -65,43 +65,66 @@ Criterios de Evaluación
 
 La calificación de la fase de modelado y especificación de objetivos vendrá determinada por la ponderación de las calificaciones de los siguientes apartados:
 
-  #. Completitud (2 puntos).
-  #. Modelado de Objetivos (5 puntos).
+  #. Completitud y Modelado de Objetivos (7.5 puntos).
   #. Especificación de Criterios de Verificación de Objetivos Blandos (2 puntos).
-  #. Ortografía, Gramática y Maquetación (1 punto).
+  #. Ortografía, Gramática y Maquetación (0.5 puntos).
 
 ..  #. Especificación de Objetivos de Nivel Cielo (1 punto)
 ..  #. Especificación de Objetivos de Nivel Cometa o Mar (1.5 puntos)
 
-Todos los apartados tendrán una calificación común a todo el grupo, salvo la *Especificación de Criterios de Verificación de Objetivos Blandos*, que será por subgrupos. Cada uno de estos apartados se calificará mediante el procedimiento y los criterios a continuación proporcionados.
+Todos los apartados tendrán una calificación común a todo el grupo, salvo la *Especificación de Criterios de Verificación de Objetivos Blandos*, que será compartida por los autores de cada criterio de verificación. Estos autores deberán aparecer listados bajo el nombre de cada objetivo blando para el que se haya proporcionado un criterio de verificación.  
 
 *Ortografía, Gramática y Maquetación* se evaluará conforme a los criterios establecidos para ello en el correspondiente apartado de la sección de elementos transversales. El resto de elementos se calificará mediante el procedimiento y los criterios a continuación proporcionados.
 
-Completitud
-------------
+Rúbrica de Completitud y Modelado de Objetivos
+------------------------------------------------
 
-Para evaluar la completitud del modelo de objetivos se verificará que estén recogidos en dicho modelo todos los objetivos del stakeholder  entrevistado en la fase anterior del proyecto.
+**Nivel Aprobado**
 
-Para poder obtener una calificación de aprobado en este apartado, todos aquellos objetivos que puedan ser considerados como de alta importancia para el stakeholder entrevistado deberán estar contenidos en el modelo creado.
+Para poder obtener una calificación de entre 5 y 6.9 puntos, deberán satisfacerse las siguientes condiciones: 
 
-Si la completitud fuese muy deficiente, la calificación global de esta práctica será de suspenso. 
+  #. Los objetivos del usuario no identificados tras procesar los resultados de la actividad de captura de requisitos son residuales y, en ningún caso se tratan de objetivos de gran importancia.
+  #. Existe una ausencia general de objetivos inventados que no correspondan con objetivos reales del usuario.      
+  #. Se ha identificado el número mínimo de tareas especificado por el profesor y estas tareas satisfacen objetivos reales del usuario. 
+  #. El modelo creado es conforme a la sintaxis de GRL. A este respecto, los posibles errores de sintaxis que pudiese haber deben ser muy residuales.
+  #. No se utilizan elementos de la sintaxis de GRL, como recursos o dependencias, de manera injustificada y aparentemente aleatoria.    
+  #. Existe un número moderado de errores en las descomposiciones de objetivos utilizadas, incluyendo los pesos de las descomposiciones. Este número no podrá ser superior a un tercio del número de descomposiciones utilizadas.
+  #. Existe un número moderado de errores en la clasificación de los objetivos como duros y blandos para objetivos cuya naturaleza sea evidente. Este número no podrá ser superior a un cuarto del número de objetivos esta naturaleza.
+  #. Existe un número moderado de errores en la clasificación de los objetivos como duros y blandos para objetivos cuya naturaleza sea difusa. Este número no podrá ser superior a la mitad del número de objetivos de esta naturaleza.
+  #. Existe un número moderado de errores en la identificación de tareas, lo que incluye la implementación de estas tareas por un equipo de desarrollo profesional sea factible. Este número de errores identificados no podrá ser superior a un tercio del número de tareas identificadas. 
 
-Modelado de Objetivos
-----------------------
+**Nivel Notable**
 
-Para calificar la corrección del modelo de objetivos creado, se verificará el grado de satisfacción de los siguientes elementos:
+Para poder obtener una calificación de entre 7 y 8.9 puntos, deberán satisfacerse las condiciones del nivel aprobado y siguientes restricciones adicionales:
 
-  #. Cada elemento del modelo es sintácticamente correcto.
-  #. No se utilizan elementos de modelado sin razón aparente y de manera inconsistente. Por ejemplo, no aparecen de repente recursos asociados a ciertos objetivos, sin razón aparente.
+  #. Los objetivos del usuario no identificados tras procesar los resultados de la actividad de captura de requisitos son muy residuales y se trata de objetivos anecdóticos.
+  #. El numero de objetivos inventados que no correspondan con objetivos reales del usuario es prácticamente nulo.
+  #. Existe un número leve de errores en las descomposiciones de objetivos utilizadas, incluyendo los pesos de las descomposiciones. Este número no podrá ser superior a un cuarto del número de descomposiciones utilizadas. Además, estos errores no deberán ser errores evidentes, como la utilización de descomposiciones para indicar dependencias temporales entre objetivos o el uso de descomposiciones AND abusivas. 
+  #. Existe un número muy leve de errores en la clasificación de los objetivos como duros y blandos para objetivos cuya naturaleza sea evidente. Este número deberá ser prácticamente cero.
+  #. Existe un número leve de errores en la clasificación de los objetivos como duros y blandos para objetivos identificados cuya naturaleza sea difusa. Este número no podrá ser superior a un tercio del número de objetivos identificados de esta naturaleza.
+  #. Existe un número residual de errores en la identificación de tareas, lo que incluye que la implementación de estas tareas por un equipo de desarrollo profesional sea factible. Este número de errores identificados no podrá ser superior a tres tareas.
+
+**Nivel Sobresaliente**
+
+Para poder obtener una calificación de entre 9 y 10 puntos, deberán satisfacerse las condiciones de los niveles aprobados y notable y las siguientes restricciones adicionales:
+
+  #. Se ha identificado el número mínimo de tareas especificado por el profesor para alcanzar el nivel de sobresaliente y estas tareas satisfacen objetivos reales del usuario. Estas tareas, además, demuestran cierta creatividad por parte del equipo de trabajo.
+  #. El numero de objetivos inventados que no correspondan con objetivos reales del usuario es nulo.
+  #. Existe un número residual de un máximo de dos  o tres errores en las descomposiciones de objetivos utilizadas, incluyendo los pesos de las descomposiciones.
+  #. Existe un número nulo de errores en la clasificación de los objetivos como duros o blandos para objetivos cuya naturaleza sea evidente.
+  #. Existe un número residual de de un máximo de dos errores en la clasificación de los objetivos como duros o blandos para objetivos cuya naturaleza sea difusa.
+  #. Existe un número prácticamente nulo de máximo un error en la identificación de tareas, lo que incluye que la implementación de estas tareas por un equipo de desarrollo profesional sea factible.
+
+Para comprobar que los elementos de un modelo de objetivos son correctos se puede utilizar la siguiente lista de comprobación:
+
   #. Para cada relación AND, la no satisfacción del padre debida a la no satisfacción de cualquiera de sus hijos es obvia y no es fácilmente refutable.
   #. Para cada relación OR, la satisfacción inmediata del padre debida a la satisfacción de cualquiera de sus hijos es obvia y no es fácilmente refutable.
   #. Por cada descomposición basada en una serie de contribuciones, la sustitución de dicha serie de contribuciones por una descomposición AND u OR no es obvia y fácilmente argumentable.
   #. Los hijos de un padre sirven para responder a la pregunta de cómo se alcanza el objetivo especificado por el padre.
   #. El padre un hijo sirve para responder, en parte, a la pregunta de por qué se desea satisfacer un objetivo hijo.
-  #. El signo de cada contribución es correcto.
   #. El peso de cada contribución es adecuado dentro del contexto del modelo de objetivos.
-  #. Todas las relaciones entre objetivos están debidamente identificadas.
-  #. Las tareas se utilizan correctamente para modelar la existencia de escenarios que dan lugar a la satisfacción de uno o más objetivos.
+  #. La suma de las ponderaciones en una descomposición basada en contribuciones proporciona un valor en torno a 100.   
+  #. Las tareas se utilizan correctamente para modelar la existencia de escenarios (e.g., casos de uso) que dan lugar a la satisfacción de uno o más objetivos.
 
 Especificación de Criterios de Verificación de Objetivos Blandos
 -----------------------------------------------------------------
@@ -131,6 +154,3 @@ Para calificar la corrección de los criterios de verificación especificados, s
 ..  #. La justificación del peso de cada contribución no es una simple réplica de la descripción asociada a su valor cualitativo. Por ejemplo, para una contribución de tipo *make*, la justificación de que la satisfacción del hijo es suficiente para la satisfacción del padre no sería una justificación aceptable. En este caso, habría que explicar por qué la satisfacción del objetivo, por si sola, es suficiente para alcanzar la satisfacción del padre, no siendo necesaria la satisfacción de ningún otro objetivo hijo.
 ..  #. Toda contribución que aparece en el modelo de objetivos está descrita en el correspondiente apartado de contribuciones, y viceversa.
 ..  #. Todo objetivo referenciado en la especificación del objetivo está también contenido en el modelo de objetivos.
-
-Rúbrica de Evaluación
-======================
