@@ -137,7 +137,7 @@ Para calificar la corrección de la tarjeta inicial asociada a una historia de u
   #. La historia de usuario tiene un identificador asignado.
   #. El nombre de la La historia de usuario comienza con un verbo.
   #. El nombre de la La historia de usuario es significativo de la acción que realiza.
-  #. La descripción de la historia de usuario sigue el formato ``Yo, como <rol>, quiero <requisito> de manera que <objetivo>``.
+  #. La descripción de la historia de usuario sigue el formato ``Yo, como <rol>, quiero <acción> de manera que <objetivo>``.
   #. El rol especificado es correcto.
   #. El rol no es simplemente ``usuario`` en sistemas donde existan usuarios con diferentes tipos de roles.
   #. La acción a ejecutar es clara y consistente con el nombre de la historia de usuario.
@@ -161,10 +161,10 @@ Para calificar la corrección de la tarjeta inicial asociada a una historia de u
 Identificación de Escenarios Alternativos y Excepcionales
 ----------------------------------------------------------
 
-Para evaluar la completitud de los escenarios alternativos y excepcionales identificados se verificará que existan tanto extensiones como criterios de confirmación para un amplio abanico de situaciones, entre las cuáles se recomienda incluir al menos:
+Para evaluar la completitud de los escenarios alternativos y excepcionales identificados se verificará que existan tanto extensiones como criterios de confirmación para un amplio abanico de situaciones, entre las cuáles se recomienda considerar al menos:
 
   #. Entrada de datos erróneos por parte del actor primario.
-  #. Inactividad del actor primario cuando esta inactividad pueda dejar el escenario en un estado intemedio peligroso para el sistema.
+  #. Inactividad del actor primario cuando esta inactividad pueda dejar el escenario en un estado intermedio peligroso para el sistema.
   #. Fallos al acceder a elementos hardware como ficheros alojados en discos duros.
   #. Fallos al acceder a bases de datos.
   #. Fallos al comunicarse con sistemas externos.
