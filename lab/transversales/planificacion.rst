@@ -5,11 +5,11 @@
 Introducción
 ==============
 
-La creación de una especificación de requisitos suele implicarla realización  diferentes actividades de grupos, tales como *tormentas de ideas*.
+La creación de una especificación de requisitos suele implicar la realización de diferentes actividades en grupo, tales como *tormentas de ideas*.
 Estas actividades se realizan con dos objetivos principales:
 
   * fomentar la creatividad, ya que el pensamiento colectivo ayuda a generar ideas más innovadoras que aquellas que puede conseguir un individuo de manera individual;
-  * potenciar la exhaustividad de los análisis realizados, ya que a una persona podría omitir un cierto detalle o aspecto de dicho análisis, pero es más complejo que a varias personas a la vez pasen por alto dicho detalle.
+  * potenciar la exhaustividad de los análisis realizados, ya que una persona podría omitir cierto detalle o aspecto de dicho análisis, pero es más complejo que varias personas a la vez pasen por alto dicho detalle.
 
 Para que estas actividades tengan éxito y se realicen de una manera productiva, éstas deben estar correctamente planificadas de manera previa a su ejecución.
 Por tanto, un objetivo transversal a la asignatura de *Ingeniería de Requisitos* es que el alumno aprenda a planificar y ejecutar de manera adecuada dinámicas de grupo. A continuación, describimos los objetivos, actividades y criterios de evaluación con los que se espera el alumno pueda alcanzar dicho objetivo general.
