@@ -28,21 +28,21 @@ La siguiente sección describe las actividades que se deberán realizar para la 
 Actividades
 ============
 
-Para aprender a especificar escenarios que indiquen maneras concretas de satisfacer un requisito funcional, cada estudiante , de manera individual y partiendo del modelo de objetivos creado en la fase anterior del proyecto, deberá:
+Para aprender a especificar escenarios que indiquen maneras concretas de satisfacer un requisito funcional, cada estudiante, de manera individual y partiendo del modelo de objetivos creado en la fase anterior del proyecto, deberá:
 
   #. Especificar como *caso de uso*, una tarea u objetivo de nivel mar del modelo de objetivos. 
   #. Especificar como *historia de usuario* inicial, es decir, incluyendo sólo título y descripción, dos tareas del modelo de objetivos. 
   #. Especificar como *historia de usuario* de manera completa, incluyendo todas las pruebas de aceptación, una tercera tarea del modelo de objetivos.
 
-Para especificar el caso de uso y la historia de usuario se deberán utilizar las plantillas disponibles al final de esta sección. Además, el estudiante deberá crear *mock-ups* de las diferentes interfaces de usuario a utilizar durante la ejecución del caso de uso o d ela historia de usuario. 
+Para especificar el caso de uso y la historia de usuario se deberán utilizar las plantillas disponibles al final de esta sección. Además, el estudiante deberá crear *mock-ups* de las diferentes interfaces de usuario a utilizar durante la ejecución del caso de uso o de la historia de usuario. 
 
 
 .. Para la especificación del caso de uso y las historia de usuario completa, un alumno podrá utilizar una misma tarea del modelo de objetivos. 
 .. De esta forma, el alumno podría rebajar su carga de trabajo, ya que simplemente deberá especificar uno de los dos elementos y, a continuación, transformar dicho elemento al otro formato. No obstante, esta facilidad posee como problema que los errores cometidos en la especificación del escenario aparecerían duplicados en ambas especificaciones, por lo que podrían penalizar doble. Además, en caso de que el caso de uso y la historia de usuario no fuesen consistentes, es decir, hubiese elementos en una representación que no tuviesen su análogo en la otra representación, la calificación global de esta práctica sería de suspenso. 
 
-Las tareas escogidas por cada estudiantes deberán ser distintas entre sí y distintas de las tareas seleccionadas por el resto de sus compañeros de equipo. En caso de no haber tareas suficientes en el modelo de objetivos para todos los miembros del equipo de trabajo, se deberá contactar con el profesor, quien generará nuevas tareas para que haya al menos cuatro tareas diferentes por cada miembro del grupo.
+Las tareas escogidas por cada estudiante deberán ser distintas entre sí y distintas de las tareas seleccionadas por el resto de sus compañeros de equipo. En caso de no haber tareas suficientes en el modelo de objetivos para todos los miembros del equipo de trabajo, se deberá contactar con el profesor, quien generará nuevas tareas para que haya al menos cuatro tareas diferentes por cada miembro del grupo.
 
-Para la realización de los *mock-ups* se podrá hacer uso de cualquier herramienta que el estudiante desee e incluso podrán estar hechos a mano alzada. En cualquier caso, se aconseja que los prototipos realizados no sean muy realistas y tengan la apariencia de bocetos a mano alzada, aún cuando hayan sido realizados mediante herramientas informáticas. La herramienta *`Ninja Mock <>`* es una buena opción para la realización de este tipo de prototipos y ofrece una versión gratuita bastante decente. 
+Para la realización de los *mock-ups* se podrá hacer uso de cualquier herramienta que el estudiante desee e incluso podrán estar hechos a mano alzada. En cualquier caso, se aconseja que los prototipos realizados no sean muy realistas y tengan la apariencia de bocetos a mano alzada, aún cuando hayan sido realizados mediante herramientas informáticas. La herramienta *`Ninja Mock <https://ninjamock.com/>_`* es una buena opción para la realización de este tipo de prototipos y ofrece una versión gratuita bastante decente. 
 
 Para la *especificación de casos de uso* e *historias de usuario* se proporciona:
 
@@ -133,13 +133,11 @@ Para calificar la corrección de la especificación del caso de uso creado por e
 Corrección de las Tarjetas de las Historias de Usuario
 --------------------------------------------------------
 
-De todas las historias de usuario especificadas por un alumno, se calificarán las tarjetas de las tres que este alumno decida. Entre esas tres debe estar la historia de usuario que el alumno haya especificado de manera completa. Los nombres de estas tres historias de usuario se indicarán al final de documento que contenga el caso de uso especificado por el alumno.
-
-Para calificar la corrección de la tarjeta inicial asociada a una historia de usuario  se verificará el grado de satisfacción de los siguientes elementos:
+Esta calificación se corresponde con la corrección de las tres tarjetas de las historias de usuario completadas por cada alumno, es decir, la corrección del título y la descripción de cada historia de usuario. Para ello, se verificará el grado de satisfacción de los siguientes elementos:
 
   #. La historia de usuario tiene un identificador asignado.
-  #. El nombre de la La historia de usuario comienza con un verbo.
-  #. El nombre de la La historia de usuario es significativo de la acción que realiza.
+  #. El nombre de la historia de usuario comienza con un verbo.
+  #. El nombre de la historia de usuario es significativo de la acción que realiza.
   #. La descripción de la historia de usuario sigue el formato ``Yo, como <rol>, quiero <acción> de manera que <objetivo>``.
   #. El rol especificado es correcto.
   #. El rol no es simplemente ``usuario`` en sistemas donde existan usuarios con diferentes tipos de roles.
@@ -150,7 +148,7 @@ Para calificar la corrección de la tarjeta inicial asociada a una historia de u
 Corrección de la Confirmación de la Historia de Usuario
 --------------------------------------------------------
 
-Para calificar la corrección de la tarjeta inicial asociada a una historia de usuario  se verificará el grado de satisfacción de los siguientes elementos:
+Para calificar los criterios de confirmación de la historia de usuario definida por completo por cada alumno, se verificará el grado de satisfacción de los siguientes elementos:
 
   #. Cada prueba de confirmación tiene un título que resume brevemente el propósito de la prueba.
   #. Cada prueba de confirmación está compuesta por un conjunto de pasos de preparación más una serie de verificaciones.
