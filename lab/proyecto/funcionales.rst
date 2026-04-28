@@ -42,7 +42,7 @@ Para especificar el caso de uso y la historia de usuario se deberán utilizar la
 
 Las tareas escogidas por cada estudiante deberán ser distintas entre sí y distintas de las tareas seleccionadas por el resto de sus compañeros de equipo. En caso de no haber tareas suficientes en el modelo de objetivos para todos los miembros del equipo de trabajo, se deberá contactar con el profesor, quien generará nuevas tareas para que haya al menos cuatro tareas diferentes por cada miembro del grupo.
 
-Para la realización de los *mock-ups* se podrá hacer uso de cualquier herramienta que el estudiante desee e incluso podrán estar hechos a mano alzada. En cualquier caso, se aconseja que los prototipos realizados no sean muy realistas y tengan la apariencia de bocetos a mano alzada, aún cuando hayan sido realizados mediante herramientas informáticas. La herramienta *`Ninja Mock <https://ninjamock.com/>_`* es una buena opción para la realización de este tipo de prototipos y ofrece una versión gratuita bastante decente. 
+Para la realización de los *mock-ups* se podrá hacer uso de cualquier herramienta que el estudiante desee e incluso podrán estar hechos a mano alzada. En cualquier caso, se aconseja que los prototipos realizados no sean muy realistas y tengan la apariencia de bocetos a mano alzada, aún cuando hayan sido realizados mediante herramientas informáticas. La herramienta `Ninja Mock <https://ninjamock.com/>`_ es una buena opción para la realización de este tipo de prototipos y ofrece una versión gratuita bastante decente.
 
 Para la *especificación de casos de uso* e *historias de usuario* se proporciona:
 
