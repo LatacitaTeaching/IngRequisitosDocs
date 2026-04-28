@@ -47,19 +47,18 @@ Para la realización de los *mock-ups* se podrá hacer uso de cualquier herramie
 Para la *especificación de casos de uso* e *historias de usuario* se proporciona:
 
   #. :download:`Una plantilla para la especificación de casos de uso <src/funcionales/plantillaCasosDeUso.docx>`
-  #. :download:`Una plantilla para la especificación de casos de uso <src/funcionales/plantillaHistoriaDeUsuario.docx>`
+  #. :download:`Una plantilla para la especificación de casos de uso <src/funcionales/plantillaHistoriasDeUsuario.docx>`
   #. :download:`Ejemplo de especificación de un caso de uso <src/funcionales/ejemploCasoDeUso.pdf>`
   #. :download:`Ejemplo de especificación de una historia de usuario <src/funcionales/ejemploHistoriaDeUsuario.pdf>`
 
 Elementos a Entregar y Aclaraciones
 =======================================
 
-Se deberán entregar para su evaluación los siguientes elementos:
+Cada estudiante deberán entregar para su evaluación los siguientes elementos:
 
-  #. Una plantilla con la especificación completa del caso de uso seleccionado por cada alumno del equipo.
-  #. Un *Product Backlog* completo en *Scrumdesk*, con la especificación inicial como historias de usuario de todas las tareas identificadas en el diagrama de objetivos creado en la fase anterior del proyecto de Ingeniería de Requisitos.
-  #. La especificación completa, incluyendo la definición de las pruebas de aceptación, de una historia de usuario por cada alumno del equipo.
-  #. Una serie de *mock-ups* que especifiquen, a modo de prototipo, las interfaces de usuario que sería necesario implementar para dar soporte al caso de uso especificado por cada alumno.
+  #. Un documento con la especificación completa del caso de uso seleccionado por cada estudiante.
+  #. Un documento con la especificación inicial de dos historias de usuario más la especificación completa de otra historia de usuario.
+  #. Una serie de *mock-ups* que especifiquen, a modo de prototipo, las interfaces de usuario que sería necesario implementar para dar soporte al caso de uso y la historia de usuario especificadas de manera completa.
 
 El conjunto de ficheros resultantes se entregará dentro de las fechas establecidas a través de la plataforma *Moodle* siguiendo las instrucciones en ella proporcionadas. Las entregas fuera de las fechas establecidas o con un formato diferente al solicitado tendrán una calificación de cero. Cada documento se evaluará y calificará conforme a los criterios especificados en la siguiente sección.
 
