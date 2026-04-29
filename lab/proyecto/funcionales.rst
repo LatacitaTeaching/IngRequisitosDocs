@@ -47,7 +47,7 @@ Para la realización de los *mock-ups* se podrá hacer uso de cualquier herramie
 Para la *especificación de casos de uso* e *historias de usuario* se proporciona:
 
   #. :download:`Una plantilla para la especificación de casos de uso <src/funcionales/plantillaCasosDeUso.docx>`
-  #. :download:`Una plantilla para la especificación de casos de uso <src/funcionales/plantillaHistoriasDeUsuario.docx>`
+  #. :download:`Una plantilla para la especificación de historias de usuario <src/funcionales/plantillaHistoriasDeUsuario.docx>`
   #. :download:`Ejemplo de especificación de un caso de uso <src/funcionales/ejemploCasoDeUso.pdf>`
   #. :download:`Ejemplo de especificación de una historia de usuario <src/funcionales/ejemploHistoriaDeUsuario.pdf>`
 
